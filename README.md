@@ -33,10 +33,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">char level seq2seq machine translation on named entities</h3>
+<h3 align="center">char level seq2seq machine translation</h3>
 
   <p align="left">
-    character level machine translation on named entities, using fastapi, spacy, pytorch sequence 2 sequence model and docker
+    character level machine translation, using fastapi, pytorch sequence 2 sequence model and docker
   </p>
   <p align="center">
     <a href="https://github.com/vincentporte/machine_translation_fastapi_pytorch_docker/issues">Report Bug</a>
@@ -89,10 +89,10 @@
 ### Main goals
 
 Use this project to easily setup a machine translation api for authenticated user.
-Get 'normalized' entiites from a raw text (email, files, chatbot conversations): 
+Get 'normalized' entitites from a raw text (email, files, chatbot conversations): 
 1. Add your own translation in database,
-1. Crain your models using your translation pairs
-1. Convert raw entities into actionnable features
+1. Train your models using your translation pairs
+1. Convert entities into actionnable features
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -103,7 +103,6 @@ Get 'normalized' entiites from a raw text (email, files, chatbot conversations):
 * [FastAPI](https://fastapi.tiangolo.com/)
 * [FastAPI users](https://fastapi-users.github.io/)
 * [Pytorch](https://pytorch.org/)
-* [Spacy](https://spacy.io/)
 * [PostgreSQL](https://www.postgresql.org/)
 * [Nginx](https://www.nginx.com/)
 * [Docker](https://www.docker.com/)
@@ -138,7 +137,6 @@ Get 'normalized' entiites from a raw text (email, files, chatbot conversations):
   SECRET_KEY=secret_key_for_users_management
   DATABASE_URL=postgres://db_user:db_pass@db:5432/db_name
   ```
-* Add your own NER model, see [Spacy docs](https://spacy.io/usage/training)
 * Run your containers
   ```sh
   docker-compose up -d;docker-compose logs -f
@@ -150,6 +148,10 @@ Get 'normalized' entiites from a raw text (email, files, chatbot conversations):
 * Add your dataset files and train your own seq2seq model
   ```sh
   docker-compose exec backend python app/services/training.py
+  ```
+  Then update model reference name in main.py with your best saved iterations. See backend/datas/imprimeur/models/seq2seq*.dill.
+  ```python
+  PATH_SEQ2SEQ_MODEL = PATH_SEQ2SEQ.joinpath("seq2seq_imprimerie_brute_imprimerie_normalisee_512_0.001_1641266120_0.00312.dill")
   ```
   * Run tests
   ```sh
@@ -245,58 +247,6 @@ Returns:
     "token_type":"bearer"
 }
 ```
-### Named Entities Recognition
-
-#### Get entities from text
-
-curl -X 'POST' \
-  'http://localhost/ner' \
-  -H 'accept: application/json' \
-  -H 'Authorization: Bearer token' \
-  -H 'Content-Type: application/json' \
-  -d '{
-  "sentence": "un devis pour 500 flyers en quadri r/v, format a4 pour demain svp"
-}'
-
-
-Returns:
-
-```json
-{
-  "entities": [
-    {
-      "text": "500",
-      "entity": "EXEMPLAIRES",
-      "pos": 0,
-      "start": 14,
-      "end": 17
-    },
-    {
-      "text": "flyers",
-      "entity": "PRODUCT",
-      "pos": 1,
-      "start": 18,
-      "end": 24
-    },
-    {
-      "text": "quadri r/v",
-      "entity": "IMPRESSION",
-      "pos": 2,
-      "start": 28,
-      "end": 38
-    },
-    {
-      "text": "format a4",
-      "entity": "FORMAT",
-      "pos": 3,
-      "start": 40,
-      "end": 49
-    }
-  ],
-  "ner": "imprimeur_4.3.20210312124255"
-}
-```
-
 
 ### Translations
 
@@ -341,6 +291,14 @@ Returns:
 }
 ```
 
+#### Train your custom model with provided dataset
+
+```sh
+  docker-compose exec backend python app/services/training.py
+
+```
+Then update model reference name in main.py with your best saved iterations
+
 #### Translate text entities
 
 curl -X 'POST' \
@@ -352,31 +310,19 @@ curl -X 'POST' \
   "entities": [
     {
       "text": "500",
-      "entity": "EXEMPLAIRES",
-      "pos": 0,
-      "start": 14,
-      "end": 17
+      "entity": "EXEMPLAIRES"
     },
     {
       "text": "flyers",
-      "entity": "PRODUCT",
-      "pos": 1,
-      "start": 18,
-      "end": 24
+      "entity": "PRODUCT"
     },
     {
       "text": "quadri r/v",
-      "entity": "IMPRESSION",
-      "pos": 2,
-      "start": 28,
-      "end": 38
+      "entity": "IMPRESSION"
     },
     {
       "text": "format a4",
-      "entity": "FORMAT",
-      "pos": 3,
-      "start": 40,
-      "end": 49
+      "entity": "FORMAT"
     }
   ],
   "model": "imprimeur"
@@ -389,31 +335,19 @@ Returns:
   "entities": [
     {
       "text": "500",
-      "entity": "EXEMPLAIRES",
-      "pos": 0,
-      "start": 14,
-      "end": 17
+      "entity": "EXEMPLAIRES"
     },
     {
       "text": "flyers",
-      "entity": "PRODUCT",
-      "pos": 1,
-      "start": 18,
-      "end": 24
+      "entity": "PRODUCT"
     },
     {
       "text": "recto : quadri, verso : quadri",
-      "entity": "IMPRESSION",
-      "pos": 2,
-      "start": 28,
-      "end": 38
+      "entity": "IMPRESSION"
     },
     {
       "text": "format fini : 210.0 x 297.0 mm",
-      "entity": "FORMAT",
-      "pos": 3,
-      "start": 40,
-      "end": 49
+      "entity": "FORMAT"
     }
   ]
 }
