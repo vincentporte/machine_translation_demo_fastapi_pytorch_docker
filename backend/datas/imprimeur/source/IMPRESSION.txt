@@ -1,0 +1,1093 @@
+IM|recto 1 couleur bleu	recto : 1 couleur
+IM|recto 1 couleur rouge	recto : 1 couleur
+IM|recto 1 couleur rouge 032	recto : 1 couleur
+IM|recto : quadrichromie + 1 couleur	recto : quadri, 1 couleur
+IM|recto : bleu reflex	recto : 1 couleur
+IM|recto : 1 couleur bleu pantone	recto : 1 couleur
+IM|recto : 1 couleur	recto : 1 couleur
+IM|recto: bleu reflex	recto : 1 couleur
+IM|recto: bleu 286	recto : 1 couleur
+IM|recto : bleu 286	recto : 1 couleur
+IM|1 pantone metal + vernis acrylique satin	recto : 1 couleur, vernis
+IM|recto : 1 couleur bleu traitee en benday	recto : 1 couleur
+IM|recto : 1 couleur bleu reflex	recto : 1 couleur
+IM|numerique uv recto : quadri + blanc de soutien personnalisation	recto : quadri, blanc, personnalisation, en numerique
+IM|repiquage 1 couleur recto	recto : 1 couleur
+IM|recto : bleu 279	recto : 1 couleur
+IM|recto: cool grey 10	recto : 1 couleur
+IM|recto : 1 couleur 032	recto : 1 couleur
+IM|impression en 1 couleur pantone recto pantone	recto : 1 couleur
+IM|recto : 1 couleur pms bleuidem f1	recto : 1 couleur
+IM|recto : 1 couleur pms bleu	recto : 1 couleur
+IM|recto : 1 couleur p 348	recto : 1 couleur
+IM|recto : blanc serigraphique	recto : blanc
+IM|recto 1 couleur 1 teinte : bleu 293	recto : 1 couleur
+IM|impression rectro : quadri + blanc de soutien	recto : quadri, blanc
+IM|impression 1 couleur identique sur les 2 feuillets au recto seul	recto : 1 couleur
+IM|recto : 1 couleur 2 numerotations	recto : 1 couleur, numerotation
+IM|1 coul en 2 passes+textes noir+vernis brillant	recto : 1 couleur, noir, vernis
+IM|impression 1 couleur bleu en recto seul	recto : 1 couleur
+IM|recto : 1 couleur blanc	recto : blanc
+IM|recto : 1 couleur rouge 32	recto : 1 couleur
+IM|recto : 1 couleur pms identique cb	recto : 1 couleur
+IM|recto : 1 couleur pms a definir	recto : 1 couleur
+IM|recto : 1 couleur rouge	recto : 1 couleur
+IM|impression recto : 1 couleur pms bleu	recto : 1 couleur
+IM|recto : 1 couleur pms 5767 impression	recto : 1 couleur
+IM|recto : 1 couleur pms 5767	recto : 1 couleur
+IM|recto noir + blanc	recto : noir, blanc
+IM|recto : noir + pantone 806 + blanc de soutien	recto : 1 couleur, noir, blanc
+IM|recto : noir + 1 couleur	recto : 1 couleur, noir
+IM|impression serigraphique recto : noir + 1 couleur	recto : 1 couleur, noir, en serigraphie
+IM|recto : noir + p 144	recto : 1 couleur, noir
+IM|recto : jaune + noir	recto : 1 couleur, noir
+IM|recto : noir + jaune	recto : 1 couleur, noir
+IM|recto : noir + orange du magnetique	recto : 1 couleur, noir
+IM|blanc impression recto noir	recto : noir, blanc
+IM|impression recto 2 couleurs noir et rouge	recto : 1 couleur, noir
+IM|recto : noir + 1 numero	recto : 1 couleur, numerotation
+IM|recto : noir + 1 couleur pantone a confirmer, , faconnage :,	recto : 1 couleur, noir
+IM|recto : noir + blanc de soutien	recto : noir, blanc
+IM|recto : noir + blanc de soutien, ,	recto : noir, blanc
+IM|recto : noir + rouge 485	recto : 1 couleur, noir
+IM|recto : noir + 1 couleur pms	recto : 1 couleur, noir
+IM|recto : noir + pms 2758	recto : 1 couleur, noir
+IM|recto : noir + rouge 186 encre blister	recto : 1 couleur, noir
+IM|recto : noir + rouge 186	recto : 1 couleur, noir
+IM|noir + p 115 recto verso	recto : 1 couleur, noir, verso : 1 couleur, noir
+IM|cf : recto verso noir + numerotation	recto : noir, verso : noir, numerotation
+IM|cfb : recto verso noir + numerotation	recto : noir, verso : noir, numerotation
+IM|noir recto + 1 couleur bleu recto verso	recto : 1 couleur, noir, verso : 1 couleur
+IM|recto verso pelliculage mat recto	recto : pelliculage
+IM|quadri recto + or a chaud	recto : quadri, marquage a chaud
+IM|blanc impression : recto quadri	recto : quadri
+IM|recto : quadri + blanc	recto : quadri, blanc
+IM|recto : quadri + fluo	recto : quadri, 1 couleur
+IM|recto : quadri + 1 couleur orange fluo	recto : quadri, 1 couleur
+IM|recto : quadri + 1 couleurblanc de soutien	recto : quadri, blanc
+IM|recto : quadri + 1 couleur fluo orange	recto : quadri, 1 couleur
+IM|recto : quadri + 1 couleur	recto : quadri, 1 couleur
+IM|impression recto : quadri + blanc de soutien	recto : quadri, blanc
+IM|recto : quadri + blanc de soutien	recto : quadri, blanc
+IM|recto quadri + soutien blanc	recto : quadri, blanc
+IM|recto : quadri + 1 couleur orange fluo, elements fournis : fichier	recto : quadri, 1 couleur
+IM|impression recto verso quadri + pelliculage recto	recto : quadri, pelliculage, verso : quadri
+IM|recto verso quadri + pelliculage recto	recto : quadri, pelliculage, verso : quadri
+IM|recto : quadri + p 258 + vernis acrylique, brillant	recto : quadri, 1 couleur, vernis
+IM|recto : quadri + 1 couleur pantone + vernis	recto : quadri, 1 couleur, vernis
+IM|recto : quadri + pms 382 c + vernis brillant	recto : quadri, 1 couleur, vernis
+IM|recto : quadri + 1 couleur + vernis acrylique mat	recto : quadri, 1 couleur, vernis
+IM|recto : quadri + 1 couleur + vernis acrylique, satin	recto : quadri, 1 couleur, vernis
+IM|impression recto : quadri + p 258 + vernis acrylique, brillant	recto : quadri, 1 couleur, vernis
+IM|impression offset quadri recto verso + 1 pantone 10370c recto verso	recto : quadri, 1 couleur, verso : quadri, 1 couleur, en offset
+IM|1 pantone metal 10245c + vernis acrylique satin recto	recto : 1 couleur, vernis
+IM|recto : 1 couleur + vernis acrylique brillant, selectif a 90.00 %	recto : 1 couleur, vernis
+IM|recto impression black 100% + pantone 429c + vernis acrylique mat	recto : 1 couleur, noir, vernis
+IM|1 couleur recto vernis acrylique recto	recto : 1 couleur, vernis
+IM|recto : 1 couleur + vernis mat	recto : 1 couleur, vernis
+IM|recto : 1 couleur + vernis acrylique brillant	recto : 1 couleur, vernis
+IM|1 pantone 296 vernis acrylique recto verso	recto : 1 couleur, vernis, verso : 1 couleur, vernis
+IM|recto verso q ; vernis acrylique recto verso	recto : quadri vernis, verso : quadri, vernis
+IM|impression 1 coul recto verso	recto : 1 couleur, verso : 1 couleur
+IM|au recto : 1 couleur 10369 au verso : 1 couleur 10369	recto : 1 couleur, verso : 1 couleur
+IM|recto verso , couleur + personnalisation du recto	recto : 1 couleur, personnalisation, verso : 1 couleur
+IM|1 couleur pms recto verso	recto : 1 couleur, verso : 1 couleur
+IM|1 couleur pantone recto verso	recto : 1 couleur, verso : 1 couleur
+IM|1 teinte recto verso	recto : 1 couleur, verso : 1 couleur
+IM|1 couleur recto verso - p 201 c	recto : 1 couleur, verso : 1 couleur
+IM|recto : 2 couleurs pms	recto : 2 couleurs
+IM|satin + soft touch recto	recto : vernis soft touch
+IM|recto : 2 couleurs bleu 286 + orange 021	recto : 2 couleurs
+IM|vert pms 3435 + rouge pms 202	recto : 2 couleurs
+IM|recto : 2 couleurs	recto : 2 couleurs
+IM|recto : 2 couleurs p 301 + p 298	recto : 2 couleurs
+IM|recto : 2 couleurs pantone	recto : 2 couleurs
+IM|recto : jaune + vert 357	recto : 2 couleurs
+IM|impression 2 couleurs recto seul	recto : 2 couleurs
+IM|2 couleurs recto	recto : 2 couleurs
+IM|recto : bleu 287	recto : 1 couleur
+IM|2 couleurs 1noir + p805c recto seul	recto : 2 couleurs, noir
+IM|1 pantone 2 passages + reserves blanches + vernis acrylique mat	recto : 1 couleur, vernis
+IM|recto : 2 couleurs couleur 1 + couleur 2	recto : 2 couleurs
+IM|recto seul mais 2 poses seulement a 30 % pour, le marquage a chaud, car cest un book	recto : marquage
+IM|recto : 2 couleurs p293c + p109c	recto : 2 couleurs
+IM|2 couleurs pms 2935 et 021 recto	recto : 2 couleurs
+IM|recto 2 coul	recto : 2 couleurs
+IM|2 couleurs noire +pantone recto seul	recto : 2 couleurs
+IM|recto : noir + p 542 + p 288 + p 021, + p 424 + v.a.brillant	recto : 4 couleur, noir, vernis
+IM|2 couleurs noir + cyan impression recto seul	recto : 2 couleurs, noir
+IM|recto : noir + jaune + gris	recto : 2 couleurs, noir
+IM|2 couleurs recto et verso noir + pms rouge 185	recto : 2 couleurs, noir, verso : 2 couleurs, noir
+IM|recto 2 couleurs noir + fond gris / verso 2 couleurs noir + rouge	recto : 2 couleurs, noir, verso : 2 couleurs, noir
+IM|2 couleurs pms recto + noir verso	recto : 2 couleurs, verso : noir
+IM|recto : 4 couleurs : quadrichromie	recto : quadri
+IM|impression recto : quadri + cool gray 9 + vernis acrylique, mat	recto : quadri, 1 couleur, vernis
+IM|cuadri + bleu 662c recto verso	recto : quadri, 1 couleur, verso : quadri, 1 couleur
+IM|impression : quadri recto verso + 2 couleurs 10244c /10370crecto verso	recto : quadri, 2 couleurs, verso : quadri, 2 couleurs
+IM|quadri + 2 couleurs recto verso	recto : quadri, 2 couleurs, verso : quadri, 2 couleurs
+IM|impression offset quadri recto verso + 2 pantones 10244c + 10370c recto verso	recto : quadri, 2 couleurs, verso : quadri, 2 couleurs, en offset
+IM|recto : 2 couleurs + vernis acrylique brillant	recto : 2 couleurs, vernis
+IM|recto : 2 couleurs + vernis acrylique mat	recto : 2 couleurs, vernis
+IM|jaune 116 + gris 432 + cyan + vernis machine, mat recto verso	recto : 3 couleurs, vernis, verso : 3 couleurs, vernis
+IM|2 couleurs recto 1 couleur verso	recto : 2 couleurs, verso : 1 couleur
+IM|2 couleurs recto verso	recto : 2 couleurs, verso : 2 couleurs
+IM|recto 2 couleurs / verso 1 couleur	recto : 2 couleurs, verso : 1 couleur
+IM|couleurs et recto verso	recto, verso
+IM|recto : 3 couleurs	recto : 3 couleurs
+IM|3 couleurs recto	recto : 3 couleurs
+IM|recto : noir + 3 verts differents + jaune + bleu	recto : 5 couleurs, noir
+IM|impression recto seul 3 couleurs	recto : 3 couleurs
+IM|impo par 3 recto + 3 verso	recto : 3 couleurs, verso : 3 couleurs
+IM|3 couleurs recto verso	recto : 3 couleurs, verso : 2 couleurs
+IM|4 changements au recto	recto : quadri
+IM|noire recto	recto : noir
+IM|impression recto noir	recto : noir
+IM|recto noir	recto : noir
+IM|1 couleur recto noir	recto : noir, 1 couleur
+IM|chgt complet sur tous les recto verso	recto, verso
+IM|chgt complet sur tous les recto	recto
+IM|noir recto	recto : noir
+IM|recto noir ou blanc en serigraphie	recto : noir, en serigraphie
+IM|1 couleur noir sans oeillet recto	recto : noir, 1 couleur
+IM|recto : noir	recto : noir
+IM|impression noir recto	recto : noir
+IM|recto : noir recto	recto : noir
+IM|recto : noir adresse	recto : noir, personnalisation
+IM|recto : noir + numero	recto : noir, numerotation
+IM|recto : noir +	recto : noir
+IM|impression 1 couleur noir recto	recto : noir, 1 couleur
+IM|recto: 1 couleur noire	recto : noir, 1 couleur
+IM|impression serigraphique recto : noir	recto : noir, en serigraphie
+IM|recto : noir + p279	recto : noir, 1 couleur
+IM|impression recto : noir + p279	recto : noir, 1 couleur
+IM|recto : noir adressage + dispense timbrage	recto : noir, personnalisation
+IM|recto : noir en numerique	recto : noir, en numerique
+IM|recto noire	recto : noir
+IM|impression recto noir sans fenetres	recto : noir
+IM|impression : recto noir	recto : noir
+IM|noir seul ou quadri recto	recto : noir
+IM|recto noire *	recto : noir
+IM|recto 1 couleur noir	recto : noir, 1 couleur
+IM|impr noir recto en serigraphie	recto : noir, en serigraphie
+IM|recto: noir	recto : noir
+IM|recto : noir + p186	recto : 1 couleur, noir
+IM|recto : noir adressage	recto : noir, personnalisation
+IM|impression recto : noir	recto : noir
+IM|impression recto : noir adressage + dispense	recto : noir, personnalisation
+IM|impression : noir recto	recto : noir
+IM|1 couleur noir recto	recto : noir
+IM|1 : noir recto	recto : noir
+IM|1c noir recto	recto : noir
+IM|1 couleur noir recto seul	recto : noir
+IM|recto : quadri + personnalisation	recto : quadri, personnalisation
+IM|impression recto : quadri + personnalisation 1 adresse	recto : quadri, personnalisation
+IM|quadri recto / noir verso pelliculage brillant recto	recto : quadri, pelliculage, verso : noir
+IM|quadri recto noir verso pelliculage satin total recto verso	recto : quadri, pelliculage, verso : noir, pelliculage
+IM|recto : noir + vernis acrylique mat	recto : noir, vernis
+IM|impression recto : noir + vernis uv brillant de protection	recto : noir, vernis uv
+IM|recto : noir + vernis uv brillant de protection	recto : noir, vernis uv
+IM|verso : noir + 1 couleur	verso : 1 couleur, noir
+IM|noir recto verso	recto : noir, verso : noir
+IM|impression noir recto verso	recto : noir, verso : noir
+IM|impression recto verso 2 couleurs noir et bordeaux	recto : 1 couleur, noir, verso : 1 couleur, noir
+IM|impression noir recto et verso	recto : noir, verso : noir
+IM|impression recto verso : noir et bordeaux	recto : 1 couleur, noir, verso : 1 couleur, noir
+IM|impression 1 couleur noir recto verso	recto : noir, verso : noir
+IM|recto : noir + orange 1665 verso noir	recto : 1 couleur, noir, verso : noir
+IM|recto noir / verso noir	recto : noir, verso : noir
+IM|cbcf noir recto verso	recto : noir, verso : noir
+IM|1 couleur noir en recto verso	recto : noir, verso : noir
+IM|recto verso noir	recto : noir, verso : noir
+IM|impression : noir recto verso	recto : noir, verso : noir
+IM|2 : noir recto verso	recto : noir, verso : noir
+IM|pelliculage mat recto sur	recto : pelliculage
+IM|quadrichromie recto + pelliculage brillant recto	recto : quadri, pelliculage
+IM|pelliculage brillant pol recto	recto : pelliculage
+IM|pelliculage brillant recto	recto : pelliculage
+IM|pelliculage brillant recto seul	recto : pelliculage
+IM|pelliculage mat recto seul	recto : pelliculage
+IM|pelliculage satin recto seul	recto : pelliculage
+IM|pelliculage mat sur le recto	recto : pelliculage
+IM|pelliculage brillant polypro recto	recto : pelliculage
+IM|pelliculage satin recto	recto : pelliculage
+IM|pelliculage mat recto,	recto : pelliculage
+IM|pelliculage mat polypro recto	recto : pelliculage
+IM|pelliculage mat polypro antirayures recto	recto : pelliculage
+IM|pelliculage satin polypro recto	recto : pelliculage
+IM|pelliculage satine recto	recto : pelliculage
+IM|pelliculage mat recto	recto : pelliculage
+IM|pelliculage toile recto	recto : pelliculage
+IM|pelliculage recto	recto : pelliculage
+IM|pelliculage non dry mat recto	recto : pelliculage
+IM|pelliculage mat recto +	recto : pelliculage
+IM|pelliculage mat recto rainage	recto : pelliculage
+IM|pelliculage mat total recto seul	recto : pelliculage
+IM|pelliculage recto seul	recto : pelliculage
+IM|pelliculage recto brillant	recto : pelliculage
+IM|pelliculage brillant total recto seul	recto : pelliculage
+IM|pelliculage brillant num recto	recto : pelliculage
+IM|pelliculage mat couv. recto	recto : pelliculage
+IM|pelliculage mat antirayure recto +,	recto : pelliculage
+IM|pelliculage mat recto sur les habillages, , , , ,	recto : pelliculage
+IM|pelliculage mat au recto	recto : pelliculage
+IM|pell mat recto	recto : pelliculage
+IM|pelliculage soft touch recto	recto : pelliculage soft touch
+IM|pelliculage soft touch sur le recto	recto : pelliculage soft touch
+IM|pas pelliculage soft touch recto	recto
+IM|pell soft touch recto	recto : pelliculage soft touch
+IM|recto : quadri pelliculage soft touch recto	recto : quadri, pelliculage soft touch
+IM|pelliculage soft touch recto seul	recto : pelliculage soft touch
+IM|pelliculage soft touch recto verso	recto : pelliculage soft touch, verso : pelliculage soft touch
+IM|pelliculage mat recto impression recto verso	recto : quadri, pelliculage, verso : quadri
+IM|impression recto verso pelliculage mat recto	recto : quadri, pelliculage, verso : quadri
+IM|pelliculage recto verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage brillant recto verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage mat recto et verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage mat recto verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage anti rayure recto verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage satin recto verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage brillant poly recto verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage brillant pol recto verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage mat polypro recto verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage brillant recto et verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage mat antirayure recto verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage brillant polypro recto verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage satin polypro recto verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage satin poly recto verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage mat plypro recto verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage mat total recto verso	recto : pelliculage, verso : pelliculage
+IM|quadri recto + pelli soft touch	recto : quadri, pelliculage soft touch
+IM|quadri recto	recto : quadri
+IM|recto quadri	recto : quadri
+IM|quadri recto,	recto : quadri
+IM|quadri recto seul	recto : quadri
+IM|impression quadri recto	recto : quadri
+IM|recto quadri papier	recto : quadri
+IM|quadri recto voir	recto : quadri
+IM|impression : quadri recto	recto : quadri
+IM|quadri / recto seul	recto : quadri
+IM|recto : quadrichromie	recto : quadri
+IM|recto : 2 couleurs traite quadri	recto : quadri
+IM|impression recto : 2 couleurs traite quadri	recto : quadri
+IM|pelli satin recto	recto : pelliculage
+IM|quadri recto /v	recto : quadri, verso : quadri
+IM|impression : recto quadri	recto : quadri
+IM|pelliculage mat total recto seul	recto : pelliculage
+IM|quadri recto verso + vernis acrylique mat total recto verso	recto : quadri, vernis, verso : quadri, vernis
+IM|verso : quadrichromie	verso : quadri
+IM|pelliculage mat + vernis uv arillant recto 	recto : pelliculage, vernis uv
+IM|recto : quadrichromie	recto : quadri
+IM|limpression recto en quadri	recto : quadri
+IM|impression recto en quadri	recto : quadri
+IM|impression quadri recto	recto : quadri
+IM|pelliculage + vernis uv brillant selectif r/v	recto : pelliculage, vernis uv selectif, verso : pelliculage, vernis uv selectif
+IM|pell mat recto de couv	recto : pelliculage
+IM|pell brillant recto	recto : pelliculage
+IM|quadri recto	recto : quadri
+IM|impression recto quadri	recto : quadri
+IM|vernis uv arillant selectif - 50 % recto seul	recto : vernis uv selectif
+IM| quadri recto verso 	recto : quadri, verso : quadri
+IM|q recto	recto : quadri
+IM|impression recto quadri	recto : quadri
+IM|rdeg quadri / vdeg quadri	recto : quadri, verso : quadri
+IM|quadri recto seul	recto : quadri
+IM| quadri recto verso	recto : quadri, verso : quadri
+IM|pelliculage arillant rdeg seul	recto : pelliculage
+IM|quadri r/v + 1 pantone	recto : quadri, 1 couleur, verso : quadri, 1 couleur
+IM|impression quadri rdeg seul	recto : quadri
+IM|quadri recto vers	recto : quadri, verso : quadri
+IM|recto quadri recto quadri	recto : quadri
+IM|quadri recto format	recto : quadri
+IM| quadri, recto	recto : quadri
+IM|impression recto : quadri	recto : quadri
+IM|recto : quadri	recto : quadri
+IM|impression quadri recto seul	recto : quadri
+IM|impression quadri recto format	recto : quadri
+IM|imprimees quadr recto seul	recto : quadri
+IM|impression recto seul quadri	recto : quadri
+IM|impression en quadri recto seul	recto : quadri
+IM|recto quadri recto	recto : quadri
+IM|quadri recto =	recto : quadri
+IM|pelliculee mat sur le recto	recto : pelliculage
+IM|quadri recto seulement	recto : quadri
+IM|quadri recto *	recto : quadri
+IM|impression quadri recto seul	recto : quadri
+IM|quadri recto sur	recto : quadri
+IM|quadri, , recto	recto : quadri
+IM|quadri recto + lamination	recto : quadri, pelliculage
+IM|recto : quadri + pellicuage mat	recto : quadri, pelliculage
+IM|recto : adressage	recto : personnalisation
+IM|recto : p.2757 + p.186 + p.195	recto : 3 couleurs
+IM|impression quadri recto,	recto : quadri
+IM|numerique en quadri recto seul	recto : quadri
+IM|quadri recto +	recto : quadri
+IM|quadri recto pour	recto : quadri
+IM|recto : quadri +	recto : quadri
+IM|recto: quadri	recto : quadri
+IM|quadri recto, , + dorure a chaud recto 2 couleursidem couverture brochure	recto : quadri, 2 couleurs, marquage a chaud
+IM|recto seul : quadri	recto : quadri
+IM|impression en quadri recto	recto : quadri
+IM|recto : quadri numerique	recto : quadri, en numerique
+IM|impression quadri recto sans fonds perdus	recto : quadri
+IM|recto :quadri + lamination	recto : quadri, pelliculage
+IM|recto : 2 couleurs traite en quadri	recto : quadri
+IM|recto, quadri	recto : quadri
+IM|pelli recto mat	recto : pelliculage
+IM|pelli brillant recto	recto : pelliculage
+IM|impression : quadri, recto seul	recto : quadri
+IM|quadri recto ou 2 pantones 302c + 186c	recto : quadri
+IM|recto seul quadri	recto : quadri
+IM|quadri recto + pelli mat	recto : quadri, pelliculage
+IM|impression recto, quadri	recto : quadri
+IM|quadri, recto seul	recto : quadri
+IM|impression numerique recto, : quadri	recto : quadri, en numerique
+IM|impression offset recto : quadri	recto : quadri, en offset
+IM|arquage a chaud or pastille diametre 15mm	recto : marquage a chaud
+IM|quadri recto faconnage	recto : quadri
+IM|quadri recto 100	recto : quadri
+IM|quadri recto couche satin	recto : quadri
+IM|pell mat recto	recto : pelliculage
+IM|impression : quadri + vernis acrylique satin recto/verso	recto : quadri, vernis, verso : quadri, vernis
+IM|impression : quadri recto seul	recto : quadri
+IM|recto quadri + dorure	recto : quadri, marquage a chaud
+IM|numerique quadri recto	recto : quadri, en numerique
+IM|impression recto seul : 3couleurs	recto : 3 couleurs
+IM|impression recto, impression haute resolution pellicillage brillant au recto	recto : pelliculage
+IM|quadri recto uniquement	recto : quadri
+IM|recto : quadri + *	recto : quadri
+IM|impression : quadri recto + lamination effacable a sec	recto : quadri, pelliculage
+IM|impression : p165 + p4975 recto verso	recto : 2 couleurs, verso : 2 couleurs
+IM|recto : quadri + adressage	recto : quadri, personnalisation
+IM|recto : quadri recto	recto : quadri
+IM|recto quadri + soutien balnc	recto : quadri, blanc
+IM|pel mat sur le recto	recto : pelliculage
+IM|3 : quadri recto	recto : quadri
+IM|pelliculage recto soft touch impression quadri recto	recto : quadri, pelliculage soft touch
+IM|impression quadri recto + lamination	recto : quadri, pelliculage
+IM|pellicule satin recto des feuillets	recto : pelliculage
+IM|couleurs : quadri , recto seul	recto : quadri
+IM|impression quadri recto + pelli mat	recto : quadri, pelliculage
+IM|quadri recto seul + pelliculage mat	recto : quadri, pelliculage
+IM|quadri recto seul pelliculage mat polypro recto seul	recto : quadri, pelliculage
+IM|quadri + pelliculage mat recto	recto : quadri, pelliculage
+IM|recto : quadri + pelliculage brillant recto	recto : quadri, pelliculage
+IM|recto : quadri + pelliculage mat polypro antirayures	recto : quadri, pelliculage
+IM|recto : quadri + pelliculage brillant polypro	recto : quadri, pelliculage
+IM|recto : quadri + pelliculage brillant 2 depliants	recto : quadri, pelliculage
+IM|recto : quadri + pelliculage brillant,	recto : quadri, pelliculage
+IM|recto : quadri + pelliculage satin,	recto : quadri, pelliculage
+IM|recto : quadri + pelliculage satin	recto : quadri, pelliculage
+IM|recto : quadri + pelliculage brillant	recto : quadri, pelliculage
+IM|recto : quadri + pelliculage satin recto	recto : quadri, pelliculage
+IM|recto : quadri + pelliculage brillant pol recto	recto : quadri, pelliculage
+IM|impression quadri recto seul+ pelliculage mat recto seul	recto : quadri, pelliculage
+IM|recto : quadri + pelliculage soft touch	recto : quadri, pelliculage soft touch
+IM|recto : quadri + pelliculage soft touch recto	recto : quadri, pelliculage soft touch
+IM|quadri + lamination recto verso recto verso	recto : quadri, pelliculage, verso : quadri, pelliculage
+IM|impression quadri recto verso pelliculage mat soft touch recto	recto : quadri, pelliculage soft touch, verso : quadri
+IM|recto verso : quadri + pelliculage soft touch recto verso	recto : quadri, pelliculage soft touch, verso : quadri, pelliculage soft touch
+IM|pelliculage total soft touch recto verso	recto : pelliculage soft touch, verso : pelliculage soft touch
+IM|pel mat recto verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage brillant num recto verso	recto : pelliculage, verso : pelliculage
+IM|quadri recto verso pelliculage mat total recto seul	recto : quadri, pelliculage, verso : quadri
+IM|quadri + pelliculage brillant recto verso	recto : quadri, pelliculage, verso : quadri, pelliculage
+IM|quadri recto verso + pelliculage brillant	recto : quadri, pelliculage, verso : quadri, pelliculage
+IM|pelliculage brillant recto verso impression recto verso quadri	recto : quadri, pelliculage, verso : quadri, pelliculage
+IM|impression : quadri recto verso + pelliculage mat recto	recto : quadri, pelliculage, verso : quadri
+IM|pelliculage recto seul quadri recto verso	recto : quadri, pelliculage, verso : quadri
+IM|pelliculage brillant recto seul quadri recto verso	recto : quadri, pelliculage, verso : quadri
+IM|quadri + lamination uv recto	recto : quadri, pelliculage uv
+IM|quadri + lamination recto recto	recto : quadri, pelliculage
+IM|recto : quadri + lamination uv	recto : quadri, pelliculage uv
+IM|impression recto : p1355 + p8002 vernis mat	recto : 2 couleurs, vernis
+IM|recto : quadri + vernis brillant	recto : quadri, vernis
+IM|recto : quadri + vernis acrylique satin	recto : quadri, vernis
+IM|recto : quadri + vernis acrylique brillant encre alimentaire	recto : quadri, vernis
+IM|quadri + vernis acrylique satin recto	recto : quadri, vernis
+IM|recto : quadri + vernis acrylique soft touch	recto : quadri, vernis soft touch
+IM|quadri recto + bande fluo pas de vernis, acrylique	recto : quadri, 1 couleur
+IM|recto : quadri + vernis acrylique brillant	recto : quadri, vernis
+IM|recto : quadri + vernis acylique mat	recto : quadri, vernis
+IM|recto: quadri + vernis acrylique brillant	recto : quadri, vernis
+IM|recto : quadri + vernis acrylique brillant avec, reserves, 4 changements au recto	recto : quadri, vernis
+IM|quadri recto seul + vernis	recto : quadri, vernis
+IM|impression quadri recto + vernis	recto : quadri, vernis
+IM|impression quadri recto + vernis mat de protection papier couche demi mat	recto : quadri, vernis
+IM|recto : quadri + vernis acrylique brillant avec, reserve	recto : quadri, vernis
+IM|recto : quadri + vernis serigraphie	recto : quadri, vernis, en serigraphie
+IM|recto : quadri + vernis acrylique satine	recto : quadri, vernis
+IM|recto : quadri + vernis acrylique mat	recto : quadri, vernis
+IM|quadri recto seul + vernis relief	recto : quadri, vernis relief
+IM|quadri + vernis acrylique recto	recto : quadri, vernis
+IM|pelli recto + vernis uv selectif 10% recto	recto : pelliculage, vernis uv selectif
+IM|recto : quadri + vernis acrylique satin selectif	recto : quadri, vernis selectif
+IM|recto : quadri + vernis acrylique brillant, selectif a 90.00 %	recto : quadri, vernis selectif
+IM|impression recto : quadri + vernis acrylique brillant, selectif a 90.00 %	recto : quadri, vernis selectif
+IM|recto : quadri vernis uv brillant selectif 1 face	recto : quadri, vernis selectif uv
+IM|quadri recto numerique + vernis uv bt	recto : quadri, vernis uv, en numerique
+IM|quadri + 1pms+acrylique recto +pelliculage mat acetate+ uv selectif brillant	recto : quadri, 1 couleur, pelliculage, vernis uv selectif
+IM|/ quadri recto verso pelliculage mat r et v + vernis uv selectif brillant recto	recto : quadri, vernis uv selectif, pelliculage, verso : quadri, pelliculage
+IM|impression : quadri recto verso, pelliculage mat polypro recto + vernis uv brillant selectif, recto	recto : quadri, vernis uv selectif, pelliculage, verso : quadri
+IM|impression : quadri recto verso vernis uv brillant selectif 1 face	recto : quadri, vernis uv selectif, verso : quadri
+IM|impression : quadri r/v + pelliculage soft touch recto + vernis selectif sur logo recto	recto : quadri, pelliculage soft touch, vernis uv selectif, verso : quadri
+IM|quadri + vernis uv brillant recto verso	recto : quadri, vernis uv, verso : quadri, vernis uv
+IM|impression : quadri recto verso + va	recto : quadri, vernis, verso : quadri, vernis
+IM|impression : quadri recto verso + v.a	recto : quadri, vernis, verso : quadri, vernis
+IM|quadri recto verso + vernis acrylique	recto : quadri, vernis, verso : quadri, vernis
+IM|impression quadri recto verso + vernis acrylique satin	recto : quadri, vernis, verso : quadri, vernis
+IM|quadri recto verso + vernis acrylique brillant	recto : quadri, vernis, verso : quadri, vernis
+IM|impression quadri recto verso + vernis braille recto verso vernis braille different entre le recto et le verso	recto : quadri, vernis, verso : quadri, vernis
+IM|impression quadri recto verso + vernis acrylique	recto : quadri, vernis, verso : quadri, vernis
+IM|quadri recto verso + vernis brillant	recto : quadri, vernis, verso : quadri, vernis
+IM|quadri + vernis acrylique satin recto verso	recto : quadri, vernis, verso : quadri, vernis
+IM|impression : quadri recto verso + vernis acrylique	recto : quadri, vernis, verso : quadri, vernis
+IM|quadri + vernis acrylique mat recto verso	recto : quadri, vernis, verso : quadri, vernis
+IM|impression : quadri recto verso + vernis acrylique satin	recto : quadri, vernis, verso : quadri, vernis
+IM|impression : quadri recto verso + vernis acrylque brillant	recto : quadri, vernis, verso : quadri, vernis
+IM|impression : quadri recto verso + vernis acrylique brillant	recto : quadri, vernis, verso : quadri, vernis
+IM|quadri + vernis acrylique brillant recto verso	recto : quadri, vernis, verso : quadri, vernis
+IM|quadri + vernis acrylique soft touch recto verso	recto : quadri, vernis soft touch, verso : quadri, vernis soft touch
+IM|impression : quadri recto verso + vernis acrylqiue satin, recto et verso	recto : quadri, vernis, verso : quadri, vernis
+IM|impression : quadri recto verso + vernis acrylique satin, avec reserve tampon	recto : quadri, vernis, verso : quadri, vernis
+IM|impression : quadri recto verso + vernis acrylique satin, recto et verso	recto : quadri, vernis, verso : quadri, vernis
+IM|quadri recto verso avec vernis acrylique mat	recto : quadri, vernis, verso : quadri, vernis
+IM|impression : quadri + vernis acrylique satin recto verso	recto : quadri, vernis, verso : quadri, vernis
+IM|recto quadri / verso quadri finition vernis semi mat recto verso	recto : quadri, vernis, verso : quadri, vernis
+IM|recto verso : quadri + vernis acrylique mat	recto : quadri, vernis, verso : quadri, vernis
+IM|impression en quadri recto verso + vernis acrylique	recto : quadri, vernis, verso : quadri, vernis
+IM|pelli soft touch recto verso	recto : pelliculage soft touch, verso : pelliculage soft touch
+IM|impression quadri + lamination recto verso recto verso	recto : quadri, pelliculage, verso : pelliculage
+IM|quadri rdeg + noir verso	recto : quadri, verso : noir
+IM|recto : quadri impression verso : noir	recto : quadri, verso : noir
+IM|recto quadri / verso noir	recto : quadri, verso : noir
+IM|impression : quadri recto verso noir	recto : quadri, verso : noir
+IM|impression : quadri recto verso + 1 couleur recto verso	recto : quadri, 1 couleur, verso : quadri, 1 couleur
+IM|impression : quadri recto verso + personalisation au noir	recto : quadri
+IM|cb : recto quadri verso noir + numerotation	recto : quadri, verso : noir, numerotation
+IM|quadri recto / noir verso	recto : quadri, verso : noir
+IM|impression : quadrichromie recto verso	recto : quadri, verso : quadri
+IM|recto quadri / verso noir cartons	recto : quadri, verso : noir
+IM|quadri recto noir verso	recto : quadri, verso : noir
+IM|recto : quadri + impression verso : noir faconnage	recto : quadri, verso : noir
+IM|impression : quadri recto et noir verso	recto : quadri, verso : noir
+IM|impression : quadri recto verso + 1 couleur recto verso, 8021c	recto : quadri, 1 couleur, verso : quadri, 1 couleur
+IM|impression quadri recto et noir verso	recto : quadri, verso : noir
+IM|recto quadri / verso quadri	recto : quadri, verso : quadri
+IM|quadri recto verso	recto : quadri, verso : quadri
+IM|impression quadri recto verso	recto : quadri, verso : quadri
+IM|quadri recto /verso	recto : quadri, verso : quadri
+IM|impression : quadri recto verso	recto : quadri, verso : quadri
+IM|recto verso quadri	recto : quadri, verso : quadri
+IM|recto marquage a chaud cuivre verso quadri	recto : marquage, verso : quadri
+IM|fini quadri recto verso	recto : quadri, verso : quadri
+IM|recto verso : quadri	recto : quadri, verso : quadri
+IM|impression recto verso : quadri	recto : quadri, verso : quadri
+IM|impression recto verso quadri	recto : quadri, verso : quadri
+IM|recto verso imprimes quadri	recto : quadri, verso : quadri
+IM|quadri recto verso	recto : quadri, verso : quadri
+IM|tout quadri recto verso	recto : quadri, verso : quadri
+IM|impression : recto verso quadri	recto : quadri, verso : quadri
+IM|impr. quadri recto verso	recto : quadri, verso : quadri
+IM|recto verso quadri	recto : quadri, verso : quadri
+IM|impression : quadri recto verso	recto : quadri, verso : quadri
+IM|quadri recto verso pelliculage total soft touch recto verso	recto : quadri, pelliculage soft touch, verso : quadri, pelliculage soft touch
+IM| impression quadri recto verso	recto : quadri, verso : quadri
+IM|noir + marquage a chaud or recto verso	recto : noir, marquage, verso : noir, marquage
+IM|quadri recto verso 	recto : quadri, verso : quadri
+IM|recto verso impression quadri	recto : quadri, verso : quadri
+IM|impression quadri recto et verso	recto : quadri, verso : quadri
+IM|limpression quadri recto verso	recto : quadri, verso : quadri
+IM|impression en quadri recto /verso	recto : quadri, verso : quadri
+IM|recto quadri recto /verso	recto : quadri, verso : quadri
+IM|impression : recto verso quadri	recto : quadri, verso : quadri
+IM| impression : recto verso quadri	recto : quadri, verso : quadri
+IM|quadri recto et verso	recto : quadri, verso : quadri
+IM|impresion : quadri recto verso	recto : quadri, verso : quadri
+IM|numerique : quadri recto verso	recto : quadri, verso : quadri
+IM|p165 + p4975 recto verso	recto : 2 couleurs, verso : 2 couleurs
+IM|impression : qaudri recto verso	recto : quadri, verso : quadri
+IM|q recto verso	recto : quadri, verso : quadri
+IM|recto et verso : quadri	recto : quadri, verso : quadri
+IM|impression : quadri recto verso encres vegetales	recto : quadri, verso : quadri
+IM|quadri : recto verso	recto : quadri, verso : quadri
+IM|impression quadri recto verso + pantone 8021c	recto : quadri, 1 couleur, verso : quadri, 1 couleur
+IM|interieur quadri recto verso	recto : quadri, verso : quadri
+IM|pelliculage mat impression quadri recto verso	recto : quadri, pelliculage, verso : quadri, pelliculage
+IM|imp quadri recto verso	recto : quadri, verso : quadri
+IM|impression : feuillet recto verso quadri	recto : quadri, verso : quadri
+IM|imprime quadri recto verso	recto : quadri, verso : quadri
+IM|impression quadri recto et verso encre a gratter recto seul	recto : quadri, encre a gratter, verso : quadri
+IM|impression quadri recto verso identique	recto : quadri, verso : quadri
+IM|quadri, recto verso	recto : quadri, verso : quadri
+IM|quadri recto verso	recto : quadri, verso : quadri
+IM|impr. quadri recto verso	recto : quadri, verso : quadri
+IM|mpression recto verso quadri	recto : quadri, verso : quadri
+IM|pelli satin recto verso	recto : pelliculage, verso : pelliculage
+IM|marquage en quadri recto verso	recto : marquage, verso : marquage
+IM|impression quadrichromie recto verso	recto : quadri, verso : quadri
+IM|impression quadri recto verso qaudri	recto : quadri, verso : quadri
+IM|impression : quadri recto verso chgt quadri recto verso	recto : quadri, verso : quadri
+IM|recto verso: quadri	recto : quadri, verso : quadri
+IM|recto verso: quadri numerique	recto : quadri, verso : quadri, en numerique
+IM|impression : quadri recto et verso	recto : quadri, verso : quadri
+IM|impression : quadri recto verso avec blanc de soutien	recto : quadri, blanc, verso : quadri, blanc
+IM|impression quadri recto verso avec acrylique	recto : quadri, vernis, verso : quadri, vernis
+IM|quadri et acrylique recto verso	recto : quadri, vernis, verso : quadri, vernis
+IM|4 : quadri recto verso	recto : quadri, verso : quadri
+IM|quadri recto verso couleur	recto : quadri, verso : quadri
+IM|interieur : quadri recto verso	recto : quadri, verso : quadri
+IM|impression en quadri recto verso	recto : quadri, verso : quadri
+IM|impression quadri recto + verso	recto : quadri, verso : quadri
+IM|quadri recto + verso	recto : quadri, verso : quadri
+IM|pelliculage soft touch mat recto interieur quadri recto verso	recto : quadri, pelliculage soft touch, verso : quadri
+IM|pelli brillant recto verso	recto : pelliculage, verso : pelliculage
+IM|aplat rouge 2passes + vernis satine	recto : 1 couleur, vernis
+IM|vernis acrylique satin recto	recto : vernis
+IM|impression 4/4 + vernis acrylique brillant	recto : quadri, vernis, verso : quadri, vernis
+IM|vernis acrylique recto seul	recto : vernis
+IM|vernis acrylique brillant au recto avec reserve	recto : vernis
+IM|impression recto verso , vernis mat	recto : quadri, vernis, verso : quadri, vernis
+IM|vernis selectif recto seul	recto : vernis selectif
+IM|vernis selectif sur le recto	recto : vernis selectif
+IM|vernis uv selectif 10% recto	recto : vernis uv selectif
+IM|vernis machine recto seul	recto : vernis selectif
+IM|selectif recto	recto : vernis selectif
+IM|vernis selectif en recto	recto : vernis selectif
+IM|selectif recto seul	recto : vernis selectif
+IM|vernis selectif 3d relief recto	recto : vernis selectif relief
+IM|recto verso + vernis uv sel relief de 50% recto	recto : vernis uv selectif relief
+IM|vernis uv brillant selectif recto seul	recto : vernis uv selectif
+IM|vernis uv bril selec moins de 50% recto	recto : vernis uv selectif
+IM|vernis uv selectif recto 50%	recto : vernis uv selectif
+IM|vernis uv selectif brillant recto	recto : vernis uv selectif
+IM|vernis uv brillant relief selectif recto	recto : vernis uv selectif
+IM|vernis uv reserve recto	recto : vernis uv selectif
+IM|vernis uv brillant selectif moins de 50% recto	recto : vernis uv selectif
+IM|vernis uv selectif recto	recto : vernis uv selectif
+IM|pelliculage mat recto vernis uv selectif recto	recto : pelliculage, vernis uv selectif
+IM|pell mat rv + vernis uv selectif recto	recto : pelliculage, vernis uv selectif, verso : pelliculage
+IM|pelliculage mat recto + uv selectif brillant	recto : pelliculage, vernis uv selectif
+IM|pelliculage soft touch + uv brillant selectif recto	recto : pelliculage soft touch, vernis uv selectif
+IM|pelliculage soft touch + vernis uv selectif recto	recto : pelliculage soft touch, vernis uv selectif
+IM|pelliculage mat polypro recto verso vernis uv bril selec moins de 50% recto	recto : pelliculage, vernis uv selectif, verso : pelliculage
+IM|pelliculage mat total recto verso vernis uv selectif < 50 % recto verso	recto : pelliculage, vernis uv selectif, verso : pelliculage, vernis uv selectif
+IM|vernis uv recto verso	recto : vernis uv, verso : vernis uv
+IM|vernis uv bril selec moins de 50% recto verso	recto : vernis uv selectif, verso : vernis uv selectif
+IM|vernis uv brillant selectif recto et verso	recto : vernis uv selectif, verso : vernis uv selectif
+IM|vernis uv brillant selectif - 50 % recto verso	recto : vernis uv selectif, verso : vernis uv selectif
+IM|vernis uv selectif brillant - 50 % recto verso	recto : vernis uv selectif, verso : vernis uv selectif
+IM|vernis selectif uv brillant sur 30% de la surface au recto et verso	recto : vernis uv selectif, verso : vernis uv selectif
+IM|pelliculage mat polypro recto + vernis selectif recto	recto : pelliculage, vernis selectif
+IM|pelliculage mat et vernis selectif recto	recto : pelliculage, vernis selectif
+IM|pelliculage mat recto + vernis selectif brillant sur recto	recto : pelliculage, vernis selectif
+IM|pelliculage mat recto verso + vernis uv selectif brillant < de 50%	recto : pelliculage, vernis uv selectif, verso : pelliculage, vernis uv selectif
+IM|pelliculage mat recto verso + vernis uv selectif brillant < de 50% recto verso	recto : pelliculage, vernis uv selectif, verso : pelliculage, vernis uv selectif
+IM|recto verso avec vernis selectif	recto : vernis selectif, verso : vernis selectif
+IM|vernis selectif brillant recto verso de 30%	recto : vernis selectif, verso : vernis selectif
+IM|vernis selectif brillant recto verso	recto : vernis selectif, verso : vernis selectif
+IM|vernis mat + vernis numerique selectif brillant recto verso	recto : vernis selectif, verso : vernis selectif
+IM|vernis uv relief recto	recto : vernis uv relief
+IM|vernis total uv brillant au recto	recto : vernis uv
+IM|vernis uv brillant recto verso	recto : vernis uv, verso : vernis uv
+IM|vernis acrylique recto verso	recto : vernis, verso : vernis
+IM|vernis acrylique satin recto verso	recto : vernis, verso : vernis
+IM|verso : quadri + vernis acrylique satin	verso : quadri, vernis
+IM|vernis acrylique brillant recto verso	recto : vernis, verso : vernis
+IM|vernis recto verso	recto : vernis, verso : vernis
+IM|1 couleur verso	verso : 1 couleur
+IM|impression couleur en recto verso	recto : quadri, verso : quadri
+IM|impression couleur recto verso	recto : quadri, verso : quadri
+IM|1 couleur bleue recto verso	recto : 1 couleur, verso : 1 couleur
+IM|5 eme couleur recto verso	recto : quadri, 1 couleur, verso : quadri, 1 couleur
+IM|1 couleur recto verso verte	recto : 1 couleur, verso : 1 couleur
+IM|1 couleur recto verso	recto : 1 couleur, verso : 1 couleur
+IM|verso : jaune, magenta, cyan	verso : 3 couleurs
+IM|verso : 1 couleur, black + pantone 429 c	verso : 3 couleurs
+IM|verso : 1 couleur p293c	verso : 1 couleur
+IM|verso : 1 couleur + vernis acrylique satin	verso : 1 couleur, vernis
+IM|couleur recto verso	recto : quadri, verso : quadri
+IM|verso blanc	verso : blanc
+IM|verso : noir	verso : noir
+IM|changement de plaque noir au verso	verso : noir
+IM|impression recto verso fond orange texte noir	recto : 1 couleur, noir, verso : 1 couleur, noir
+IM|noir verso	verso : noir
+IM|verso noir	verso : noir
+IM|verso : gris + noir	verso : 1 couleur, noir
+IM|verso mat	verso : vernis
+IM|sans pelliculage au verso	verso
+IM|brillant total recto verso	recto : vernis, verso : vernis
+IM|pelliculage mat polypro verso	verso : pelliculage
+IM|vernis recto et verso	recto : vernis, verso : vernis
+IM|vernis machine recto verso	recto : vernis, verso : vernis
+IM|pelliculage recto.verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage mat.recto verso	recto : pelliculage, verso : pelliculage
+IM|quadri verso 	verso : quadri
+IM|quadri verso	verso : quadri
+IM|impression verso : quadri	verso : quadri
+IM|3 changements quadri pour les verso	verso : quadri
+IM|verso : quadri	verso : quadri
+IM|verso quadri	verso : quadri
+IM|impression quadri rect verso	recto : quadri, verso : quadri
+IM|verso impression black + pelliculage apte contact alimentaire	verso : noir, pelliculage
+IM|un changement quadri verso	verso : quadri
+IM|verso : quadri + vernis acrylique satin selectif	verso : quadri, vernis selectif relief
+IM|recto verso	recto, verso
+IM|lamination	pelliculage
+IM|sans impression	sans impression
+IM|impression quadri	quadri
+IM|dorure a chaud 3d	marquage a chaud
+IM|impression recto verso	recto : quadri, verso : quadri
+IM|pellicullage or	pelliculage
+IM|vernis acrylique brillant dessus	recto : vernis
+IM|2 couleurs	2 couleurs
+IM|vernis	vernis
+IM|recto seul	recto
+IM|offset	en offset
+IM|numerique	en numerique
+IM|quadri	quadri
+IM|verso	verso
+IM|0/4	verso : quadri
+IM|brillant	vernis
+IM|quadri r/v	recto : quadri, verso : quadri
+IM|vernis 3d sur le recto	recto : vernis relief
+IM|marquage a chaud	marquage
+IM|interieur sans impression	sans impression
+IM|tout quadri + pelli soft touch	recto : quadri, pelliculage soft touch, verso : quadri
+IM|recto	recto
+IM|vernis 3d	vernis relief
+IM|quadri + pelli soft touch	quadri, pelliculage soft touch
+IM|noir r/v	recto : noir, verso : noir
+IM|pelliculage mat / brillant / soft touch	pelliculage soft touch
+IM|pelliculage mat	pelliculage
+IM|dorure	marquage a chaud
+IM|dorure a chaud au recto	recto : marquage a chaud
+IM|repiquage sur 1 cote	personnalisation
+IM|repiquage sur le dessus	recto : personnalisation
+IM|impression noir	noir
+IM|pas dimpression a linterieur	sans impression
+IM|vernis selectif	vernis selectif
+IM|noir et blanc	noir, blanc
+IM|pelliculage rdegvdeg mat	recto : pelliculage, verso : pelliculage
+IM|pelliculage recto verso mat	recto : pelliculage, verso : pelliculage
+IM|pelliculage r/v	recto : pelliculage, verso : pelliculage
+IM|pell recto verso	recto : pelliculage, verso : pelliculage
+IM|pell r/v	recto : pelliculage, verso : pelliculage
+IM| quadri rdegvdeg	recto : quadri, verso : quadri
+IM|noire	noir
+IM|noir + selectif uv page 1 et 4 et noir	recto : noir, vernis uv selectif
+IM|marquage a chaud rouge audii sport au recto et marquage a chaud argente au verso	recto : marquage, verso : marquage
+IM|pelliculage soft touch au lieu du mat	pelliculage soft touch
+IM|pelliculage et vernis selectif	pelliculage, vernis selectif
+IM|impression en serigraphie	en serigraphie
+IM|impression quadri rdeg/vdeg pelli demi mat	recto : quadri, pelliculage, verso : quadri, pelliculage
+IM|sans pelliculage	 
+IM|quadri page 4 vierge avec	quadri
+IM|quadri plus pelliculage brillant	quadri, pelliculage
+IM|pelliculage mat 	pelliculage
+IM|serigraphie 1 couleur noir	noir, en serigraphie
+IM|rdeg quadri / vdeg quadri	recto : quadri, verso : quadri
+IM|soft touch	pelliculage soft touch
+IM|rdegvdeg quadri + 1 pms fluo	recto : quadri, 1 couleur, verso : quadri, 1 couleur
+IM|rv 4/4	recto : quadri, verso : quadri
+IM|quadri + vernis brillant	quadri, vernis
+IM|verso commun	verso
+IM|impression 4/4	recto : quadri, verso : quadri
+IM|rdeg quadri / vdeg 1 couleur gris	recto : quadri, verso : 1 couleur
+IM|marquage	marquage
+IM|rdegvdeg quadri	recto : quadri, verso : quadri
+IM|pelliculage satin	pelliculage
+IM|pelliculage mat sur toute la	pelliculage
+IM|verso : quadrichromie	verso : quadri
+IM| avec pelliculage satin	pelliculage
+IM|pelliculage	pelliculage
+IM|couleur	quadri
+IM| impression noire	noir
+IM|quadri couche brillant pefc	quadri
+IM|pelliculage mat rv	recto : pelliculage, verso : pelliculage
+IM|quadri rv	recto : quadri, verso : quadri
+IM|quadri couche satin	quadri
+IM|impression recto	recto
+IM|marquage or foilco6629 1 face	marquage
+IM|quadri r/v _	recto : quadri, verso : quadri
+IM|pelliculage brillant r/v	recto : pelliculage, verso : pelliculage
+IM|quadri r seul	recto : quadri
+IM|impression : quadri r/v	recto : quadri, verso : quadri
+IM|impression : quadri r seul + pelliculage brillant r/v	recto : quadri, pelliculage, verso : pelliculage
+IM|impression quadri rv	recto : quadri, verso : quadri
+IM|marquage a chaud or	marquage
+IM|quadri rdeg vdeg	recto : quadri, verso : quadri
+IM|traitement anti uv	vernis uv
+IM|rdeg seul	recto
+IM|pelliculage mat polypro rdeg	recto : pelliculage
+IM|impression en quadri rdeg/vdeg	recto : quadri, verso : quadri
+IM|qirdegvdeg	recto : quadri, verso : quadri
+IM|2 couleurs dimpression serigraphie	2 couleurs, en serigraphie
+IM| recto : quadrichromie	recto : quadri
+IM|impression 4/0 + pelliculage mat	recto : quadri, pelliculage
+IM|imprimer en numerique	en numerique
+IM|impression quadri	quadri
+IM|pelliculage sur couv	pelliculage
+IM|quadri rv	recto : quadri, verso : quadri
+IM|retirage sans modif	 
+IM|2 couleurs orange et noir	2 couleurs, noir
+IM|impression serigraphie	en serigraphie
+IM|impression quadri pelliculage brillant	quadri, pelliculage
+IM|en offset	en offset
+IM|en numerique	en numerique
+IM|impression en quadri rdeg/vdeg	recto : quadri, verso : quadri
+IM|impression qdegrdeg seul	recto : quadri
+IM|vernis semi mat	vernis
+IM|recto seul quadri	recto : quadri
+IM|rdegvdeg quadri	recto : quadri, verso : quadri
+IM|4/0	recto : quadri
+IM|quadri ou sans impression	quadri
+IM|quadri rv	recto : quadri, verso : quadri
+IM|quadri + 1 pantone	quadri, 1 couleur
+IM|r/v	recto, verso
+IM|encre uv	encre uv
+IM|1 couleur	1 couleur
+IM|impression quadri recto/verso	recto : quadri, verso : quadri
+IM|imp texte 1c noir 2 changements de plaques	noir
+IM| quadri 1 changement de plaque+ vernis mat	quadri, vernis
+IM|recto/verso	recto, verso
+IM|impression recto couche	recto
+IM|4/0 + vernis mat	recto : quadri, vernis
+IM| impression recto	recto
+IM|recto verso / quadri	recto : quadri, verso : quadri
+IM|pelliculage soft touch	pelliculage soft touch
+IM|personnalisation	personnalisation
+IM|impression recto seul	recto
+IM|impression en aplat	recto
+IM|1 coul. rouge 032	1 couleur
+IM|pell mat rv	recto : pelliculage, verso : pelliculage
+IM|quadri 1 modele rv	recto : quadri, verso : quadri
+IM|impression en aplat une face	recto
+IM|impression quadri + pelliculage brillant personnalisation	quadri, pelliculage, personnalisation
+IM|impression bleu 321 + noir	1 couleur, noir
+IM|recto, couleur + personnalisation	recto : quadri, personnalisation
+IM|impression :	 
+IM|impression couleur	quadri
+IM|qrecto /verso	recto : quadri, verso : quadri
+IM|recto quadrichromie dos 4 eme page impression noir	recto : quadri, verso : noir
+IM|quadri rv couche satin	recto : quadri, verso : quadri
+IM|noir + bleu	1 couleur, noir
+IM|impression bleu 287 recto	recto : 1 couleur
+IM|quadri identique	recto : quadri, verso : quadri
+IM|quadri 1 couleurs seul bleu ecriture blanche	quadri, 1 couleur, blanc
+IM|quadri + va satin	quadri, vernis
+IM|va satin	vernis
+IM|tout quadri	recto : quadri, verso : quadri
+IM|gaufrage et vernis selectif + pantone	1 couleur, vernis
+IM|pelliculage brillant	pelliculage
+IM|impression numerique quadri	quadri, en numerique
+IM|impression q rv	recto : quadri, verso : quadri
+IM|marquage quadri	quadri, marquage
+IM|4/0 + vernis acrylique mat	recto : quadri, vernis
+IM|4/4	recto : quadri, verso : quadri
+IM|impression 1 couleur pantone	1 couleur
+IM|vernis 3 d	vernis relief
+IM|acrylique brillant total 1 faces	recto : vernis
+IM|pelli brillant rv	recto : pelliculage, verso : pelliculage
+IM|pelliculage brillant a linterieur	pelliculage
+IM|pelli mat/satin	pelliculage
+IM|impression r/v pelliculage mat r/v	recto : quadri, pelliculage, verso : quadri, pelliculage
+IM|impression : quadri	quadri
+IM|verso a piger par 10 ex	verso
+IM|verso a piger par 50 ex	verso
+IM|dorure a chaude	marquage a chaud
+IM|impression quadri 4/4	recto : quadri, verso : quadri
+IM|numerotation sur les feuillets des liasses	numerotation
+IM|pas dimpression sur le dessus	sans impression
+IM|quadri/recto	recto : quadri
+IM|vernis acrylique	vernis
+IM|recto et verso	recto, verso
+IM|quadri format	quadri
+IM|2 couleurs noir et bordeaux a definir	2 couleurs, noir
+IM|serigraphie 1 coul	1 couleur, en serigraphie
+IM| pelliculage soft touch	pelliculage soft touch
+IM|vernis relief sur logo	vernis relief
+IM|pelliculage mat rv + vernis uv selectif brillant rv	recto : pelliculage, vernis uv selectif, verso : pelliculage, vernis uv selectif
+IM|pelliculage mat rv + vernis uv selectif brillant rv + vernis relief tres epais sur logo	recto : pelliculage, vernis uv selectif, verso : pelliculage, vernis uv selectif
+IM|vernis selectif 3d	vernis selectif relief
+IM|filtre anti uv	vernis uv
+IM|couleur : quadrichromie	quadri
+IM|aplat noir 2pass + 1c jaune + pell soft touch + vernis selectif brillant	recto : 1 couleur, pelliculage soft touch, vernis selectif
+IM|aplat noir 2pass + 1c violette + pell soft touch + vernis selectif brillant	recto : 1 couleur, pelliculage soft touch, vernis selectif
+IM|aplat noir 2pass + 1c rouge + pell soft touch + vernis selectif brillant	recto : 1 couleur, pelliculage soft touch, vernis selectif
+IM|vernis brillant	vernis
+IM|sans vernis selectif	 
+IM|marquage transfert quadri	quadri, marquage
+IM|1 coul rv	recto : 1 couleur, verso : 1 couleur
+IM|impression 1 couleur rv + argent a chaud classique seul	recto : 1 couleur, marquage a chaud, verso : 1 couleur
+IM|serigraphie argent a chaud embosse	marquage a chaud, en serigraphie
+IM|marquage une couleur	1 couleur, marquage
+IM|1 couleur noir	1 couleur, noir
+IM|impression offset	en offset
+IM|noir	noir
+IM|quadri + adressage	quadri, personnalisation
+IM|marquage a chaud sur la 1 er de couv	marquage
+IM|recto : quadri	recto : quadri
+IM|couleur cmjn + dorure a chaud bronze marque pantone 875	1 couleur, marquage a chaud
+IM|lamination brillante	pelliculage
+IM|aplat noir	recto : noir
+IM|aplat rouge	recto : 1 couleur
+IM|impression en quadri	quadri
+IM|edition numerique noir	noir, en numerique
+IM|personnalisation numerique	personnalisation, en numerique
+IM|protection uv	vernis uv
+IM|impression quadri + lamination uv	quadri, pelliculage uv
+IM|marquage moderne	marquage
+IM|repiquage verso	verso : personnalisation
+IM|dorure a chaud recto 2 couleurs	recto : 2 couleurs, marquage a chaud
+IM|pas dimpression	sans impression
+IM|vernis uv sel relief	vernis uv selectif relief
+IM|pelliculage mat r/v	recto : pelliculage, verso : pelliculage
+IM|marquage or a chaud recto	recto : marquage
+IM|pantone 485	1 couleur
+IM|recto : cyan	recto : 1 couleur
+IM|verso : gris mettre les cgv en plus fonce	verso : 1 couleur
+IM|3 couleurs	3 couleurs
+IM|impression numerique	en numerique
+IM|marquage a chaud argent recto seul	recto : marquage
+IM|vernis recto seul	recto : vernis
+IM|6 couleurs	6 couleurs
+IM|impression 1 couleur + vernis acrylique satin	1 couleur, vernis
+IM|2 couleurs : noir et orange pantone 1495c + vernis acrylique	2 couleurs, noir, vernis
+IM|1 couleur + vernis acrylique satin	1 couleur, vernis
+IM|pelliculage mat 1 face	recto : pelliculage
+IM|impression traceur uv recto : jaune et noir	recto : 2 couleurs, encre uv
+IM|vierge sans impression	sans impression
+IM|impression traceur uv recto : quadri	recto : quadri, encre uv
+IM|impression uv recto : quadri	recto : quadri, encre uv
+IM|lamination mate 80u anti uv 3 ans	pelliculage uv
+IM|repiquage	personnalisation
+IM|quadri offset laser	quadri, en offset
+IM|vernis uv brillant selectif 1 face	recto : vernis uv selectif
+IM|impression quadri + 1 pms + vernis acrylique brillant	quadri, 1 couleur, vernis
+IM|marquage pantone 362	1 couleur, marquage
+IM|quadri + vernis acrylique satin	quadri, vernis
+IM|dorure a chaud au recto page 1 20% logo + titre	recto : marquage a chaud
+IM|adressage jet dencre noir	personnalisation
+IM|adressage jet dencre	personnalisation
+IM|quadri + lamination	quadri, pelliculage
+IM|numerique,	en numerique
+IM|amalgame	en amalgame
+IM|quadri r	recto : quadri
+IM|dorure a chaud numerique 3d	marquage a chaud
+IM|vernis uv selectif 3d brillant	vernis uv selectif relief
+IM|vernis uv de protection	vernis uv
+IM|vernis selectif uv sur 1 seule page	vernis uv selectif
+IM|selectif uv	vernis uv selectif
+IM|vernis selectif uv	vernis uv selectif
+IM|vernis uv brillant	vernis uv selectif
+IM|finition solft touch	pelliculage soft touch
+IM|amalgames	en amalgame
+IM|sans lamination	 
+IM|pelliculage total	pelliculage
+IM|pelliculage soft touch et uv relief selectif brillant	pelliculage soft touch, vernis uv selectif relief
+IM|pelliculage + v.relief	pelliculage, vernis relief
+IM|quadri + vernis acrylique soft touch	quadri, vernis soft touch
+IM|recto:	recto
+IM|vernis acrylique satin	vernis
+IM|acrylique mat	vernis
+IM|pelliculage toile	pelliculage
+IM|impression bleu	1 couleur
+IM|recto artipole recto verso	recto, verso
+IM|impression :, r/v noir et orange	recto : 2 couleurs, noir, verso : 2 couleurs, noir
+IM|depose encre a gratter argent recto 30%	recto : encre a gratter
+IM|repiquages	personnalisation
+IM|repiquage au noir pages 1 et 4 de couverture	personnalisation
+IM|uv selectif brillant relief en page une de couverture	recto : vernis uv selectif relief
+IM|uv relief	vernis uv relief
+IM|sans, impression	sans impression
+IM|personalisation au noir	personnalisation
+IM|quadri numerique	quadri, en numerique
+IM|quadrichromie recto verso	recto : quadri, verso : quadri
+IM|vernis recto	recto : vernis
+IM|verso : impression recto seul	recto
+IM|quadrichromie recto seul	recto : quadri
+IM|impression 1 couleur typo noire sur fond blanc	1 couleur, noir
+IM|1 couleur noire sur fond blanc	1 couleur, noir
+IM|lamination mat	pelliculage
+IM|impression 1 couleur	1 couleur
+IM|impression : noir sur le traceur	noir
+IM|pelli soft touch sur le rect	recto : pelliculage soft touch
+IM|verso impression	verso
+IM|quadri + vernis acrylique	quadri, vernis
+IM|imp 4/4	recto : quadri, verso : quadri
+IM|imp 4/1 f1	recto : quadri, verso : 1 couleur
+IM|imp 4/0	recto : quadri
+IM|recto verso pellicule	recto : pelliculage, verso : pelliculage
+IM|impression 4 couleurs : ss noir #161211 ss jaune bordure #fcef2e ss vert #012b23 ss marron #beb52b	4 couleurs
+IM|ss noir #161211 ss jaune bordure #fcef2e ss vert #012b23 ss marron #beb52b	4 couleurs
+IM|impression 4 couleurs	4 couleurs
+IM|4 couleurs	4 couleurs
+IM| 1 couleur typo noire sur fond blanc	1 couleur, noir
+IM|impression quadrichromie r/v	recto : quadri, verso : quadri
+IM|impression quadirchromie r/v	recto : quadri, verso : quadri
+IM|numerique avec	en numerique
+IM|impression serigraphie 1 couleur noire	1 couleur, noir, en serigraphie
+IM|impression noir et rouge	2 couleurs, noir
+IM|r/v couleur	recto : quadri, verso : quadri
+IM|r couleur	recto : quadri
+IM|vernis mat	vernis
+IM|impres impresssion 1/0	recto : 1 couleur
+IM|vernis acrylique brillant	vernis
+IM|pelliculage polypro mat	pelliculage
+IM|impression : pas dimpression sur le dessus	sans impression
+IM|impression 1 couleur gris clair	1 couleur
+IM|impression q r seul	recto : quadri
+IM|impression verso : aucune	verso : sans impression
+IM|vernis mat de protection	vernis
+IM|recto 1	recto : 1 couleur
+IM|impression q rseul	recto : quadri
+IM|recto uniquement	recto
+IM|pelliculage satine merci patricia	pelliculage
+IM|verso pao	verso
+IM|marquage impression numerique encre latex	marquage
+IM|aucune impression	sans impression
+IM|pas de dorure	 
+IM|quadri avec encre doree	quadri, 1 couleur
+IM|or, metallique ou pantone	1 couleur
+IM|couleur recto seul	recto : quadri
+IM|marquage a chaud en 1	marquage
+IM|quadri avec encre doree pour le logo	quadri
+IM|pantone impression 3	1 couleur
+IM|quadri option	quadri
+IM|impression 4/0	recto : quadri
+IM|verso vierge	verso : sans impression
+IM|verso francaise	verso
+IM|recto verso quadrichromie recto verso	recto : quadri, verso : quadri
+IM|vernis mat + selectif	vernis selectif
+IM|impression brochure	 
+IM|recto verso/quadri	recto : quadri, verso : quadri
+IM|noir rv	recto : noir, verso : noir
+IM|quadri rv + vernis satin couche satin	recto : quadri, vernis, verso : quadri, vernis
+IM|quadrichomie	quadri
+IM|marquage en quadri	marquage
+IM|marquage a chaud recto	recto : marquage
+IM|impression 4/0 + vernis mat	recto : quadri, vernis
+IM|quadri recto verso	recto : quadri, verso : quadri
+IM|impression quadri vernis de protection	quadri, vernis
+IM|vernis 3d pour le logo	vernis relief
+IM|vernis uv brillant selectif 1 face > >	recto : vernis uv selectif
+IM|recto verso quantite	recto, verso
+IM|impression : blanc	blanc
+IM|quadri + vernis	quadri, vernis
+IM|recto brillant	recto
+IM|couleur : noir	noir
+IM|repiquage 1 couleur	personnalisation
+IM|quadri + 1 pantone +pelliculage polypro mat	quadri, 1 couleur, pelliculage
+IM|quadri + 1 pantone + pelliculage polypro mat prevoir un changement de plaque sur ce tirage	quadri, 1 couleur, pelliculage
+IM|quadri + pelliculage polypro mat +	quadri, pelliculage
+IM|quadri + pelliculage polypro mat prevoir un changement de plaque sur ce tirage	quadri, pelliculage
+IM|marquage : recto verso	recto : marquage, verso : marquage
+IM|numeriques	en numerique
+IM|recto verso format	recto, verso
+IM|pellicule satin	pelliculage
+IM|quadri une face	recto : quadri
+IM|2 changements de plaques	 
+IM|quadri + 1 pantone +pelliculage polypro mat prevoir un changement de plaque	quadri, 1 couleur, pelliculage
+IM|marquage a chaud avec un nouveau fer	marquage
+IM|marquage a chaud avec le fer de lancien dossier	marquage
+IM|pellicule sof touch rv	recto : pelliculage soft touch, verso : pelliculage soft touch
+IM|impression noire	noir
+IM|impression : 4 couleurs encrage jusqua 50	4 couleurs
+IM|maquage a chaud or	marquage a chaud
+IM|impression hp	en numerique
+IM|impression qrcode	personnalisation
+IM|limpression	 
+IM|quadri 1 mod rv	recto : quadri, verso : quadri
+IM|quadri rv bristol	recto : quadri, verso : quadri
+IM|quadri + verni mat	quadri, vernis
+IM|pelliculage mat anti rayures	pelliculage
+IM|recto verso couleurs	recto : quadri, verso : quadri
+IM|lamination mat anti uv	pelliculage uv
+IM|impression recto verso direct	recto, verso
+IM|fond jaune + pelliculage transparent	pelliculage
+IM|verso impression black + pelliculage	verso : noir, pelliculage
+IM|sans pelli	 
+IM|plastification recto verso	recto : pelliculage, verso : pelliculage
+IM|pelliculage soft touch 1 face	recto : pelliculage soft touch
+IM|quadri + va brillant avec reserve	quadri, vernis
+IM|sans impression,	sans impression
+IM|pelliculage apte au contact alimentaire, , faconnage :	pelliculage
+IM|quadri et teinte entre cahque modele, ,	quadri
+IM|4 changement quadri + 1 teinte	quadri, 1 couleur
+IM|dorure a chaud page 1, ,	marquage a chaud
+IM|sans impression, , faconnage	sans impression
+IM|sans impression, , +,	sans impression
+IM|recto,	recto
+IM|lamination uv	pelliculage uv
+IM|laser	laser
+IM|vernis uv 1er de serie	vernis uv
+IM|numerotation	numerotation
+IM|r/v	recto, verso
+IM|adressage	personnalisation
+IM|quadri + va brillant	quadri, vernis
+IM|lamination protection uv antirayure	pelliculage uv
+IM|impression uv quadri recto	recto : quadri, encre uv
+IM|adressage jet dencre de ladresse expe + destinataire	personnalisation
+IM|4 changements au verso	verso : 4 couleurs
+IM|une verso	verso
+IM|quadri + va soft touch	quadri, vernis soft touch
+IM|2 couleurs traite en quadri changement entre, chaque serie	quadri
+IM|imposition par 54 poses	 
+IM|quadri r/v +	recto : quadri, verso : quadri
+IM|pelliculage soft touch prevoir	pelliculage soft touch
+IM|recto verso impression 3 coul en serigraphie	recto : 3 couleurs, verso : 3 couleurs, en serigraphie
+IM|couleur : bichromie	2 couleurs
+IM|numerique hp noir	noir, en numerique
+IM|limpression numerique	en numerique
+IM|pelliculage solf touch	pelliculage soft touch
+IM|vernis uv selectif	vernis uv relief
+IM|quadri 1 100	quadri
+IM|rv	recto, verso
+IM|r/v quadricolore	recto : quadri, verso : quadri
+IM|r/v quadri	recto : quadri, verso : quadri
+IM|r/v qudri	recto : quadri, verso : quadri
+IM|impression : offset	en offset
+IM|impression : recto verso monochome	recto : 1 couleur, verso : 1 couleur
+IM|laminage de protection	pelliculage
+IM|quadrichromie	quadri
+IM|pelliculage satin 2 faces	recto : pelliculage, verso : pelliculage
+IM|serigraphie noire	noir, en serigraphie
+IM|quadri + va mat	quadri, vernis
+IM|recto quadri / verso quadri	recto : quadri, verso : quadri
+IM|pelliculage brillant recto seul	recto : pelliculage
+IM|impression quadri recto seul	recto : quadri
+IM|quadri recto + noir verso	recto : quadri, verso : noir
+IM|pelliculage rectoverso mat	recto : pelliculage, verso : pelliculage
+IM| quadri rectoverso	recto : quadri, verso : quadri
+IM|impression quadri recto/verso pelli demi mat	recto : quadri, pelliculage, verso : quadri, pelliculage
+IM|recto quadri / verso quadri	recto : quadri, verso : quadri
+IM|rectoverso quadri + 1 pms fluo	recto : quadri, 1 couleur, verso : quadri, 1 couleur
+IM|recto quadri / verso 1 couleur gris	recto : quadri, verso : 1 couleur
+IM|rectoverso quadri	recto : quadri, verso : quadri
+IM|quadri recto verso	recto : quadri, verso : quadri
+IM|recto seul	recto
+IM|pelliculage mat polypro recto	recto : pelliculage
+IM|impression en quadri recto/verso	recto : quadri, verso : quadri
+IM|qirectoverso	recto : quadri, verso : quadri
+IM|impression en quadri recto/verso	recto : quadri, verso : quadri
+IM|impression qdegrecto seul	recto : quadri
+IM|rectoverso quadri	recto : quadri, verso : quadri
+IM|recto quadri / verso quadri	recto : quadri, verso : quadri
+IM|pelliculage brillant recto seul	recto : pelliculage
+IM|impression quadri recto seul	recto : quadri
+IM|quadri recto + noir verso	recto : quadri, verso : noir
+IM|pelliculage recto verso mat	recto : pelliculage, verso : pelliculage
+IM| quadri recto verso	recto : quadri, verso : quadri
+IM|impression quadri recto/verso pelli demi mat	recto : quadri, pelliculage, verso : quadri, pelliculage
+IM|recto quadri / verso quadri	recto : quadri, verso : quadri
+IM|recto verso quadri + 1 pms fluo	recto : quadri, 1 couleur, verso : quadri, 1 couleur
+IM|recto quadri / verso 1 couleur gris	recto : quadri, verso : 1 couleur
+IM|recto verso quadri	recto : quadri, verso : quadri
+IM|quadri recto verso	recto : quadri, verso : quadri
+IM|recto seul	recto
+IM|pelliculage mat polypro recto	recto : pelliculage
+IM|impression en quadri recto/verso	recto : quadri, verso : quadri
+IM|qi recto verso	recto : quadri, verso : quadri
+IM|impression en quadri recto/verso	recto : quadri, verso : quadri
+IM|impression q deg recto seul	recto : quadri
+IM|recto verso quadri	recto : quadri, verso : quadri

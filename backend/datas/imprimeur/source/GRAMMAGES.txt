@@ -1,0 +1,196 @@
+GR|250gr	250 gr
+GR|135 g/m2	135 gr
+GR|75 g	75 gr
+GR|440 g	440 gr
+GR|70 g	70 gr
+GR|170 g	170 gr
+GR|60g	60 gr
+GR|100 grammes	100 gr
+GR|250g	250 gr
+GR|115, g	115 gr
+GR|150 grs	150 gr
+GR|365 gr	365 gr
+GR|80gr	80 gr
+GR|70g/	70 gr
+GR|1080 g	1080 gr
+GR|165 g	165 gr
+GR|170g/	170 gr
+GR|100 gr	100 gr
+GR|90 grs	90 gr
+GR|140 g	140 gr
+GR|455 g	455 gr
+GR|280g	280 gr
+GR|112 g	112 gr
+GR|290gr	290 gr
+GR|68 gr	68 gr
+GR|130 g	130 gr
+GR|250gr +	250 gr
+GR|555 g	555 gr
+GR|400g/	400 gr
+GR|120 grs	120 gr
+GR|120grs	120 gr
+GR|320 g	320 gr
+GR|80g/	80 gr
+GR|200g	200 gr
+GR|345 grs	345 gr
+GR|180 g	180 gr
+GR|135 grs	135 gr
+GR|285 g	285 gr
+GR|300 g/m2	300 gr
+GR|140gr	140 gr
+GR|300 g	300 gr
+GR|180gr	180 gr
+GR|100g	100 gr
+GR|350 g	350 gr
+GR|490 g	490 gr
+GR|600 gr	600 gr
+GR|110gr	110 gr
+GR|250 grs	250 gr
+GR|200 grammes	200 gr
+GR|240 g	240 gr
+GR|285 gr	285 gr
+GR|160 g	160 gr
+GR|530 grs	530 gr
+GR|115g	115 gr
+GR|690g	690 gr
+GR|240grs	240 gr
+GR|130 gr	130 gr
+GR|350 gram	350 gr
+GR|400gr	400 gr
+GR|555 gr	555 gr
+GR|320 gr	320 gr
+GR|400 g	400 gr
+GR|120gr	120 gr
+GR|150 gr	150 gr
+GR|80g	80 gr
+GR|80grs	80 gr
+GR|84 g	84 gr
+GR|102g	102 gr
+GR|300 grs	300 gr
+GR|570 g	570 gr
+GR|80 grammes	80 gr
+GR|135 g	135 gr
+GR|250 gr	250 gr
+GR|120 gr	120 gr
+GR|170 g.	170 gr
+GR|160gr	160 gr
+GR|210 g	210 gr
+GR|34 g	34 gr
+GR|130g	130 gr
+GR|296 g	296 gr
+GR|260g	260 gr
+GR|360 g	360 gr
+GR|250 gr	250 gr
+GR|82 g	82 gr
+GR|70g	70 gr
+GR|90 gr	90 gr
+GR|80 g	80 gr
+GR|395 g	395 gr
+GR|200g/m2	200 gr
+GR|570 grammes	570 gr
+GR|160g	160 gr
+GR|690 g	690 gr
+GR|350g	350 gr
+GR|800 u	0 gr
+GR|730 gr	730 gr
+GR|130 gr	130 gr
+GR|120g	120 gr
+GR|140g/	140 gr
+GR|150gr	150 gr
+GR|110g	110 gr
+GR|350 gr	350 gr
+GR|180g	180 gr
+GR|200gr	200 gr
+GR|140g	140 gr
+GR|230g	230 gr
+GR|120 g	120 gr
+GR|400 g	400 gr
+GR|130gr	130 gr
+GR|690 gr	690 gr
+GR|250gr impression	250 gr
+GR|90 g	90 gr
+GR|115 g	115 gr
+GR|305 g	305 gr
+GR|150 gr	150 gr
+GR|110 g	110 gr
+GR|350 gr	350 gr
+GR|300 gr	300 gr
+GR|510 g	510 gr
+GR|100g/	100 gr
+GR|205 g	205 gr
+GR|224 g	224 gr
+GR|100 gr	100 gr
+GR|210 g	210 gr
+GR|350 gr	350 gr
+GR|350grs en	350 gr
+GR|320g	320 gr
+GR|350gr	350 gr
+GR|135grs	135 gr
+GR|225gr	225 gr
+GR|270g	270 gr
+GR|115 grs	115 gr
+GR|400g	400 gr
+GR|380 gr	380 gr
+GR|90g/	90 gr
+GR|60 g	60 gr
+GR|150 g/m2	150 gr
+GR|275 g	275 gr
+GR|181 gr	181 gr
+GR|290 g	290 gr
+GR|170g	170 gr
+GR|324 g	324 gr
+GR|380 g	380 gr
+GR|115 gr	115 gr
+GR|300 gr	300 gr
+GR|110 g/m2	110 gr
+GR|250 g	250 gr
+GR|150g	150 gr
+GR|300g	300 gr
+GR|80 gr	80 gr
+GR|115gr	115 gr
+GR|650 g	650 gr
+GR|90 g	90 gr
+GR|90g	90 gr
+GR|190g	190 gr
+GR|450 g	450 gr
+GR|170gr	170 gr
+GR|400 gr	400 gr
+GR|210g	210 gr
+GR|600 g	600 gr
+GR|250 g/m2	250 gr
+GR|280 g	280 gr
+GR|125 g	125 gr
+GR|70 gr	70 gr
+GR|260 g	260 gr
+GR|150 grammes	150 gr
+GR|350g/	350 gr
+GR|115g/	115 gr
+GR|411 g	411 gr
+GR|100 g	100 gr
+GR|190 g	190 gr
+GR|122 g	122 gr
+GR|685 g	685 gr
+GR|150 g	150 gr
+GR|250g/m2	250 gr
+GR|150g/	150 gr
+GR|220 g	220 gr
+GR|200 gr	200 gr
+GR|700g	700 gr
+GR|350gr	350 gr
+GR|135 gr	135 gr
+GR|270 gr	270 gr
+GR|135 g	135 gr
+GR|80g	80 gr
+GR|135gr	135 gr
+GR|90g/m2	90 gr
+GR|225 g	225 gr
+GR|225 gr	225 gr
+GR|216 g	216 gr
+GR|307 g	307 gr
+GR|135g	135 gr
+GR|200 g	200 gr
+GR|180 g/m2	180 gr
+GR|450gr	450 gr
+GR|170 gr	170 gr
+GR|170 grs	170 gr
+GR|110 gr	110 gr

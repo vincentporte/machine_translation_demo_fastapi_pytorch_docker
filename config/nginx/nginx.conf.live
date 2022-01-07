@@ -1,0 +1,57 @@
+log_format testlog '$remote_addr - $remote_user [$time_local] '
+               '"$request" $status $bytes_sent '
+               '"$http_referer" "$http_user_agent" "$request_body"';
+
+upstream backend {
+  ip_hash;
+  server backend:5000;
+}
+
+#server {
+#    listen 80;
+#    server_name localhost;
+#
+#    location / {
+#        proxy_pass http://backend/;
+#        proxy_http_version 1.1;
+#        proxy_set_header Host $host;
+#        proxy_set_header Upgrade $http_upgrade;
+#        proxy_set_header X-Real-IP $remote_addr;
+#    }
+#
+#}
+
+server {
+    listen 80;
+    server_name api.neuralia.co;
+
+    location / {
+        return 301 https://$host$request_uri;
+    }
+
+    location /.well-known/acme-challenge/ {
+        root /var/www/certbot;
+    }
+
+}
+
+server {
+    listen 443 ssl;
+    server_name api.neuralia.co;
+    client_max_body_size 10M;
+
+    ssl_certificate /etc/letsencrypt/live/api.neuralia.co/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/api.neuralia.co/privkey.pem;
+    access_log /var/log/nginx/access.log;
+
+    location / {
+        proxy_pass http://backend/;
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header X-Forwarded-Proto https;
+        proxy_set_header Connection 'upgrade';
+        proxy_set_header X-Real-IP $remote_addr;
+    }
+
+}

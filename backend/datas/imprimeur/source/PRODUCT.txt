@@ -1,0 +1,570 @@
+PR|outlook	 
+PR|adhesif	adhesifs
+PR|adhesif cabine	adhesifs
+PR|adhesif cavac	adhesifs
+PR|adhesif de masquage	adhesifs
+PR|adhesif lettres decoupees	adhesifs
+PR|adhesif o 43.5 cm	adhesifs
+PR|adhesif o 43.5 mm	adhesifs
+PR|adhesif opaque permanent	adhesifs
+PR|adhesif rond	adhesifs
+PR|adhesif vitrine	adhesifs
+PR|adhesif vitrine	adhesifs
+PR|adhesif vitrophanie blanc	adhesifs
+PR|adhesifis	adhesifs
+PR|adhesifs	adhesifs
+PR|autocollant	adhesifs
+PR|autocollants	adhesifs
+PR|autocollants plastifies	adhesifs
+PR|autocollants transparents	adhesifs
+PR|lettrage blanc	adhesifs
+PR|lettres adhesives decoupees	adhesifs
+PR|sticker	adhesifs
+PR|sticker exterieur	adhesifs
+PR|stickers	adhesifs
+PR|stickers	adhesifs
+PR|stickers autocollants	adhesifs
+PR|stickers ronds	adhesifs
+PR|vitrophanie	adhesifs
+PR|vitrophanies	adhesifs
+PR|affiche	affiches
+PR|affiche a4 pliees	affiches
+PR|affiches	affiches
+PR|affiches	affiches
+PR|affiches a3	affiches
+PR|affiches carrees	affiches
+PR|affiches carres	affiches
+PR|affiches interieures	affiches
+PR|affiches pliees a4	affiches
+PR|affichette	affiches
+PR|affichettes	affiches
+PR|affichettes carrees	affiches
+PR|affichettes carres	affiches
+PR|affichettes crochets	affiches
+PR|daffiche	affiches
+PR|daffiches	affiches
+PR|laffiche	affiches
+PR|poster	affiches
+PR|posters	affiches
+PR|agenda	agendas
+PR|dinterieurs de blocs agenda	agendas
+PR|bache	baches
+PR|baches	baches
+PR|baches exterieures	baches
+PR|bande papier pour lineaire	bandeaux
+PR|bandeau	bandeaux
+PR|bandeaux	bandeaux
+PR|bandeaux autocollants	bandeaux
+PR|bandelettes rigides pour ruches	bandeaux
+PR|bandes de rive	bandes de rive
+PR|billet invitation	billets
+PR|tickets de tombola	billets
+PR|bloc note	bloc notes
+PR|bloc note a5	bloc notes
+PR|blocnotes	bloc notes
+PR|blocs note	bloc notes
+PR|blocs note	bloc notes
+PR|blocs note a5	bloc notes
+PR|blocs notes	bloc notes
+PR|carnet blocnotes	bloc notes
+PR|bloc	blocs
+PR|bloc	blocs
+PR|bloc a4	blocs
+PR|bloc a5	blocs
+PR|bloc agrafe	blocs
+PR|bloc coupon	blocs
+PR|bloc de	blocs
+PR|bloc de liasse	blocs
+PR|bloc de prescription	blocs
+PR|blocs	blocs
+PR|blocs	blocs
+PR|blocs de	blocs
+PR|blocs de bons	blocs
+PR|blocs de coupons de reduction	blocs
+PR|blocs de coupons reduction	blocs
+PR|blond	blond
+PR|boitage puzzle	boites
+PR|boite	boites
+PR|boite a rabat	boites
+PR|boite cloche	boites
+PR|boite cloche fond + couvercle	boites
+PR|boite cloche fond et couvercle	boites
+PR|boite packaging	boites
+PR|boite puzzle	boites
+PR|boite savon	boites
+PR|boites	boites
+PR|boites brune dexpedition	boites
+PR|bon de redduction	bons
+PR|bon de reduction	bons
+PR|bon de repas	bons
+PR|bon sav	bons
+PR|bons de commande	bons
+PR|bons de reduction	bons
+PR|br	bons
+PR|bri	bons
+PR|book	books
+PR|books	books
+PR|bordereau de remise de cheque	bordereaux
+PR|bochure	brochures
+PR|brochure	brochures
+PR|brochure	brochures
+PR|brochure	brochures
+PR|brochure a4	brochures
+PR|brochures	brochures
+PR|brochures	brochures
+PR|bulletin municipal numero	brochures
+PR|brute	brute
+PR|cahier	cahiers
+PR|cahier relie	cahiers
+PR|cahiers de 12 pages	cahiers
+PR|calendrier	calendriers
+PR|calendrier a4 avec ephemerides	calendriers
+PR|calendrier mural	calendriers
+PR|calendrier remborde	calendriers
+PR|calendrier souple	calendriers
+PR|calendriers	calendriers
+PR|calendriers	calendriers
+PR|calendriers a5	calendriers
+PR|calendriers souple	calendriers
+PR|carnet	carnets
+PR|carnet bon de commande	carnets
+PR|carnet bordereau dexpedition	carnets
+PR|carnet commande/facture	carnets
+PR|carnet contrat de location	carnets
+PR|carnet de commande	carnets
+PR|carnet de garantie	carnets
+PR|carnet feuille de route	carnets
+PR|carnet fiche de travail	carnets
+PR|carnet releve hebdomadaire individuel	carnets
+PR|carnet triplicatas	carnets
+PR|carnets	carnets
+PR|carnets a souche numerotes	carnets
+PR|carnets administratif	carnets
+PR|carnets aministratif	carnets
+PR|carnets bon de travaux numerotes	carnets
+PR|carnets bons de livraison	carnets
+PR|carnets de bons de commandes	carnets
+PR|carnets de bons de livraison	carnets
+PR|carnets de commande	carnets
+PR|carnets de reduction	carnets
+PR|carnets de triplicata	carnets
+PR|carnets demande de travaux	carnets
+PR|carnets dintervention	carnets
+PR|carnets dinventaire	carnets
+PR|carnets duplicata a4	carnets
+PR|carnets duplicata a5	carnets
+PR|carnets fiche de travail	carnets
+PR|chequiers	carnets
+PR|carte	cartes
+PR|carte cadeau	cartes
+PR|carte carree	cartes
+PR|carte de correspondance	cartes
+PR|carte de fidelite	cartes
+PR|carte de parrainage	cartes
+PR|carte de voeux	cartes
+PR|carte de voeux	cartes
+PR|carte de voeux + enveloppes	cartes
+PR|carte des correspondance	cartes
+PR|carte echantillon	cartes
+PR|carte fidelite	cartes
+PR|carte inscription	cartes
+PR|carte kdo	cartes
+PR|carte papier	cartes
+PR|carte postale	cartes
+PR|carte postales	cartes
+PR|carte professionnelle	cartes
+PR|carte pvc	cartes
+PR|carte routiere	cartes
+PR|carte t decoupee	cartes
+PR|carte vaccin	cartes
+PR|carte vaccin covid 19	cartes
+PR|carte voeux	cartes
+PR|cartes	cartes
+PR|cartes /	cartes
+PR|cartes a gratter	cartes
+PR|cartes anniversaire	cartes
+PR|cartes commerciales	cartes
+PR|cartes de correspondance	cartes
+PR|cartes de fidelite	cartes
+PR|cartes de jeu	cartes
+PR|cartes de remerciements	cartes
+PR|cartes de voeux	cartes
+PR|cartes de voeux	cartes
+PR|cartes de voeux	cartes
+PR|cartes des voeux	cartes
+PR|cartes pom dapi	cartes
+PR|cartes postales	cartes
+PR|cartes vierges	cartes
+PR|cartes voeux	cartes
+PR|cartons de correspondance	cartes
+PR|cartons dinvitation	cartes
+PR|coupon	cartes
+PR|coupon reponse	cartes
+PR|coupons	cartes
+PR|coupons fidelite	cartes
+PR|coupons reponse	cartes
+PR|faire part	cartes
+PR|faire part de	cartes
+PR|fairepart	cartes
+PR|carte de visite	cartes de visite
+PR|carte de visite	cartes de visite
+PR|carte de visites	cartes de visite
+PR|carte de vissite	cartes de visite
+PR|carte de viste	cartes de visite
+PR|carte visite	cartes de visite
+PR|cartes de visite	cartes de visite
+PR|cartes de visite	cartes de visite
+PR|cartes de visites	cartes de visite
+PR|cartes de visites	cartes de visite
+PR|cartes visite	cartes de visite
+PR|cartes visites	cartes de visite
+PR|cdv	cartes de visite
+PR|deviscartes de visite	cartes de visite
+PR|sarl_carte de visite	cartes de visite
+PR|cartonnette	cartonnettes
+PR|cartonnettes	cartonnettes
+PR|carton	cartons
+PR|cartons	cartons
+PR|catalogue	catalogues
+PR|catalogue	catalogues
+PR|catalogues	catalogues
+PR|catalogues	catalogues
+PR|certificats	certificats
+PR|chemise	chemises
+PR|chemise	chemises
+PR|chemise a rabat	chemises
+PR|chemise a rabats	chemises
+PR|chemise a4 simple	chemises
+PR|chemise en croix	chemises
+PR|chemises	chemises
+PR|chemises a rabat	chemises
+PR|chemises a rabats	chemises
+PR|chemises commerciales	chemises
+PR|chemises professionnelles	chemises
+PR|cheque	cheques
+PR|cheques cadeaux	cheques
+PR|cavalier carton	chevalets
+PR|chevalet	chevalets
+PR|chevalets	chevalets
+PR|chevalets de comptoir	chevalets
+PR|classeur	classeurs
+PR|classeur remborde	classeurs
+PR|classeurs	classeurs
+PR|cocottes	cocotte
+PR|cartons coffrets	coffrets
+PR|coffret	coffrets
+PR|coffret jeu	coffrets
+PR|coffret rabat aimante	coffrets
+PR|coffrets	coffrets
+PR|couvercle coffret + interieur	coffrets
+PR|fond coffret	coffrets
+PR|couverture enveloppante chequiers simple	couverture enveloppante 
+PR|deplaint	depliants
+PR|depliant	depliants
+PR|depliant	depliants
+PR|depliant a3 plie a4	depliants
+PR|depliants	depliants
+PR|depliants	depliants
+PR|deplinat	depliants
+PR|leaflet	depliants
+PR|leaflets	depliants
+PR|devis numero 239213/00	devis numero 239213
+PR|devis numero 239251/02	devis numero 239251
+PR|devis numero 240841/00	devis numero 240841
+PR|devis numero 241252/00	devis numero 241252
+PR|devis numero 241257/00	devis numero 241257
+PR|dossiers	dossiers
+PR|enacrts	encarts
+PR|encart	encarts
+PR|encarts	encarts
+PR|encarts	encarts
+PR|encre	encre
+PR|encreur pour tampon avec encre bleu	encreur pour tampon
+PR|denveloppes 110 x 220 avec fenetre auto adhesive	enveloppes
+PR|enveloppe	enveloppes
+PR|enveloppe	enveloppes
+PR|enveloppe avec fenetre	enveloppes
+PR|enveloppe blanche	enveloppes
+PR|enveloppe retour	enveloppes
+PR|enveloppe sans fenetre	enveloppes
+PR|enveloppes	enveloppes
+PR|enveloppes avec fenetre	enveloppes
+PR|enveloppes blanche	enveloppes
+PR|enveloppes blanches	enveloppes
+PR|enveloppes blanches sans fenetre	enveloppes
+PR|enveloppes fermeture autocollante	enveloppes
+PR|enveloppes ouverture grand cote	enveloppes
+PR|enveloppes personnalisees avec fenetres	enveloppes
+PR|enveloppes sans fenetre	enveloppes
+PR|enveloppes, blanches sans fenetre	enveloppes
+PR|detiquettes autocollantes	etiquettes
+PR|etiquette	etiquettes
+PR|etiquette adhesives rondes	etiquettes
+PR|etiquette autocollante	etiquettes
+PR|etiquette carree	etiquettes
+PR|etiquette cintre	etiquettes
+PR|etiquette individuelle	etiquettes
+PR|etiquette irisee	etiquettes
+PR|etiquette suivi	etiquettes
+PR|etiquettes	etiquettes
+PR|etiquettes adhesive	etiquettes
+PR|etiquettes adhesives	etiquettes
+PR|etiquettes adhesives rondes	etiquettes
+PR|etiquettes autocollantes	etiquettes
+PR|etiquettes autocollantes de transport	etiquettes
+PR|etiquettes cintre	etiquettes
+PR|etiquettes de transport	etiquettes
+PR|etiquettes non autocollantes	etiquettes
+PR|etiquettes par planche	etiquettes
+PR|etiquettes resistantes a leau	etiquettes
+PR|etiquettes rondes	etiquettes
+PR|vignettes	etiquettes
+PR|etui	etuis
+PR|etui crayon	etuis
+PR|etui double cote	etuis
+PR|etuis	etuis
+PR|letui	etuis
+PR|fourreau	etuis
+PR|fourreau double rabats	etuis
+PR|fourreaux	etuis
+PR|epxedition	expedition
+PR|fanions	fanions
+PR|bonnes feuilles	feuilles
+PR|feuille de tirage	feuilles
+PR|feuille dimpression	feuilles
+PR|feuille predecoupees	feuilles
+PR|feuille predecoupees a4	feuilles
+PR|feuilles	feuilles
+PR|feuilles de tirage	feuilles
+PR|feuilles dimpression	feuilles
+PR|feuilles paperboard	feuilles
+PR|feuilles skin	feuilles
+PR|feuilles skin 6 poses	feuilles
+PR|fonds de page	feuilles
+PR|bulletin de salaire	feuillets
+PR|facture	feuillets
+PR|factures	feuillets
+PR|factures a4,	feuillets
+PR|1 feuillet a4	feuillets
+PR|feuillet a3	feuillets
+PR|feuillet a5	feuillets
+PR|feuillet	feuillets
+PR|feuillets	feuillets
+PR|condition tarifaire	feuillets
+PR|feuillet	feuillets
+PR|feuillet 15 x 21 cm	feuillets
+PR|feuillet a3	feuillets
+PR|feuillet a4	feuillets
+PR|feuillet mailling	feuillets
+PR|feuillet pour bloc	feuillets
+PR|feuillet ppur bloc	feuillets
+PR|feuillets	feuillets
+PR|feuillets	feuillets
+PR|feuillets	feuillets
+PR|feuillets a4	feuillets
+PR|feuillets a5	feuillets
+PR|feuillets ft a5	feuillets
+PR|feuillets simples	feuillets
+PR|feuillets support montre	feuillets
+PR|feuilllet	feuillets
+PR|fiche	feuillets
+PR|fiche a4	feuillets
+PR|fiche chauffeur	feuillets
+PR|fiche recette a6,	feuillets
+PR|fiche technique	feuillets
+PR|fiches	feuillets
+PR|fiches a4	feuillets
+PR|fiches horaire	feuillets
+PR|fiches produits	feuillets
+PR|lettre	feuillets
+PR|lettre a entete	feuillets
+PR|lettre a4	feuillets
+PR|lettre accompagnement	feuillets
+PR|lettre daccompagnement	feuillets
+PR|lettre de tri	feuillets
+PR|lettres	feuillets
+PR|lettres daccompagnement	feuillets
+PR|suite de lettre	feuillets
+PR|suites de lettre	feuillets
+PR|fleche	fleches
+PR|fleches	fleches
+PR|flyer	flyers
+PR|flyer	flyers
+PR|flyer	flyers
+PR|flyers	flyers
+PR|prospectus	flyers
+PR|tract	flyers
+PR|tracts	flyers
+PR|tracts a4	flyers
+PR|fronton	frontons
+PR|frontons	frontons
+PR|gardes	gardes
+PR|gommettes blanches	gommettes
+PR|guide	guides
+PR|guide	guides
+PR|guirlande	guirlandes
+PR|guirlande fanion	guirlandes
+PR|guirlande fanion, guirlandes de 12 fanions avec 5 cm despace entre chaque, fanions	guirlandes
+PR|guirlandes	guirlandes
+PR|guirlandes de 12 fanions avec 5 cm despace entre chaque, fanions	guirlandes
+PR|habillage fond de boite + interieur couvercle	habillages
+PR|habillage papier	habillages
+PR|habillage recto	habillages
+PR|habillages	habillages
+PR|imprimeurs	imprimeurs
+PR|intercalaires	intercalaires
+PR|interieur de bloc	interieurs
+PR|interieurs de blocs	interieurs
+PR|invitation	invitations
+PR|invitations	invitations
+PR|jaquette	jaquettes
+PR|jeu	jeux
+PR|jeu de societe	jeux
+PR|jeux	jeux
+PR|jeux de billet	jeux
+PR|jeux de cartes	jeux
+PR|jeux dencarts	jeux
+PR|kits	kits
+PR|courrier	lettres
+PR|courrier	lettres
+PR|courriers	lettres
+PR|liasse	liasses
+PR|liasse bon de commande	liasses
+PR|liasse triplicata	liasses
+PR|liasses	liasses
+PR|liasses autocopiantes	liasses
+PR|liasses en duplicatas	liasses
+PR|livre	livres
+PR|livre familial	livres
+PR|livre photo	livres
+PR|livres	livres
+PR|livres blancs	livres
+PR|livret	livrets
+PR|livret	livrets
+PR|livrets	livrets
+PR|livrets	livrets
+PR|lots	lots
+PR|macarons	macarons
+PR|magazine	magazines
+PR|magnet	magnets
+PR|magnets	magnets
+PR|mailing	mailing
+PR|marque page	marques page
+PR|marques page	marques page
+PR|marques pages	marques page
+PR|memo	memos
+PR|memos	memos
+PR|notice	notices
+PR|nuancier	nuanciers
+PR|nuanciers	nuanciers
+PR|option	option
+PR|pancarte	panneaux
+PR|pancartes	panneaux
+PR|panneau	panneaux
+PR|panneau akilux	panneaux
+PR|panneau de chantier	panneaux
+PR|panneau exterieur	panneaux
+PR|panneaux	panneaux
+PR|panneaux	panneaux
+PR|panneaux de chantier	panneaux
+PR|panneaux double	panneaux
+PR|panneaux doubles	panneaux
+PR|panneaux exterieur	panneaux
+PR|panneaux interieurs	panneaux
+PR|paper board	paper board
+PR|en tetes de lettre	papier a entete
+PR|entete	papier a entete
+PR|entetes	papier a entete
+PR|entetes de lettre	papier a entete
+PR|entetes de lettres	papier a entete
+PR|entetes lettres	papier a entete
+PR|papier a en tete	papier a entete
+PR|papier a entete	papier a entete
+PR|papier a lettre	papier a entete
+PR|papier entete	papier a entete
+PR|papiers a entete	papier a entete
+PR|tete de lettre	papier a entete
+PR|tetes de lettre	papier a entete
+PR|photos	photos
+PR|piges	piges
+PR|palnche de 6 jetons	planches
+PR|planche	planches
+PR|planche a4	planches
+PR|planche dadhesifs	planches
+PR|planche de 6 jetons	planches
+PR|planche de sticker	planches
+PR|planche de stickers	planches
+PR|planches	planches
+PR|planches a4	planches
+PR|planches a4 adhesives	planches
+PR|planches de sticker	planches
+PR|planches de stickers	planches
+PR|planches detiquettes	planches
+PR|plaque aimantee pour vehicule	plaque aimantee
+PR|plaques	plaques
+PR|plaquette	plaquettes
+PR|plaquette commerciale	plaquettes
+PR|plaquettes	plaquettes
+PR|plateau de jeu	plateau de jeu
+PR|plv	plv
+PR|plv a4 avec chevalet	plv
+PR|plv receptacle	plv
+PR|pochette	pochettes
+PR|pochette a rabats	pochettes
+PR|pochette cartonnee	pochettes
+PR|pochette en croix	pochettes
+PR|pochettes	pochettes
+PR|pochettes	pochettes
+PR|pochettes	pochettes
+PR|pochettes cristal	pochettes
+PR|pochettes kraft	pochettes
+PR|protection de comptoir base bois	protection de comptoir
+PR|protege comptoir base bois	protection de comptoir
+PR|puzzle	puzzles
+PR|puzzles	puzzles
+PR|questionnaire	questionnaires
+PR|rames	rames
+PR|rapport appel doffre	rapports
+PR|reglette	reglettes
+PR|reglette pvc	reglettes
+PR|reglettes	reglettes
+PR|reglettes de rayonnage	reglettes
+PR|kakemonos	rollup
+PR|roll-up	rollup
+PR|roll-up standard	rollup
+PR|rollup	rollup
+PR|rollup enrouleur kakemono	rollup
+PR|rouleaux	rouleaux
+PR|rouleaux detiquettes adhesives enlevable	rouleaux
+PR|rouleaux detiquettes adhesives viticoles	rouleaux
+PR|rouleaux multiple	rouleaux
+PR|sacs	sacs
+PR|sacs noirs brillant avec logo	sacs
+PR|sac a pain	sacs a pain
+PR|sacs baguette	sacs a pain
+PR|set de table	sets de table
+PR|sets	sets de table
+PR|sets de table	sets de table
+PR|sets de tables	sets de table
+PR| stop rayons	stops rayon
+PR|stop rayon	stops rayon
+PR|stop rayon avec attache	stops rayon
+PR|stop rayon petit modele	stops rayon
+PR|stop rayons	stops rayon
+PR|stop rayons promo	stops rayon
+PR|stoprayon	stops rayon
+PR|stoprayons	stops rayon
+PR|stops rayons	stops rayon
+PR|supplement	supplement
+PR|porte carte	supports
+PR|porte catalogue	supports
+PR|support carte	supports
+PR|support carte t	supports
+PR|supports adhesifs	supports
+PR|tampon	tampons encreur
+PR|tampon shiny a boitier printer, 4 lignes	tampons encreur
+PR|tampons encreur	tampons encreur
+PR|variante	variante
+PR|verso	verso
+PR|voici	voici
+PR|woblers	woblers

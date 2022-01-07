@@ -1,0 +1,24 @@
+aerich==0.5.8
+asyncpg==0.25.0
+bcrypt==3.2.0
+dill==0.3.3
+fastapi==0.70.0
+fastapi-users[tortoise-orm]==8.1.3
+joblib==0.17.0
+matplotlib==3.3.4
+numpy==1.18.5
+passlib==1.7.4
+python-decouple==3.5
+python-jose==3.3.0
+python-multipart==0.0.5
+torch==1.8.0
+#spacy==2.3.2
+tortoise-orm==0.17.8
+unidecode==1.3.2
+uvicorn[standard] #to avoid ssl redirection issue
+
+
+# dev
+pytest==6.2.5
+requests==2.26.0
+asyncio==3.4.3

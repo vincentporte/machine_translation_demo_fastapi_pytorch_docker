@@ -1,0 +1,73 @@
+version: '3.8'
+services:
+
+  nginx:
+    image: nginx:alpine
+    container_name: mt_reverseproxy
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./backend:/backend
+      - ./config/nginx:/etc/nginx/conf.d
+      - ./config/certbot/conf:/etc/letsencrypt
+      - ./config/certbot/www:/var/www/certbot
+      - ./access.log:/var/log/nginx
+    command: "/bin/sh -c 'while :; do sleep 6h & wait $${!}; nginx -s reload; done &
+      nginx -g \"daemon off;\"'"
+    depends_on:
+      - backend
+    networks:
+      - mt_network
+
+  certbot:
+    image: certbot/certbot
+    container_name: mt_ssl
+    volumes:
+      - ./config/certbot/conf:/etc/letsencrypt
+      - ./config/certbot/www:/var/www/certbot
+    entrypoint: "/bin/sh -c 'trap exit TERM; while :; do certbot renew; sleep 12h &
+      wait $${!}; done;'"
+    networks:
+      - mt_network
+
+  backend:
+    build: ./backend
+    container_name: mt_backend
+    image: mt_backend
+    restart: always
+    expose:
+      - 5000
+    env_file: .env
+    volumes:
+      - ./backend:/app
+    command: uvicorn app.main:app --reload --host 0.0.0.0 --port 5000
+    logging:
+      options:
+        max-size: "10m"
+        max-file: "3"
+    depends_on:
+      - db
+    networks:
+      - mt_network
+
+  db:
+    image: postgres:14-alpine
+    container_name: mt_db
+    expose:
+      - 5432
+    ports:
+      - 5432:5432
+    env_file: .env
+    volumes:
+      - ./postgres_data:/var/lib/postgresql/data/
+    networks:
+      - mt_network
+
+volumes:
+  postgres_data:
+
+    null
+networks:
+  mt_network:
+    driver: bridge

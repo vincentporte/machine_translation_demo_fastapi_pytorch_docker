@@ -1,0 +1,877 @@
+PA|accamedia premium	accamedia premium
+PA|acquerello avorio fsc mix product	acquerello avorio
+PA|adagio bleu 70% pefc certified	adagio bleu
+PA|adestor gloss ar	adestor gloss avec refente
+PA|adestor matt permanent ar	adestor matt permanent avec refente
+PA|adestor matt sr	adestor matt sans refente
+PA|adhesif	adhesif
+PA|adhesif blanc	adhesif
+PA|adhesif blanc permanent opaque	adhesif
+PA|adhesif couche	adhesif
+PA|adhesif opaque permanent	adhesif
+PA|adhesif permanent	adhesif
+PA|adhesif permanent blanc	adhesif
+PA|adhesif vinyl	adhesif
+PA|adhesif vinyl blanc	adhesif
+PA|adhesifs autocollants en pvc	adhesif
+PA|autocollant	adhesif
+PA|papier adhesif	adhesif
+PA|papier adhesif vinyle blanc	adhesif
+PA|papier vinyle blanc	adhesif
+PA|serigraphie adhesif divers	adhesif
+PA|serigraphie adhesif monomere 2/3 ans	adhesif
+PA|vinyl	adhesif
+PA|vinyl jaune	adhesif
+PA|vinyle adhesif blanc	adhesif
+PA|vinyle blanc	adhesif
+PA|vinyle jaune	adhesif
+PA|vinyle vitrophanie	adhesif
+PA|vinyls	adhesif
+PA|vynils	adhesif
+PA|adhesif antivandalisme	adhesif antivandalisme
+PA|adhesif antivandalisme avery 2920 blanc permanent 60 microns	adhesif antivandalisme
+PA|vinyle antivandalisme blanc	adhesif antivandalisme
+PA|adhesif avec refente	adhesif avec refente
+PA|adhesif avec refentes	adhesif avec refente
+PA|adhesif blanc permanent avec refente au dos	adhesif avec refente
+PA|adhesif opaque avec refente	adhesif avec refente
+PA|adhesif papier permanent avec refente	adhesif avec refente
+PA|adhesif permanent avec refente	adhesif avec refente
+PA|ahesif blanc vinyl permanent opaque avec refente	adhesif avec refente
+PA|papier vinyl blanc permanent avec refente	adhesif avec refente
+PA|adhesif blanc brillant	adhesif brillant
+PA|adhesif brillant	adhesif brillant
+PA|adhesif brillant au recto	adhesif brillant
+PA|adhesif opaque brill permanent	adhesif brillant
+PA|adhesif permanent brillant	adhesif brillant
+PA|adhesif vinyl blanc brill	adhesif brillant
+PA|adhesif vinyl brillant	adhesif brillant
+PA|adhesif vinyl brillant blanc	adhesif brillant
+PA|vinyl blanc brillant permanent	adhesif brillant
+PA|adhesif blanc brillant ar	adhesif brillant avec refente
+PA|adhesif blanc brillant permanant - avec refente	adhesif brillant avec refente
+PA|adhesif brillant avec refente	adhesif brillant avec refente
+PA|adhesif brillant perm. opaque avec refente au dos	adhesif brillant avec refente
+PA|adhesif gloss ar	adhesif brillant avec refente
+PA|adhesif vinyl blanc brillant permanent avec	adhesif brillant avec refente
+PA|adhesif vinyl blanc brillant permanent avec, refentes	adhesif brillant avec refente
+PA|adhesif vinyle blanc brillant permanent avec refentes	adhesif brillant avec refente
+PA|matiere adhesif vinyle brillant avec refente	adhesif brillant avec refente
+PA|vinyle blanc brillant ar	adhesif brillant avec refente
+PA|adhesif brillant sr	adhesif brillant sans refente
+PA|adhesif brillant vinyle avec refente	adhesif brillant vinyle avec refente
+PA|adhesif vinyl effet aluminium brosse	adhesif effet aluminium brosse
+PA|adhesif couche enlevable	adhesif enlevable
+PA|adhesif vinyl blanc enlevable sans refente	adhesif enlevable
+PA|vinyle adhesif blanc enlevable	adhesif enlevable
+PA|adhesif blanc mat	adhesif mat
+PA|adhesif vinyl mat	adhesif mat
+PA|adhesif vinyle mat	adhesif mat
+PA|adhesif blanc mat permanent opaque avec ou sans refente	adhesif mat avec refente
+PA|adhesif mat ar	adhesif mat avec refente
+PA|adhesif micro perfore	adhesif micro perfore
+PA|adhesif vinyl microperfore	adhesif microperfore
+PA|vinyle blanc monomere	adhesif monomere
+PA|vinyle monomere depoli	adhesif monomere
+PA|adhesif or	adhesif or
+PA|adhesif polymere	adhesif polymere
+PA|adhesif polymere +	adhesif polymere
+PA|adhesif polymere + lamination uv	adhesif polymere
+PA|adhesif polymere blanc	adhesif polymere
+PA|film aqua proof base polyethylene adh. permanent	adhesif polymere
+PA|polymere vinyle tack extra fort	adhesif polymere
+PA|vinyle blanc polymere	adhesif polymere
+PA|adhesif polymere blanc brill	adhesif polymere brillant
+PA|filmovinyl perf 75u adh renforce polymere blanc, brillant colle permanente 0 um	adhesif polymere brillant
+PA|matiere adhesif brillant polymere	adhesif polymere brillant
+PA|vinyl polymere blanc permanent brillant air escape blanc colle grise	adhesif polymere brillant
+PA|vynil polymere brillant	adhesif polymere brillant
+PA|adhesif polymere depoli argent grain fin pour	adhesif polymere depoli
+PA|polypropylene blanc adh. enlevable	adhesif polymere enlevable
+PA|vinyl polymere permanent + protection uv	adhesif polymere protection uv
+PA|adhesif polymere sans refente	adhesif polymere sans refente
+PA|adhesif polymere transparent	adhesif polymere transparent
+PA|adhesif repositionnable	adhesif repositionnable
+PA|adhesif opaque blanc sans refente	adhesif sans refente
+PA|adhesif vinyl sans refente	adhesif sans refente
+PA|papier adhesif blanc sr	adhesif sans refente
+PA|adhesif autocollant transparent	adhesif transparent
+PA|adhesif transparent	adhesif transparent
+PA|vynil transparent	adhesif transparent
+PA|papier adhesif transparent sr	adhesif transparent sans refente
+PA|transparent autocollant exterieur	adhesif transparent sans refente
+PA|vinyle permanent sr transparent blanc de soutien total au verso	adhesif transparent sans refente
+PA|akilix 3.5	akilux 3.5 mm
+PA|akilux	akilux 3.5 mm
+PA|akilux 3,5 mm	akilux 3.5 mm
+PA|akilux 3.5	akilux 3.5 mm
+PA|akilux 3.5 mm	akilux 3.5 mm
+PA|akilux alveoles	akilux 3.5 mm
+PA|akilux polypro alveolaire blanc 3.5 mm	akilux 3.5 mm
+PA|akylux	akilux 3.5 mm
+PA|akylux 3.5 mm	akilux 3.5 mm
+PA|aluminium 3 mm	akilux 3.5 mm
+PA|amerikan bristol	amerikan bristol
+PA|antalis nautilus classic blanc non couche	antalis nautilus classic non couche
+PA|antalis premium blanc 35mm x 100mm strip fsc mix	antalis premium avec fenetre 35mm x 100mm
+PA|antalis premium blanc 45mm x 100mm strip fsc mix credit	antalis premium avec fenetre 45mm x 100mm
+PA|antalis premium a fenetre 50 x 100 bdp pefc	antalis premium avec fenetre 50mm x 100mm
+PA|antalis premium blanc sans fenetre strip	antalis premium sans fenetre
+PA|antalis premium blanc sans fenetre strip fsc mix	antalis premium sans fenetre
+PA|antalis premium blanc strip fsc mix credit	antalis premium sans fenetre
+PA|antalis premium sans fenetre bdp pefc	antalis premium sans fenetre
+PA|arena ivory rough ivoire fsc mix product	arena ivory rough
+PA|arena extra white smooth blanc fsc	arena smooth
+PA|arena extra white smooth blanc fsc t	arena smooth
+PA|arena white smooth blanc fsc mix product	arena smooth
+PA|auraset toile ivoire gaufrage toile	auraset toile ivoire
+PA|autocopiant	autocopiant cb
+PA|autocopiant blanc	autocopiant cb
+PA|autocopiant cb	autocopiant cb
+PA|autocopiant cb blanc	autocopiant cb
+PA|autocopiant couleur	autocopiant cb
+PA|autocopiant original blanc	autocopiant cb
+PA|autocopiants	autocopiant cb
+PA|cb	autocopiant cb
+PA|cb	autocopiant cb
+PA|cb : blanc	autocopiant cb
+PA|cb blanc	autocopiant cb
+PA|cb blanc cb jaune dessus couche	autocopiant cb
+PA|cb blanc cfb jaune cb rose dessus couche	autocopiant cb
+PA|cb rose	autocopiant cb
+PA|papier autocopiant	autocopiant cb
+PA|papier cb	autocopiant cb
+PA|autocopiant cf	autocopiant cf
+PA|autocopiant cf bleu	autocopiant cf
+PA|autocopiant final jaune	autocopiant cf
+PA|cf : rose	autocopiant cf
+PA|cf blanc	autocopiant cf
+PA|cf bleu	autocopiant cf
+PA|cf jaune	autocopiant cf
+PA|cf rose	autocopiant cf
+PA|cf vert	autocopiant cf
+PA|autocopiant cfb canari	autocopiant cfb
+PA|autocopiant intermediaire bleu	autocopiant cfb
+PA|cfb : bleu	autocopiant cfb
+PA|cfb jaune	autocopiant cfb
+PA|cfb rose	autocopiant cfb
+PA|bache	bache
+PA|bache exterieure	bache exterieure
+PA|bache fine	bache fine
+PA|bache pvc classe m1 blanc	bache pvc classe m1
+PA|bache roll-up	bache rollup
+PA|bache blanche star flex	bache star flex
+PA|bache tres epaisse	bache tres epaisse
+PA|bristol	bristol
+PA|bristol	bristol
+PA|bristol blanc	bristol
+PA|bristol genious	bristol
+PA|papier bristol	bristol
+PA|papier epais	bristol
+PA|burano cobalt blue fsc mix credit	burano cobalt blue
+PA|papier calibre	calibre
+PA|calque	calque
+PA|calque blanc	calque
+PA|papier calque blanc :	calque
+PA|papier : carte	carte
+PA|papier carte	carte
+PA|papier carte a parfum	carte a parfum
+PA|papier carte couche 1 face	carte couche 1 face
+PA|carte de correspondance	carte de correspondance
+PA|2 cartes 1 face	carte graphique 1 face
+PA|carte 1 face	carte graphique 1 face
+PA|carte 1 face	carte graphique 1 face
+PA|carte 1 face blanc	carte graphique 1 face
+PA|carte 1mm	carte graphique 1 face
+PA|carte couche verso gris 1 face	carte graphique 1 face
+PA|carte couchee 1 face	carte graphique 1 face
+PA|carte graphique 1 face	carte graphique 1 face
+PA|carte une face	carte graphique 1 face
+PA|carton graphique	carte graphique 1 face
+PA|couche 1 face	carte graphique 1 face
+PA|carte	carte graphique 2 faces
+PA|carte 2 face	carte graphique 2 faces
+PA|carte 2 faces	carte graphique 2 faces
+PA|carte 2 faces pefc	carte graphique 2 faces
+PA|carte couche satin	carte graphique 2 faces
+PA|carte couchee	carte graphique 2 faces
+PA|carte couchee 2 face	carte graphique 2 faces
+PA|carte couchee 2 faces	carte graphique 2 faces
+PA|carte graphique	carte graphique 2 faces
+PA|carte graphique 2 faces	carte graphique 2 faces
+PA|couche 2 faces	carte graphique 2 faces
+PA|papier carte 2 faces	carte graphique 2 faces
+PA|papier cartes 2 face	carte graphique 2 faces
+PA|carte pvc	carte pvc
+PA|carte pvc blanche epaisseur 0.76 mm	carte pvc
+PA|carton	carton
+PA|carton blanc	carton
+PA|carton brun fabriquee a partir de 70% de papiers	carton
+PA|carton gris	carton
+PA|carton gris + papier satine	carton
+PA|carton mat	carton
+PA|carton ondule blanc	carton
+PA|carton souple	carton
+PA|carton verso gris	carton
+PA|feuilles cartonnees	carton
+PA|papier cartonne	carton
+PA|carton blanc 0,5mm	carton 05/10eme
+PA|carton 10/10deg	carton 10/10eme
+PA|carton compact 1 mm	carton 10/10eme
+PA|carton 15/10 eme	carton 15/10eme
+PA|carton gris 15/10e	carton 15/10eme
+PA|carton gris/gris 15/10 luxline	carton 15/10eme
+PA|carton gris/gris 15/10e	carton 15/10eme
+PA|carton 18/10 dos blanc	carton 18/10eme
+PA|carton 18/10eme blanc	carton 18/10eme
+PA|carton gris 19/10 luxline dos offset blanc sans bois	carton 19/10eme
+PA|carton gris 19/10 luxline dos offset blanc sans, bois	carton 19/10eme
+PA|carton 20/10	carton 20/10eme
+PA|carton 20/10 eme	carton 20/10eme
+PA|carton 20/10e	carton 20/10eme
+PA|carton gris 20/10eme	carton 20/10eme
+PA|carton 2,5 mm	carton 25/10eme
+PA|carton couche mat gc1	carton gc1
+PA|gc1	carton gc1
+PA|castgloss sp3h blanc extra permanent avec refente, ultrabrill	castgloss avec refente
+PA|chromolux 1 face	chromolux
+PA|chromolux 700 haute brillance blanc	chromolux
+PA|chromolux couleur ultrabrillant ocean	chromolux
+PA|chromomat	chromomat
+PA|chromomat fsc mix credit	chromomat
+PA|classic blanc	classic demi mat
+PA|classic demimat	classic demi mat
+PA|coala 1d 100 gloss pg brillant	coala brillant
+PA|coala 1d 100 gloss pg brillant solvent/latex/uv blanc colle grise acrylique perm	coala brillant
+PA|coala one way vision uv brillant solvent/latex/uv	coala brillant
+PA|coala citylight satine solvent/uv blanc	coala satine
+PA|coala poster semibrillant	coala semi brillant
+PA|cocktail blue angel bleu indigo	cocktail
+PA|cocoon offset blanc fsc recycled credit	cocoon offset recycle
+PA|cocoon silk blanc fsc recycled credit	cocoon satine recycle
+PA|color copy	color copy
+PA|couche brillant pefc condat gloss	condat gloss
+PA|condat matt	condat matt
+PA|condat matt perigord blanc pefc 100%	condat matt
+PA|condat silk	condat silk
+PA|condat silk pefc	condat silk
+PA|condat silk pefc 100 %	condat silk
+PA|conqueror	conqueror
+PA|conqueror blanc glacier verge	conqueror
+PA|conqueror contour blanc glacier	conqueror
+PA|conqueror textur blanc glacier	conqueror
+PA|conqueror texture blanc glacier	conqueror
+PA|conqueror verge blanc verge fsc mix credit sans filigrane	conqueror
+PA|conqueror wove blanc glacier	conqueror wove
+PA|conqueror wove blanc glacier velin filigrane fsc	conqueror wove
+PA|conqueror wove blanc glacier velin filigrane fsc, mix credit	conqueror wove
+PA|conqueror wove creme velin fsc mix credit	conqueror wove
+PA|conqueror wove diamand white	conqueror wove
+PA|conqueror wove itone(r) blanc glacier lisse fsc mix	conqueror wove
+PA|conqueror wove white	conqueror wove
+PA|papier conqueror texture blanc glacier	conqueror wove
+PA|papier conqueror wove blanc glacier	conqueror wove
+PA|coral book	coral book
+PA|coral book ivoir	coral book
+PA|coral book white	coral book
+PA|coral book white pefc 100 %	coral book
+PA|lecta coral book natural	coral book
+PA|cotage premium white	cotage premium
+PA|blanc	couche
+PA|blanc absolu	couche
+PA|blanc brillant	couche brillant
+PA|brillant	couche brillant
+PA|couche brillant	couche brillant
+PA|couche brillant	couche brillant
+PA|couche brillant	couche brillant
+PA|couche brillant certifie pefc 100%	couche brillant
+PA|couche brillant impression	couche brillant
+PA|couche brillant opaque permanent	couche brillant
+PA|couche brillant pefc	couche brillant
+PA|couche brillant pefc 100%	couche brillant
+PA|papier brillant	couche brillant
+PA|papier couche brillant	couche brillant
+PA|papier couche brillant dos opaque en planche	couche brillant
+PA|1/2 mat	couche demi mat
+PA|c 1/2 mat	couche demi mat
+PA|c demi mat	couche demi mat
+PA|cdm	couche demi mat
+PA|cdm	couche demi mat
+PA|couche	couche demi mat
+PA|couche 1/2 mat	couche demi mat
+PA|couche 1/2 mat	couche demi mat
+PA|couche 1/2 mat	couche demi mat
+PA|couche 1/2 mat	couche demi mat
+PA|couche 1/2 mat 2f	couche demi mat
+PA|couche 1/2 mat certifie pefc 100%	couche demi mat
+PA|couche 1/2 mat grammage	couche demi mat
+PA|couche 1/2 mat pefc	couche demi mat
+PA|couche 250	couche demi mat
+PA|couche demi mat	couche demi mat
+PA|couche demi mat	couche demi mat
+PA|couche demi mat	couche demi mat
+PA|couche demi mat pefc	couche demi mat
+PA|couche demi mat pefc 100%	couche demi mat
+PA|couche demimat	couche demi mat
+PA|couche impossible en numerique	couche demi mat
+PA|couche semi mat	couche demi mat
+PA|couche semi mat	couche demi mat
+PA|couhe demi mat pefc 100%	couche demi mat
+PA|demi mat	couche demi mat
+PA|demi mat impression quadri recto verso	couche demi mat
+PA|demimat	couche demi mat
+PA|demisatin	couche demi mat
+PA|papier : demimat	couche demi mat
+PA|papier : demis mat	couche demi mat
+PA|papier 1/2 mat pefc	couche demi mat
+PA|papier cdm	couche demi mat
+PA|papier couche	couche demi mat
+PA|papier couche  1/2  mat	couche demi mat
+PA|papier couche 1/2 mat	couche demi mat
+PA|papier couche demi mat	couche demi mat
+PA|papier couche demimat	couche demi mat
+PA|papier demi mat	couche demi mat
+PA|papier demi-mat	couche demi mat
+PA|papier semi mat	couche demi mat
+PA|papier semibrillant	couche demi mat
+PA|rv couche	couche demi mat
+PA|semi mat	couche demi mat
+PA|couche kraft	couche kraft
+PA|papier couche maine 1 face	couche maine
+PA|papier couche maine gloss	couche maine
+PA|papier maine green	couche maine
+PA|blanc fini mat	couche mat
+PA|cm	couche mat
+PA|cmb	couche mat
+PA|couche mat	couche mat
+PA|couche mat blanc	couche mat
+PA|couche mat impression	couche mat
+PA|couche mat impression recto verso	couche mat
+PA|couche mat ou demimat blanc	couche mat
+PA|couche mat ou demimat blanc grammage	couche mat
+PA|couche mat pefc	couche mat
+PA|couche mat pefc papier	couche mat
+PA|mat	couche mat
+PA|papier cm	couche mat
+PA|papier couche mat	couche mat
+PA|papier lisse mat	couche mat
+PA|papier mat	couche mat
+PA|recycle couche mat	couche mat recycle
+PA|recycle mat	couche mat recycle
+PA|couche moderne brillant	couche moderne brillant
+PA|couche moderne brillant	couche moderne brillant
+PA|couche moderne brillant 2 faces	couche moderne brillant
+PA|couche moderne brillant sans bois fsc/pefc	couche moderne brillant
+PA|couche moderne 1/2 mat	couche moderne demi mat
+PA|couche moderne demi mat	couche moderne demi mat
+PA|couche moderne demi mat	couche moderne demi mat
+PA|couche moderne demi mat	couche moderne demi mat
+PA|couche moderne demi-mat	couche moderne demi mat
+PA|couche moderne demimat	couche moderne demi mat
+PA|couche moderne mat	couche moderne mat
+PA|couche moderne mat 2 faces	couche moderne mat
+PA|couche moderne mat sans bois	couche moderne mat
+PA|ouche moderne mat sans bois, recycle 50% minimum	couche moderne mat
+PA|papier couche moderne mat grammage	couche moderne mat
+PA|couche moderne mat sans bois, recycle 100%	couche moderne mat recycle
+PA|couche moderne demi mat sans bois satine	couche moderne satine
+PA|couche moderne satin 2 faces	couche moderne satine
+PA|couche moderne satine	couche moderne satine
+PA|moderne satine	couche moderne satine
+PA|papier couche moderne satin	couche moderne satine
+PA|couche moderne demi mat sans bois satine recycle 100%	couche moderne satine recycle
+PA|couche moderne demi mat sans bois satine recycle 50% minimum	couche moderne satine recycle
+PA|couche moderne demi mat sans bois satine, recycle 50% minimum	couche moderne satine recycle
+PA|couche 100% recycle blanc	couche recycle
+PA|couche recycle	couche recycle
+PA|couche recycle 100% eural premium	couche recycle
+PA|couche recycle blanc	couche recycle
+PA|couche recycle naturel	couche recycle
+PA|papier : recycle	couche recycle
+PA|papier 100 % recycle	couche recycle
+PA|papier 100% recycle	couche recycle
+PA|papier 100% recycle non blanc nautilus	couche recycle
+PA|papier couche recycle	couche recycle
+PA|papier recycle	couche recycle
+PA|papier recycle	couche recycle
+PA|papier recycle	couche recycle
+PA|papier recycle 100%	couche recycle
+PA|papier recycle blanc	couche recycle
+PA|papier recycle couleur kraft	couche recycle
+PA|papier recycle non brillant	couche recycle
+PA|recycle	couche recycle
+PA|recycle blanc	couche recycle
+PA|blanc satin	couche satine
+PA|couch2 satin	couche satine
+PA|couche sat	couche satine
+PA|couche satimat	couche satine
+PA|couche satin	couche satine
+PA|couche satin	couche satine
+PA|couche satin 2 faces	couche satine
+PA|couche satin green	couche satine
+PA|couche satin pelliculage recto seul	couche satine
+PA|couche satine	couche satine
+PA|couche satine	couche satine
+PA|couche satine 100% pefc	couche satine
+PA|couche satine mat	couche satine
+PA|couche satine pefc	couche satine
+PA|couche satine pefc 100%	couche satine
+PA|couche satinee	couche satine
+PA|couche silk	couche satine
+PA|dos couche satine	couche satine
+PA|papier couche blanc satine	couche satine
+PA|papier couche satin	couche satine
+PA|papier couche satine	couche satine
+PA|papier satin	couche satine
+PA|papier satine	couche satine
+PA|sat	couche satine
+PA|satin	couche satine
+PA|satin pefc	couche satine
+PA|satine	couche satine
+PA|satine mat	couche satine
+PA|papier satine recycle	couche satine recycle
+PA|jaune	couleur
+PA|mandarine	couleur
+PA|papier jade	couleur
+PA|papier vert	couleur
+PA|rose	couleur
+PA|rouge	couleur
+PA|vert	couleur
+PA|creator digital silk	creator digital silk
+PA|crescendo 1f blanc certifie pefc 100%	crescendo 1 face
+PA|crescendo 2f blanc certifie pefc 100%	crescendo 2 faces
+PA|cryogen	curious metallic
+PA|curious collection metallic blue	curious metallic
+PA|curious collection mettalics night	curious metallic
+PA|curious cryogen	curious metallic
+PA|curious metallic dore argent	curious metallic
+PA|curious metallics cryogen white	curious metallic
+PA|curious metallics cryogen white velin metallique fsc mix credit	curious metallic
+PA|curous metallic akoya	curious metallic
+PA|curious skin extra blanc lisse mat	curious skin
+PA|curious skin extra blanc sans fenetre strip mat fsc	curious skin
+PA|curious skin indigo	curious skin
+PA|curious translucents clear	curious translucents
+PA|curious translucents fsc mix credit	curious translucents
+PA|cyclus offset	cyclus offset
+PA|cyclus offset blanc fsc recycled credit	cyclus offset
+PA|cyclus print	cyclus offset
+PA|nouveau cyclus offset garantie laser	cyclus offset
+PA|o natural print blanc fsc recycle	cyclus offset
+PA|papier dart	dart
+PA|desert storm	desert storm
+PA|bibond 3 mm	dibond 3 mm
+PA|dibon	dibond 3 mm
+PA|dibond	dibond 3 mm
+PA|dibond 3 mm	dibond 3 mm
+PA|dibond blanc de 0.03 mm	dibond 3 mm
+PA|etalbond d3 blanc dibond 3 000 um	dibond 3 mm
+PA|matiere : dibond ou pvc	dibond 3 mm
+PA|matiere dibond	dibond 3 mm
+PA|dibon 5mm	dibond 5 mm
+PA|dibond 5 mm	dibond 5 mm
+PA|diva art	diva art
+PA|diva art duo 2sc fsc mix credit	diva art
+PA|diva art fsc mix credit	diva art
+PA|dossier	dossier
+PA|dossier blanc	dossier
+PA|papier : dossier	dossier
+PA|papier dossier	dossier
+PA|papier dossier vert	dossier
+PA|dossier bulle	dossier bulle
+PA|dossier bleu	dossier couleur
+PA|dossier bleue	dossier couleur
+PA|dossier couleur	dossier couleur
+PA|dossier couleur bleu	dossier couleur
+PA|dossier couleur jaune	dossier couleur
+PA|dossier couleur vert clair	dossier couleur
+PA|dossier de couleur	dossier couleur
+PA|dossier jaune	dossier couleur
+PA|dossier orange	dossier couleur
+PA|dossier rouge	dossier couleur
+PA|dossier rouge turc	dossier couleur
+PA|dossier vert	dossier couleur
+PA|dossier perfore	dossier perfore
+PA|easy dot blanc	easy dot
+PA|easy dot blanc brillant monomere 100 u	easy dot
+PA|easy dot transparent sans refente	easy dot
+PA|easy dot uv printnwalk blanc monomere structure,	easy dot
+PA|papier : easydot blanc	easy dot
+PA|edixion offset blanc 100 % pefc certified	edixion offset
+PA|offset edixion	edixion offset
+PA|eminent	eminent
+PA|eminent 1mm	eminent
+PA|eminent blanc	eminent
+PA|papier eminent	eminent
+PA|ensocoat 445 microns blanc pefc 100%	ensocoat
+PA|ensocoat certifie pefc 100%	ensocoat
+PA|env sedic vitrafix	env sedic vitrafix
+PA|env sedic vitrafix ref : clq 114, sans impression	env sedic vitrafix
+PA|env	enveloppe
+PA|enveloppe	enveloppe
+PA|enveloppe blanche	enveloppe
+PA|enveloppe retour ft 10.5 x 21.2 cm	enveloppe
+PA|papier type rive enveloppes teintees masse rouge	enveloppe
+PA|env avec fenetre	enveloppe avec fenetre
+PA|enveloppe avec fenetre	enveloppe avec fenetre
+PA|enveloppe 16,2 x 22,9 cm a fenetre	enveloppe c5 avec fenetre
+PA|env dl blc	enveloppe dl
+PA|enveloppe allongee rouge	enveloppe dl
+PA|env dl blc fenetre 45x100 bdp nf	enveloppe dl avec fenetre 45mm x 100mm
+PA|enveloppe avec fenetre ft 45x100	enveloppe dl avec fenetre 45mm x 100mm
+PA|enveloppe et pochette recycle	enveloppe et pochette recycle
+PA|enveloppe mecanisable	enveloppe mecanisable
+PA|enveloppe premium blanc 45mm x 100mm strip fsc mix credit	enveloppe premium avec fenetre 45mm x 100mm
+PA|enveloppe recycle	enveloppe recycle
+PA|env sans fenetre	enveloppe sans fenetre
+PA|enveloppe sans fenetre	enveloppe sans fenetre
+PA|enveloppe blanche sf	enveloppe sans fenetre
+PA|enveloppe velin blanc fenetre 35x100	enveloppe velin avec fenetre 35mm x 100mm
+PA|environment concrete	environment
+PA|environment desert storm	environment
+PA|eural recycle	eural recycle
+PA|eurocalco	eurocalco cb
+PA|eurocalco cb	eurocalco cb
+PA|eurocalco cb blanc	eurocalco cb
+PA|eurocalco cb jaune	eurocalco cb
+PA|eurocalco cf	eurocalco cf
+PA|eurocalco cf bleu	eurocalco cf
+PA|eurocalco cf jaune	eurocalco cf
+PA|eurocalco cf rose	eurocalco cf
+PA|eurocalco cf vert	eurocalco cf
+PA|eurocalco cfb blanc	eurocalco cfb
+PA|eurocalco cfb bleu	eurocalco cfb
+PA|eurocalco cfb jaune	eurocalco cfb
+PA|eurocalco cfb rose	eurocalco cfb
+PA|eurocalco cfb vert	eurocalco cfb
+PA|extra strong laser	extra strong laser
+PA|extra strong laser jet velin	extra strong laser
+PA|fasson hp indigo polyester transp bril sr perm, transparent	fasson indigo brillant
+PA|fasson indigo polyethylene blanc mat perm blanc mat	fasson indigo mat
+PA|crea fredrigoni nettuno bianco artico	fedrigoni
+PA|fedrigoni aquarello bianco	fedrigoni
+PA|fedrigoni arena naturel smooth	fedrigoni
+PA|fedrigoni constellation snow martellata	fedrigoni
+PA|fedrigoni cotage premium white	fedrigoni
+PA|nettuno blu navy bleu fsc mix product	fedrigoni
+PA|papier coktail blue angel fedrigoni	fedrigoni
+PA|papier fedrigoni xper white	fedrigoni
+PA|papiers creation fedrigoni nettuno bianco artico	fedrigoni
+PA|forex 10 mm pvc expanse	forex 10 mm pvc expanse
+PA|forex classic blanc mat, 1 face	forex 10 mm pvc expanse
+PA|freelife cento extra white	freelife
+PA|freelife kendo whiitr	freelife
+PA|freelife vellum premium white blanc fsc mix product	freelife
+PA|freelife vellum prenium white	freelife
+PA|freelife vellum pw	freelife
+PA|papier freelife cento	freelife
+PA|soho freelife vellum premium white	freelife
+PA|gardamatt elven	gardamatt
+PA|gradamatt elven	gardamatt
+PA|giroform digital cb blanc fsc mixte credit	giroform digital cb
+PA|giroform digital cf blanc fsc mixte credit	giroform digital cf
+PA|giroform digital cf jaune fsc mixte credit	giroform digital cf
+PA|giroform digital cfb blanc fsc mixte credit	giroform digital cfb
+PA|giroform digital cfb bleu fsc mixte credit	giroform digital cfb
+PA|heaven 42 mat	heaven 42
+PA|heaven 42 softmatt	heaven 42
+PA|image coloraction desert/jaune	image coloraction
+PA|image/coloraction beach	image coloraction
+PA|inapa creation pack blanc fsc mixte credit	inapa creation
+PA|inapa creation verge blanc extreme fsc mixte credit	inapa creation
+PA|inuit hiht whit	inuit hiht whit
+PA|invercote creato	invercote creato
+PA|invercote creato blanc 2f	invercote creato
+PA|invercote creato digital blanc fsc mix credit	invercote creato
+PA|invercote creato mat	invercote creato
+PA|invercote creato mat fsc mix credit	invercote creato
+PA|carte invercote	invercote g 1 face
+PA|invercote 1 face	invercote g 1 face
+PA|invercote g	invercote g 1 face
+PA|invercote g 1 face	invercote g 1 face
+PA|invercote g blanc 100 % pefc	invercote g 1 face
+PA|invercote g blanc 100 % pefc certified	invercote g 1 face
+PA|invercote g blanc 100 % pefc certified 1f	invercote g 1 face
+PA|jac serilux blanc perm. avec refente brill	jac serilux avec refente
+PA|jac serilux blanc permanent avec refentes	jac serilux avec refente
+PA|jac serilux jaune clair ral 1021 permanent avec refente brillant	jac serilux avec refente
+PA|papier jac serieux jaune clair ral 1021 permanent avec refentes	jac serilux avec refente
+PA|keaycolour albatross fsc mix credit	keaycolour
+PA|keaykolour camel 100% recycle	keaycolour
+PA|keaykolour matcha	keaycolour
+PA|keaykolour original blanc fsc mixed credit	keaycolour
+PA|karft brun	kraft
+PA|kraft	kraft
+PA|kraft adour naturel blond velin100 % pefc certified	kraft
+PA|kraft naturel et oeillet metallique	kraft
+PA|kraft pack	kraft
+PA|kraft pak brun	kraft
+PA|kraftpak brun naturel certifie pefc 70%	kraft
+PA|papier kraft	kraft
+PA|papier style couleur kraft	kraft
+PA|kraft blanchi	kraft blanchi
+PA|lenticulaire	lenticular
+PA|lenticular 150 mm	lenticular
+PA|lys galilee pefc 100 %	lys galilee
+PA|m1	m1 couche mat
+PA|m2 couche brillant	m2 couche brillant
+PA|m2 couche brillant impression	m2 couche brillant
+PA|m2 couche brillant pelliculage	m2 couche brillant
+PA|m2 couche mat	m2 couche mat
+PA|macal 8199 transparent brillant permanent avec refentes	macal
+PA|macal 9800 pro noir	macal
+PA|magnetique 850 microns	magnetique 850 microns
+PA|magno pefc 100%	magno satine
+PA|magno satin	magno satine
+PA|magno satin certifie pefc 100%	magno satine
+PA|magno satin pefc 100%	magno satine
+PA|materica clay	materica
+PA|materica gesso	materica
+PA|metsaboard pro bright blanc satine 70 % pefc	metsaboard
+PA|micro cannelure	micro cannelure
+PA|mohawk superfine blanc	mohawk
+PA|munken polar	munken
+PA|munken print white main 1.5 fsc mix credit	munken
+PA|papier munken polar digital	munken
+PA|natural evolution blanc fsc	natural evolution
+PA|natural evolution whit	natural evolution
+PA|nautilus	nautilus classic
+PA|nautilus classic	nautilus classic
+PA|papier nautilus	nautilus classic
+PA|papier nautilus classic super white	nautilus classic
+PA|nautilus classic blanc fsc recycle 100%	nautilus classic recycle
+PA|nautilus classic blanc fsc recycled 100%	nautilus classic recycle
+PA|nautilus recycle	nautilus classic recycle
+PA|nautilus superwhite blanc fsc recycled 100%	nautilus classic recycle
+PA|offset recycle nautilus classi	nautilus classic recycle
+PA|pzpier noir	noir
+PA|novatech	novatech
+PA|novatech satin	novatech
+PA|bloc offset blanc	offset
+PA|laser blanc	offset
+PA|offset	offset
+PA|offset	offset
+PA|offset	offset
+PA|offset 80	offset
+PA|offset blanc	offset
+PA|offset blanc	offset
+PA|offset blanc	offset
+PA|offset blanc -	offset
+PA|offset blanc amber graphic	offset
+PA|offset blanc fsc	offset
+PA|offset blanc laser	offset
+PA|offset blanc laser blanc	offset
+PA|offset blanc naturel	offset
+PA|offset blanc pefc	offset
+PA|offset blanc pefc 100 %	offset
+PA|offset blanc standard	offset
+PA|offset dos rigide	offset
+PA|offset laser	offset
+PA|offset laserjet fsc mix 70%	offset
+PA|offset naturel	offset
+PA|offset pefc	offset
+PA|offset pefc 100 %	offset
+PA|offset standard	offset
+PA|offset standard au	offset
+PA|offset surface blanc	offset
+PA|papier laser blanc	offset
+PA|papier offset	offset
+PA|papier offset 170g	offset
+PA|papier offset blanc	offset
+PA|papier offset mat	offset
+PA|offset couleur	offset couleur
+PA|offset couleur jaune	offset couleur
+PA|offset jaune clair	offset couleur
+PA|offset jaune desert	offset couleur
+PA|offset luxe cryogen white	offset cryogen
+PA|offset recycle	offset recycle
+PA|offset recycle 100%	offset recycle
+PA|offset recycle blanc	offset recycle
+PA|papier offset recycle	offset recycle
+PA|offset respecta	offset respecta
+PA|respecta	offset respecta
+PA|respecta 100	offset respecta
+PA|respecta 100 silk blanc fsc recycle credit	offset respecta
+PA|respecta 60 silk blanc fsc mixte credit	offset respecta
+PA|oikos	oikos
+PA|ld mill bianco	old mill bianco
+PA|offset blanc old mill bianco	old mill bianco
+PA|old mill bianco	old mill bianco
+PA|old mill bianco 40% pcw	old mill bianco
+PA|old mill bianco blanc fsc	old mill bianco
+PA|papier old mill bianco	old mill bianco
+PA|old mill premium white	old mill premium
+PA|old mill pw	old mill premium
+PA|offset olin	olin regular
+PA|olin blanc regular	olin regular
+PA|olin regular blanc nat	olin regular
+PA|olin regular blanc naturel mat fsc mix	olin regular
+PA|olin regular blanc naturel mat fsc mix credit	olin regular
+PA|olin regular extra blanc mat fsc m	olin regular
+PA|olin regular extra blanc mat fsc mix credit	olin regular
+PA|olin regular ivoire mat fsc mix credit	olin regular
+PA|olin regular pur blanc mat fsc mix credit	olin regular
+PA|olin regular pur blanc sans fenetre strip mat fsc mix credit	olin regular
+PA|olin regular pur blanc sans fenetre strip mat fsc, mix credit	olin regular
+PA|olin rough extra blanc mat	olin regular
+PA|papier olin regular blanc mat	olin regular
+PA|opale uni naturel	opale uni
+PA|opale uni reference blanc absolu velin fsc mix	opale uni
+PA|opale uni reference blanc absolu velin fsc mix credit	opale uni
+PA|papier opale uni blanc absolu	opale uni
+PA|oppboga eminent blanc	oppboga eminent
+PA|oppboga outdoor blanc	oppboga outdoor
+PA|oppboga outdoor blanc fsc mixte credit	oppboga outdoor
+PA|option	option
+PA|oracal	oracal
+PA|papier vinyle oracal blanc	oracal
+PA|oracal 1640 blanc permanent avec refente lisse	oracal avec refente
+PA|oracal1640 blanc permanent avec refente lisse brillant	oracal avec refente
+PA|oracal 1050 7ans blanc permanent sans refente lisse brillant	oracal sans refente
+PA|oracal transparent brillant permanent	oracal transparent
+PA|papier oracal transparent	oracal transparent
+PA|oracal 1640 transparent permanent sans refente	oracal transparent sans refente
+PA|polypro alveolaire blanc 3 mm	panneau alveolaire 3 mm
+PA|panneau alveolaire	panneau alveolaire 3.5 mm
+PA|panneau alveolaire 3.5 mm	panneau alveolaire 3.5 mm
+PA|polypro alveolaire blanc	panneau alveolaire 3.5 mm
+PA|polypro alveolaire blanc 3.5 mm	panneau alveolaire 3.5 mm
+PA|panneau pvc expanse	panneau pvc expanse
+PA|papier	papier
+PA|papier : blanc	papier
+PA|papier blanc	papier
+PA|papier pefc	papier
+PA|papier pefc 100%	papier
+PA|papier avec graines de fleurs melangees	papier graine ensemence
+PA|papier ensemence	papier graine ensemence
+PA|papier graine	papier graine ensemence
+PA|parade force 5 bleu azur velin satine 100 % pefc	parade force 5
+PA|parade force 5 bleu azur velin satine 100 % pefc certified	parade force 5
+PA|parade force 5 bulle velin 100 % pefc	parade force 5
+PA|parade force 5 rose clair	parade force 5
+PA|parade force 5 rouge turc velin satine 100 % pefc	parade force 5
+PA|parade force 5 vert clair velin satine	parade force 5
+PA|pentaprint blanc brillant	pentaprint
+PA|pentaprint prm 180/23 wg blanc	pentaprint
+PA|pentaprint prm103/70 matt / matt blanc	pentaprint
+PA|plexiglas transparent 3 mm	plexiglas transparent 3 mm
+PA|papier : pochette sans fenetre	pochette
+PA|pochette	pochette
+PA|pochette blanche bdp sans fenetre	pochette
+PA|pochette blanche bp	pochette
+PA|poc c4 blc	pochette c4
+PA|poc c4 blc 90g ad premier pefc	pochette c4
+PA|poc c4 kft adour90g ad 1er pefc 4154	pochette c4
+PA|pochette recyclee	pochette recyclee
+PA|polyart digital blanc mat	polyart digital mat
+PA|polypro blanc 500u	polypro 500u
+PA|polypro noir	polypro noir
+PA|premium brun kraft	premium brun kraft
+PA|print speed laserjet blanc fsc mix 70%	print speed laserjet
+PA|print speed laserjet fsc mix 70%	print speed laserjet
+PA|print speed laserjet fsc mixed credit	print speed laserjet
+PA|print speed offset blanc 70% pefc certified	print speed offset
+PA|print speed offset blanc fsc mix 70%	print speed offset
+PA|printcote	printcote
+PA|priplak classic blanc 050 0.8 mm	priplak
+PA|priplak opaline	priplak
+PA|priplak opaline translucide	priplak
+PA|priplak rouge teinte masse 280u	priplak
+PA|protection feuillet plastic transparent	protection feuillet plastic transparent
+PA|pvc	pvc
+PA|pvc blanc	pvc
+PA|pvc blanc opaque	pvc
+PA|support pvc	pvc
+PA|pvc transparent 200 u	pvc 200 microns
+PA|team pvc 200u	pvc 200 microns
+PA|pvc blanc 280 microns	pvc 280 microns
+PA|pvc souple blanc 280 microns	pvc 280 microns
+PA|pvc blanc 5mm	pvc expanse 5 mm
+PA|pvc expanse	pvc expanse
+PA|pvc expanse 3 mm	pvc expanse 3 mm
+PA|pvc expanse 5mm	pvc expanse 5 mm
+PA|pvc expanse de 0.03 mm	pvc expanse 0.03 mm
+PA|pvc blanc magnetique 600 microns	pvc magnetique 600 microns
+PA|pvc pentaprint prm 180/23 wg blanc	pvc pentaprint
+PA|pvc 2 mm rigide	pvc rigide 2 mm
+PA|pvc rigide 3 mm	pvc rigide 3 mm
+PA|support pvc transparent	pvc transparent
+PA|raflacoat plus tripletack blanc extra permanent avec refente	raflacoat avec refente
+PA|raflatac raflamatt opaque blanc permanent sp34, avec refente fsc mix credit	raflatac raflamatt avec refente
+PA|rives basane blanc naturel fsc mix credit	rives basane
+PA|rives dot	rives dot
+PA|rives shetland blanc naturel marquage au feutre	rives shetland
+PA|rives shetland digital extra blanc	rives shetland
+PA|rives shetland extra blanc	rives shetland
+PA|rive tradition ivoir clair	rives tradition
+PA|rive tradition ivoire clair	rives tradition
+PA|rives tradition	rives tradition
+PA|rives tradition blanc naturel	rives tradition
+PA|rives tradition blanc naturel 2sides feltmarked	rives tradition
+PA|rives tradition extra blanc	rives tradition
+PA|rives tradition extra blanc	rives tradition
+PA|rives tradition ivoire clair	rives tradition
+PA|rives verge	rives verge
+PA|satimat green fsc mixed credit	satimat
+PA|satimat silk	satimat
+PA|papier sirio black	sirio black
+PA|bruno	sirio bruno
+PA|sirio bruno	sirio bruno
+PA|sirio vermiglione	sirio vermiglione
+PA|papier soft touch	soft touch
+PA|soporset premium preprint blanc, certifie pefc 70%	soporset premium
+PA|splendorgel	splendorgel
+PA|splendorgel soho indigo extra white blanc	splendorgel
+PA|stafix static transparent	stafix static transparent
+PA|sticotac satin blanc permanent avec refente, semibrillant fsc mix credit face	sticotac avec refente
+PA|sticotac velin blanc permanent avec refente velin, mat fsc mix credit face	sticotac avec refente
+PA|stucco old mill premium white blanc	stucco old mill premium
+PA|stucco old mill premium white blanc fsc	stucco old mill premium
+PA|superior cb	superior cb
+PA|superior cb blanc fsc mix credit	superior cb
+PA|superior cb fsc mix credit	superior cb
+PA|superior cbbleu fsc mix credit	superior cb
+PA|superior cf bleu fsc mix credit	superior cf
+PA|superior cf canari fsc mix credit	superior cf
+PA|superior cf jaune fsc mix credit	superior cf
+PA|superior cf rose fsc mix credit	superior cf
+PA|superior cf vert	superior cf
+PA|superior cf vert fsc mix credit	superior cf
+PA|superior cfb bleu fsc mix credit	superior cfb
+PA|superior cfb canari	superior cfb
+PA|superior cfb canari fsc mix credit	superior cfb
+PA|superior cfb rose fsc mix credit	superior cfb
+PA|superior cfb vert fsc mix credit	superior cfb
+PA|surbalin glatt	surbalin glatt
+PA|symbol card	symbol card
+PA|symbol card 1 face 100 % fsc	symbol card
+PA|symbol freelife premium white satin	symbol freelife
+PA|papier symbol tatami white	symbol tatami
+PA|symbol wrap	symbol wrap
+PA|symbol wrap	symbol wrap
+PA|symbol wrap blanc fsc mix product	symbol wrap
+PA|synaps	synaps
+PA|synthetique	synthetique
+PA|teknocard	teknocard
+PA|tete de lettre	tete de lettre
+PA|tintoretto	tintoretto gesso
+PA|tintoretto gesso	tintoretto gesso
+PA|tintoretto gesso blanc fsc mix product	tintoretto gesso
+PA|vantage gloss certifie pefc 100%	vantage gloss
+PA|vantage silk certifie pefc 100%	vantage silk
+PA|velin	velin
+PA|velin	velin
+PA|velin blanc	velin
+PA|velin blanc pefc 21876	velin
+PA|velin darches blanc	velin
+PA|papier velin blanc autocollant	velin autocollant
+PA|papier velin blanc autocollant dim	velin autocollant
+PA|verge	verge
+PA|woodstock betulla blanc fsc mix product	woodstock betulla
+PA|woodstock betulla numerique	woodstock betulla
+PA|x per white	xper
+PA|xper white blanc fsc mix product	xper
+PA|yupo / tako	yupo tako
+PA|yupo tako 240mi blanc	yupo tako
+PA|yupo tako offset	yupo tako
+PA|yuppo/tako blanc	yupo tako

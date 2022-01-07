@@ -1,0 +1,1949 @@
+FO|994 x 38 mm	format fini : 994.0 x 38.0 mm
+FO|format fini : 99.40 x 3.80 cm	format fini : 994.0 x 38.0 mm
+FO|format ferme 9,9 x21cm	format fini : 99.0 x 210.0 mm
+FO|format fini : 9.90 x 21.00 cm	format fini : 99.0 x 210.0 mm
+FO|dimension chacune 9.9 x 21cm	format fini : 99.0 x 210.0 mm
+FO|9.9 x 21 cm	format fini : 99.0 x 210.0 mm
+FO|format fini : 99 x 210 mm	format fini : 99.0 x 210.0 mm
+FO|ticket 9.7 x 10 cm + souche 4.3 cm	format fini : 97.0 x 100.0 mm
+FO|format fini : 9.5 x 9.5 cm	format fini : 95.0 x 95.0 mm
+FO|9.5 x 9.5 cm	format fini : 95.0 x 95.0 mm
+FO|format 95 x 210 mm	format fini : 95.0 x 210.0 mm
+FO|ft 9.5 x 14 cm	format fini : 95.0 x 140.0 mm
+FO|93x33 mm	format fini : 93.0 x 33.0 mm
+FO|92 x 80 cm	format fini : 920.0 x 800.0 mm
+FO|92 x 130 cm	format fini : 920.0 x 1300.0 mm
+FO|format 92 x 162 mm	format fini : 92.0 x 162.0 mm
+FO|90 x 90 cm	format fini : 900.0 x 900.0 mm
+FO|900x200 mm	format fini : 900.0 x 200.0 mm
+FO|format : 900x200 mm	format fini : 900.0 x 200.0 mm
+FO|format 900 x 190 mm	format fini : 900.0 x 190.0 mm
+FO|format fini : 90 x 18.5 cm	format fini : 900.0 x 185.0 mm
+FO|ft fini 90 x 95mm	format fini : 90.0 x 95.0 mm
+FO|34x9x9 cm	format fini : 90.0 x 90.0 mm
+FO|format logo 9 x 9 cm	format fini : 90.0 x 90.0 mm
+FO|9x9 cm	format fini : 90.0 x 90.0 mm
+FO|format fini : 9.00 x 7.30 cm	format fini : 90.0 x 73.0 mm
+FO|format fini : 9.00 x 7.00 cm	format fini : 90.0 x 70.0 mm
+FO|9 x 7 cm	format fini : 90.0 x 70.0 mm
+FO|format fini : 9 x 5.50 cm	format fini : 90.0 x 55.0 mm
+FO|90x55 mm	format fini : 90.0 x 55.0 mm
+FO|format fini : 9.00 x 5.00 cm	format fini : 90.0 x 50.0 mm
+FO|format 9 x 5 cm	format fini : 90.0 x 50.0 mm
+FO|9 x 5 cm	format fini : 90.0 x 50.0 mm
+FO|9 x 21 cm	format fini : 90.0 x 210.0 mm
+FO|format fini : 9 x 21 cm	format fini : 90.0 x 210.0 mm
+FO|ft 9 x 20 cm	format fini : 90.0 x 200.0 mm
+FO|format fini : 9.00 x 20.00 cm	format fini : 90.0 x 200.0 mm
+FO|format fini : 9.00 x 18.00 cm	format fini : 90.0 x 180.0 mm
+FO|90x165mm	format fini : 90.0 x 165.0 mm
+FO|format fini : 9 x 16 cm	format fini : 90.0 x 160.0 mm
+FO|ft ferme : 9 x 14.5 cm	format fini : 90.0 x 145.0 mm
+FO|format du bulletin 90 x 140 mm	format fini : 90.0 x 140.0 mm
+FO|format fini : 9 x 14.00 cm	format fini : 90.0 x 140.0 mm
+FO|9x12 cm	format fini : 90.0 x 120.0 mm
+FO|format fini : 9.00 x 12.00 cm	format fini : 90.0 x 120.0 mm
+FO|format fini : 9 x 11 cm	format fini : 90.0 x 110.0 mm
+FO|9 x 11 cm	format fini : 90.0 x 110.0 mm
+FO|ft 893,2 x 424mm	format fini : 893.2 x 424.0 mm
+FO|8.8 x 6 cm	format fini : 88.0 x 60.0 mm
+FO|format fini : 8.80 x 6.00 cm	format fini : 88.0 x 60.0 mm
+FO|format 88 x 162 mm	format fini : 88.0 x 162.0 mm
+FO|format 8.7 x 5.6 cm	format fini : 87.0 x 56.0 mm
+FO|format fini : 8.70 x 5.60 cm	format fini : 87.0 x 56.0 mm
+FO|86,4 x 130 mm	format fini : 86.4 x 130.0 mm
+FO|format 8.64 x 13 cm	format fini : 86.4 x 130.0 mm
+FO|format fini : 8.60 x 5.40 cm	format fini : 86.0 x 54.0 mm
+FO|format : 8,50 x 5,50 cm	format fini : 85.0 x 55.0 mm
+FO|8,5x5,5 cm	format fini : 85.0 x 55.0 mm
+FO|format : 8,5 x 5,5 cm	format fini : 85.0 x 55.0 mm
+FO|format : 8,5 x 5,4 cm	format fini : 85.0 x 54.0 mm
+FO|850x2200mm	format fini : 850.0 x 2200.0 mm
+FO|format ferme : 8,5 x 12,0 cm	format fini : 85.0 x 12.0 mm
+FO|ft 85 x 90 mm	format fini : 85.0 x 90.0 mm
+FO|format fini : 8.50 x 9.00 cm	format fini : 85.0 x 90.0 mm
+FO|format fini : 8.50 x 8.50 cm	format fini : 85.0 x 85.0 mm
+FO|format fini : 8.50 x 7.50 cm	format fini : 85.0 x 75.0 mm
+FO|85 x 55 mm	format fini : 85.0 x 55.0 mm
+FO|format : 85 x 55 mm	format fini : 85.0 x 55.0 mm
+FO|format 8.5 x 5.5 cm	format fini : 85.0 x 55.0 mm
+FO|ft : 8.5 x 5.5 cm	format fini : 85.0 x 55.0 mm
+FO|8.5x5.5 cm	format fini : 85.0 x 55.0 mm
+FO|format fini : 8.50 x 5.50 cm	format fini : 85.0 x 55.0 mm
+FO|8.5 x 5.5 cm	format fini : 85.0 x 55.0 mm
+FO|85x55 mm	format fini : 85.0 x 55.0 mm
+FO|ft 8.5 x 5.5 cm	format fini : 85.0 x 55.0 mm
+FO|ft 85x55 mm	format fini : 85.0 x 55.0 mm
+FO|ft : 85 x 55 mm	format fini : 85.0 x 55.0 mm
+FO|format fini : 8.5 x 5.5 cm	format fini : 85.0 x 55.0 mm
+FO|format fini : 8.5x5.5 cm	format fini : 85.0 x 55.0 mm
+FO|85 x 55mm	format fini : 85.0 x 55.0 mm
+FO|format : 8.5 x 5.5 cm	format fini : 85.0 x 55.0 mm
+FO|plie : 8.5 x 5.5 cm	format fini : 85.0 x 55.0 mm
+FO|format 8.5 x 5.4 cm	format fini : 85.0 x 54.0 mm
+FO|format fini : 8.5 x 5.4 cm	format fini : 85.0 x 54.0 mm
+FO|format fini : 8.50 x 5.40 cm	format fini : 85.0 x 54.0 mm
+FO|8.5 x 5.0 cm	format fini : 85.0 x 50.0 mm
+FO|format fini : 8.50 x 3.00 cm	format fini : 85.0 x 30.0 mm
+FO|8.5 x 3 cm	format fini : 85.0 x 30.0 mm
+FO|85x27 mm	format fini : 85.0 x 27.0 mm
+FO|format fini : 8.50 x 20.00 cm	format fini : 85.0 x 200.0 mm
+FO|format 8.5 x 20 cm	format fini : 85.0 x 200.0 mm
+FO|format 8.5 x 13 cm	format fini : 85.0 x 130.0 mm
+FO|85 x 130 mm	format fini : 85.0 x 130.0 mm
+FO|85x120 mm	format fini : 85.0 x 120.0 mm
+FO|84.1 x 59.4 cm	format fini : 841.0 x 594.0 mm
+FO|format fini : 84.10 x 59.40 cm	format fini : 841.0 x 594.0 mm
+FO|format fini : 84.10 x 118.90 cm	format fini : 841.0 x 1189.0 mm
+FO|format a0	format fini : 841.0 x 1189.0 mm
+FO|84 x 29,7 cm	format fini : 840.0 x 297.0 mm
+FO|format fini : 8.2 x 12.8 cm	format fini : 82.0 x 128.0 mm
+FO|80 x 60 cm	format fini : 800.0 x 600.0 mm
+FO|format 80 x 60 cm	format fini : 800.0 x 600.0 mm
+FO|format fini : 80.00 x 60.00 cm	format fini : 800.0 x 600.0 mm
+FO|format fini : 80.00 x 15.00 cm	format fini : 800.0 x 150.0 mm
+FO|80 x 15 cm	format fini : 800.0 x 150.0 mm
+FO|ft 80 x 120 cm	format fini : 800.0 x 1200.0 mm
+FO|ft : 80 x 120 cm	format fini : 800.0 x 1200.0 mm
+FO|format fini : 80 x 120 cm	format fini : 800.0 x 1200.0 mm
+FO|format fini : 80.00 x 120.00 cm	format fini : 800.0 x 1200.0 mm
+FO|format fini : 80.00 x 100.00 cm	format fini : 800.0 x 1000.0 mm
+FO|ft 80 x 100 cm	format fini : 800.0 x 1000.0 mm
+FO|format fini : 8.00 x 8.00 cm	format fini : 80.0 x 80.0 mm
+FO|format 80 x 80 mm	format fini : 80.0 x 80.0 mm
+FO|format : 80 x 80 mm	format fini : 80.0 x 80.0 mm
+FO|8 x 8 cm	format fini : 80.0 x 80.0 mm
+FO|8x8 cm	format fini : 80.0 x 80.0 mm
+FO|ft 8 x 7.5 cm	format fini : 80.0 x 75.0 mm
+FO|8 x 7 cm	format fini : 80.0 x 70.0 mm
+FO|format fini : 8 x 7 cm	format fini : 80.0 x 70.0 mm
+FO|ft 8 x 5.5 cm	format fini : 80.0 x 55.0 mm
+FO|format 80 x 40 mm	format fini : 80.0 x 40.0 mm
+FO|format fini : 8.00 x 3.50 cm	format fini : 80.0 x 35.0 mm
+FO|format 8x32 cm	format fini : 80.0 x 320.0 mm
+FO|ft : 8 x 3 cm	format fini : 80.0 x 30.0 mm
+FO|format fini : 8.00 x 13.00 cm	format fini : 80.0 x 130.0 mm
+FO|ft 8 x 13 cm	format fini : 80.0 x 130.0 mm
+FO|format 8 x 12 cm	format fini : 80.0 x 120.0 mm
+FO|format 8 x 12 cm pliee	format fini : 80.0 x 120.0 mm
+FO|format fini : 8.00 x 12.00 cm	format fini : 80.0 x 120.0 mm
+FO|format etui tab prestige noir 160x80x12mm	format fini : 80.0 x 12.0 mm
+FO|160x80x12mm	format fini : 80.0 x 12.0 mm
+FO|cartons : 8x10,5 cm	format fini : 80.0 x 105.0 mm
+FO|format fini : 8.00 x 10.00 cm	format fini : 80.0 x 100.0 mm
+FO|795x595 mm	format fini : 795.0 x 595.0 mm
+FO|format 79 x 13 cm	format fini : 790.0 x 130.0 mm
+FO|format 79 x 35 mm	format fini : 79.0 x 35.0 mm
+FO|format fini : 77 x 20 cm	format fini : 770.0 x 200.0 mm
+FO|77 x 20 cm	format fini : 770.0 x 200.0 mm
+FO|format fini : 76.00 x 54.00 cm	format fini : 760.0 x 540.0 mm
+FO|76 x 54 cm	format fini : 760.0 x 540.0 mm
+FO|dimension 760 x 350mm	format fini : 760.0 x 350.0 mm
+FO|75 x 75 cm	format fini : 750.0 x 750.0 mm
+FO|format fini : 75 x 75 cm	format fini : 750.0 x 750.0 mm
+FO|format : 7,5 x 15 cm	format fini : 75.0 x 150.0 mm
+FO|format : 75 x 75 mm	format fini : 75.0 x 75.0 mm
+FO|7.5 x 7.5 cm	format fini : 75.0 x 75.0 mm
+FO|format fini : 7.50 x 7.50 cm	format fini : 75.0 x 75.0 mm
+FO|75 x 130 mm	format fini : 75.0 x 130.0 mm
+FO|7.5 x 10.5 cm	format fini : 75.0 x 105.0 mm
+FO|format fini : 7.50 x 10.50 cm	format fini : 75.0 x 105.0 mm
+FO|75x105 mm	format fini : 75.0 x 105.0 mm
+FO|ft fini : 7.5 x 10 cm	format fini : 75.0 x 100.0 mm
+FO|7,4 x 5,2 cm	format fini : 74.0 x 52.0 mm
+FO|format : 734 x 273 mm	format fini : 734.0 x 273.0 mm
+FO|7,3 x 2,2 cm	format fini : 73.0 x 22.0 mm
+FO|format de : 73x50 mm	format fini : 73.0 x 50.0 mm
+FO|format papier 72 x 102 cm	format fini : 720.0 x 1020.0 mm
+FO|72 x 102 cm	format fini : 720.0 x 1020.0 mm
+FO|format : 71 x 181 cm	format fini : 710.0 x 1810.0 mm
+FO|71 x 181 cm	format fini : 710.0 x 1810.0 mm
+FO|700x400 mm	format fini : 700.0 x 400.0 mm
+FO|format fini : 70 x 15 cm	format fini : 700.0 x 150.0 mm
+FO|format 70 x 102 cm	format fini : 700.0 x 1020.0 mm
+FO|70 x 100 cm	format fini : 700.0 x 1000.0 mm
+FO|700x1000 mm	format fini : 700.0 x 1000.0 mm
+FO|format papier 70 x 100 cm	format fini : 700.0 x 1000.0 mm
+FO|format : 70 x 80 mm	format fini : 70.0 x 80.0 mm
+FO|7 x 7 cm	format fini : 70.0 x 70.0 mm
+FO|format fini : 7.00 x 7.00 cm	format fini : 70.0 x 70.0 mm
+FO|format 7.00 x 5.50 cm	format fini : 70.0 x 55.0 mm
+FO|ft 7 x 5.5 cm	format fini : 70.0 x 55.0 mm
+FO|ft developpe : 7 x 45.8 cm	format fini : 70.0 x 458.0 mm
+FO|format fini : 7.00 x 29.00 cm	format fini : 70.0 x 290.0 mm
+FO|format fini : 7 x 15.00 cm	format fini : 70.0 x 150.0 mm
+FO|ft 7 x 15 cm	format fini : 70.0 x 150.0 mm
+FO|format fini : 7 x 11 cm	format fini : 70.0 x 110.0 mm
+FO|7 x 11 cm	format fini : 70.0 x 110.0 mm
+FO|format fini : 7.00 x 10.50 cm	format fini : 70.0 x 105.0 mm
+FO|ft 7 x 10.5 cm	format fini : 70.0 x 105.0 mm
+FO|format fini : 7.00 x 10.00 cm	format fini : 70.0 x 100.0 mm
+FO|format 7 x 10 cm	format fini : 70.0 x 100.0 mm
+FO|695 x 995 mm	format fini : 695.0 x 995.0 mm
+FO|format fini : 68.5 x 63.5 cm	format fini : 685.0 x 635.0 mm
+FO|675x37 mm	format fini : 675.0 x 37.0 mm
+FO|format fini : 66.00 x 50.00 cm	format fini : 660.0 x 500.0 mm
+FO|format developpe 66 x 50 cm	format fini : 660.0 x 500.0 mm
+FO|format fini : 65.50 x 60.00 cm	format fini : 655.0 x 600.0 mm
+FO|format 65.5 x 60 cm	format fini : 655.0 x 600.0 mm
+FO|654 x 38 mm	format fini : 654.0 x 38.0 mm
+FO|format fini : 65.4 x 3.8 cm	format fini : 654.0 x 38.0 mm
+FO|65 x 92 cm	format fini : 650.0 x 920.0 mm
+FO|format fini : 65.00 x 92.00 cm	format fini : 650.0 x 920.0 mm
+FO|dimension environ 65 x 45 cm	format fini : 650.0 x 450.0 mm
+FO|format fini : 65 x 102 cm	format fini : 650.0 x 1020.0 mm
+FO|65 x 68 mm	format fini : 65.0 x 68.0 mm
+FO|format 6.5 x 6.8 cm	format fini : 65.0 x 68.0 mm
+FO|645 x 915 mm	format fini : 645.0 x 915.0 mm
+FO|format 640 x 970 mm	format fini : 640.0 x 970.0 mm
+FO|ft : 64 x 80 cm	format fini : 640.0 x 800.0 mm
+FO|6,4 x 3,0 cm	format fini : 64.0 x 30.0 mm
+FO|ft : 64 x 15 cm	format fini : 640.0 x 150.0 mm
+FO|ft : 6.4 x 8.9 cm	format fini : 64.0 x 89.0 mm
+FO|6.3 x 8.8 cm	format fini : 63.0 x 88.0 mm
+FO|ft : 6.3 x 8.80 cm	format fini : 63.0 x 88.0 mm
+FO|ft ferme : 6.3 x 8.8 cm	format fini : 63.0 x 88.0 mm
+FO|format fini : 6.3 x 8.8 cm	format fini : 63.0 x 88.0 mm
+FO|6.2 x 10.7 cm	format fini : 62.0 x 107.0 mm
+FO|format fini : 6.20 x 10.70 cm	format fini : 62.0 x 107.0 mm
+FO|format papier : 61.00 x 36.00 cm	format fini : 610.0 x 360.0 mm
+FO|format fini : 60 x 80 cm	format fini : 600.0 x 800.0 mm
+FO|60x80 cm	format fini : 600.0 x 800.0 mm
+FO|60 x 80 cm	format fini : 600.0 x 800.0 mm
+FO|format de la feuille 60 x 57 cm	format fini : 600.0 x 570.0 mm
+FO|ft : 60 x 57 cm	format fini : 600.0 x 570.0 mm
+FO|60 x 49.5 cm	format fini : 600.0 x 495.0 mm
+FO|format fini : 60 x 49.5 cm	format fini : 600.0 x 495.0 mm
+FO|h 600 x 465 mm	format fini : 600.0 x 465.0 mm
+FO|60x40cm	format fini : 600.0 x 400.0 mm
+FO|ft : 60 x 40 cm	format fini : 600.0 x 400.0 mm
+FO|format fini : 60 x 20 cm	format fini : 600.0 x 200.0 mm
+FO|60 x 18 cm	format fini : 600.0 x 180.0 mm
+FO|60x100cm	format fini : 600.0 x 1000.0 mm
+FO|format fini : 6 x 9 cm	format fini : 60.0 x 90.0 mm
+FO|6 x 9 cm	format fini : 60.0 x 90.0 mm
+FO|format 6 x 8 cm	format fini : 60.0 x 80.0 mm
+FO|60 x 80 mm	format fini : 60.0 x 80.0 mm
+FO|format fini : 6.00 x 8.00 cm	format fini : 60.0 x 80.0 mm
+FO|format 6 x 7 cm	format fini : 60.0 x 70.0 mm
+FO|format fini : 6.00 x 7.00 cm	format fini : 60.0 x 70.0 mm
+FO|60 x 60 mm	format fini : 60.0 x 60.0 mm
+FO|format 6 x 6 cm	format fini : 60.0 x 60.0 mm
+FO|6 x 35 cm	format fini : 60.0 x 350.0 mm
+FO|format fini : 6.00 x 6.00 x 3.30 cm	format fini : 60.0 x 33.0 mm
+FO|format fini : 6.00 x 30.00 cm	format fini : 60.0 x 300.0 mm
+FO|format : 6 x 14 cm	format fini : 60.0 x 140.0 mm
+FO|format 6 x 10 cm	format fini : 60.0 x 100.0 mm
+FO|format fini : 6 x 10 cm	format fini : 60.0 x 100.0 mm
+FO|59,4 x 84,1 cm	format fini : 594.0 x 841.0 mm
+FO|format a1	format fini : 594.0 x 841.0 mm
+FO|format fini : 59.40 x 84.10 cm	format fini : 594.0 x 841.0 mm
+FO|format : a1	format fini : 594.0 x 841.0 mm
+FO|59.4 x 84.1 cm	format fini : 594.0 x 841.0 mm
+FO|594x444mm	format fini : 594.0 x 444.0 mm
+FO|59.4 x 42 cm	format fini : 594.0 x 420.0 mm
+FO|format fini : 57.00 x 42.00 cm	format fini : 570.0 x 420.0 mm
+FO|format fini : 5.70 x 8.60 cm	format fini : 57.0 x 86.0 mm
+FO|5.7 x 8.6 cm	format fini : 57.0 x 86.0 mm
+FO|56 x 38 cm	format fini : 560.0 x 380.0 mm
+FO|format fini : 56.00 x 38.00 cm	format fini : 560.0 x 380.0 mm
+FO|format fini : 56.00 x 106.00 cm	format fini : 560.0 x 1060.0 mm
+FO|format 55.1 x 53.5 cm	format fini : 551.0 x 535.0 mm
+FO|format fini : 5,50 x 8,50 cm	format fini : 55.0 x 85.0 mm
+FO|55 x 43 cm	format fini : 550.0 x 430.0 mm
+FO|format fini : 5.50 x 9.00 cm	format fini : 55.0 x 90.0 mm
+FO|ft 5.5 x 9 cm	format fini : 55.0 x 90.0 mm
+FO|format : 5.5 x 8.5 cm	format fini : 55.0 x 85.0 mm
+FO|5.5x8.5 cm	format fini : 55.0 x 85.0 mm
+FO|format fini : 5.50 x 8.50 cm	format fini : 55.0 x 85.0 mm
+FO|ft : 5.5 x 8.5 cm	format fini : 55.0 x 85.0 mm
+FO|ft 5.5 x 8.5 cm	format fini : 55.0 x 85.0 mm
+FO|format fini : 5.5 x 8.5 cm	format fini : 55.0 x 85.0 mm
+FO|55 x 85mm	format fini : 55.0 x 85.0 mm
+FO|format 55 x 85 mm	format fini : 55.0 x 85.0 mm
+FO|5.5x8.5cm	format fini : 55.0 x 85.0 mm
+FO|5.5 x 8.5 cm	format fini : 55.0 x 85.0 mm
+FO|ft 5.5 x 8.4 cm	format fini : 55.0 x 84.0 mm
+FO|format fini : 5.50 x 8.40 cm	format fini : 55.0 x 84.0 mm
+FO|ft ferme : 5.5 x 7 cm	format fini : 55.0 x 70.0 mm
+FO|format fini : 5.50 x 17.00 cm	format fini : 55.0 x 170.0 mm
+FO|5.5 x 17 cm	format fini : 55.0 x 170.0 mm
+FO|55x17mm	format fini : 55.0 x 17.0 mm
+FO|ft 54.6 x 1.5 cm	format fini : 546.0 x 15.0 mm
+FO|format fini : 54.60 x 1.50 cm	format fini : 546.0 x 15.0 mm
+FO|format fini : 54.50 x 40.00 cm	format fini : 545.0 x 400.0 mm
+FO|5,4 x 8,6 cm	format fini : 54.0 x 86.0 mm
+FO|format fini : 54.00 x 40.00 cm	format fini : 540.0 x 400.0 mm
+FO|format : 54 x 40 cm	format fini : 540.0 x 400.0 mm
+FO|ft 5.4 x 8.5 cm	format fini : 54.0 x 85.0 mm
+FO|5.4 x 8.5 cm	format fini : 54.0 x 85.0 mm
+FO|format fini : 5.40 x 8.50 cm	format fini : 54.0 x 85.0 mm
+FO|ft 5.4 x 18 cm	format fini : 54.0 x 180.0 mm
+FO|format fini : 5.40 x 18.00 cm	format fini : 54.0 x 180.0 mm
+FO|format 52 x 72 cm	format fini : 520.0 x 720.0 mm
+FO|52 x 72 cm	format fini : 520.0 x 720.0 mm
+FO|format fini : 52.00 x 44.50 cm	format fini : 520.0 x 445.0 mm
+FO|format fini : 51.10 x 49.50 cm	format fini : 511.0 x 495.0 mm
+FO|format 511 x 495 mm	format fini : 511.0 x 495.0 mm
+FO|ft 501 x 300 cm	format fini : 5010.0 x 3000.0 mm
+FO|50,0 x 12,0 cm	format fini : 500.0 x 120.0 mm
+FO|format fini : 50.00 x 96.00 cm	format fini : 500.0 x 960.0 mm
+FO|50 x 80 cm	format fini : 500.0 x 800.0 mm
+FO|ft : 50 x 70 cm	format fini : 500.0 x 700.0 mm
+FO|format 50 x 70 cm	format fini : 500.0 x 700.0 mm
+FO|50x70 cm	format fini : 500.0 x 700.0 mm
+FO|format fini : 50 x 70 cm	format fini : 500.0 x 700.0 mm
+FO|format fini : 50.00 x 70.00 cm	format fini : 500.0 x 700.0 mm
+FO|format 50 x 63 cm	format fini : 500.0 x 630.0 mm
+FO|ft 50 x 60 cm	format fini : 500.0 x 600.0 mm
+FO|format fini : 50.00 x 60.00 cm	format fini : 500.0 x 600.0 mm
+FO|format 50 x 59.5 cm	format fini : 500.0 x 595.0 mm
+FO|format fini : 50.00 x 58.00 cm	format fini : 500.0 x 580.0 mm
+FO|format fini : 50 x 50 cm	format fini : 500.0 x 500.0 mm
+FO|50 x 50 cm	format fini : 500.0 x 500.0 mm
+FO|format fini : 500 x 370 mm	format fini : 500.0 x 370.0 mm
+FO|format fini : 50.00 x 32.00 cm	format fini : 500.0 x 320.0 mm
+FO|ft 50 x 20 cm	format fini : 500.0 x 200.0 mm
+FO|format fini : 50 x 20 cm	format fini : 500.0 x 200.0 mm
+FO|format fini : 50 x 15 cm	format fini : 500.0 x 150.0 mm
+FO|50 x 15 cm	format fini : 500.0 x 150.0 mm
+FO|format 50 x 120 cm	format fini : 500.0 x 1200.0 mm
+FO|format 50 x 12 cm	format fini : 500.0 x 120.0 mm
+FO|ft 50 x 12 cm	format fini : 500.0 x 120.0 mm
+FO|format 50 x 100 cm	format fini : 500.0 x 1000.0 mm
+FO|format fini : 5.00 x 9.00 cm	format fini : 50.0 x 90.0 mm
+FO|format fini : 5.00 x 8.50 cm	format fini : 50.0 x 85.0 mm
+FO|5 x 7 cm	format fini : 50.0 x 70.0 mm
+FO|format fini : 5.00 x 7.00 cm	format fini : 50.0 x 70.0 mm
+FO|format fini : 5.00 x 6.5 cm	format fini : 50.0 x 65.0 mm
+FO|format 5 x 6.5 cm	format fini : 50.0 x 65.0 mm
+FO|5 x 5 cm	format fini : 50.0 x 50.0 mm
+FO|5x5 cm	format fini : 50.0 x 50.0 mm
+FO|format : 50 x 50 mm	format fini : 50.0 x 50.0 mm
+FO|format 50 x 50 mm	format fini : 50.0 x 50.0 mm
+FO|format 50 x 25 mm	format fini : 50.0 x 25.0 mm
+FO|format fini : 5.00 x 21.00 cm	format fini : 50.0 x 210.0 mm
+FO|ft : 5 x 21 cm	format fini : 50.0 x 210.0 mm
+FO|5 x 18 cm	format fini : 50.0 x 180.0 mm
+FO|format 5x17,5 cm	format fini : 50.0 x 175.0 mm
+FO|ft 5 x 15 cm	format fini : 50.0 x 150.0 mm
+FO|5 x 1.5 cm	format fini : 50.0 x 15.0 mm
+FO|50 x 15 mm	format fini : 50.0 x 15.0 mm
+FO|5 x 10.5 cm	format fini : 50.0 x 105.0 mm
+FO|format fini : 5.00 x 10.50 cm	format fini : 50.0 x 105.0 mm
+FO|format 50 x 100 mm	format fini : 50.0 x 100.0 mm
+FO|format fini : 49.6 x 46.5 cm	format fini : 496.0 x 465.0 mm
+FO|format fini : 49.50 x 96.00 cm	format fini : 495.0 x 960.0 mm
+FO|format 49.5 x 96 cm	format fini : 495.0 x 960.0 mm
+FO|format 490 x 680 mm	format fini : 490.0 x 680.0 mm
+FO|format fini : 49 x 49 cm	format fini : 490.0 x 490.0 mm
+FO|48 x 33 cm	format fini : 480.0 x 330.0 mm
+FO|format developpe : environ 47 x 35 cm	format fini : 470.0 x 350.0 mm
+FO|surface : 4.7 x 1.8 cm	format fini : 47.0 x 18.0 mm
+FO|ft 46.4 x 32 cm	format fini : 464.0 x 320.0 mm
+FO|format 46.4 x 32 cm	format fini : 464.0 x 320.0 mm
+FO|ft 46.3 x 8 cm	format fini : 463.0 x 80.0 mm
+FO|46 x 46 cm	format fini : 460.0 x 460.0 mm
+FO|45x45 cm	format fini : 450.0 x 450.0 mm
+FO|format fini : 45.00 x 45.00 cm	format fini : 450.0 x 450.0 mm
+FO|format 450 x 450 mm	format fini : 450.0 x 450.0 mm
+FO|format 45 x 45 cm	format fini : 450.0 x 450.0 mm
+FO|dimension avant decoupe : 45x45cm	format fini : 450.0 x 450.0 mm
+FO|format fini : 45.00 x 3.00 cm	format fini : 450.0 x 30.0 mm
+FO|dimension 45 x 25 cm	format fini : 450.0 x 250.0 mm
+FO|format 45 x 14 cm	format fini : 450.0 x 140.0 mm
+FO|45 x 14 cm	format fini : 450.0 x 140.0 mm
+FO|ft 45 x 14 cm	format fini : 450.0 x 140.0 mm
+FO|45x14 cm	format fini : 450.0 x 140.0 mm
+FO|43 x 67 cm	format fini : 430.0 x 670.0 mm
+FO|format fini : 43.00 x 67.00 cm	format fini : 430.0 x 670.0 mm
+FO|format 43 x 15 mm	format fini : 43.0 x 15.0 mm
+FO|425 x 335 mm	format fini : 425.0 x 335.0 mm
+FO|42,0 x 29,7 cm	format fini : 420.0 x 297.0 mm
+FO|format fini : 42 x 71 cm	format fini : 420.0 x 710.0 mm
+FO|ft 42 x 59.4 cm	format fini : 420.0 x 594.0 mm
+FO|format 42 x 59.4 cm	format fini : 420.0 x 594.0 mm
+FO|format a2	format fini : 420.0 x 594.0 mm
+FO|format a2 : 420 x 594 mm	format fini : 420.0 x 594.0 mm
+FO|format fini : 42.00 x 59.40 cm	format fini : 420.0 x 594.0 mm
+FO|ft : a2	format fini : 420.0 x 594.0 mm
+FO|420 x 330 mm	format fini : 420.0 x 330.0 mm
+FO|format: 42 x 29,7 cm	format fini : 420.0 x 297.0 mm
+FO|format fini : 42.00 x 29.70 cm	format fini : 420.0 x 297.0 mm
+FO|format fini : 420.0 x 297.0 mm	format fini : 420.0 x 297.0 mm
+FO|ouvert : 420x270 mm	format fini : 420.0 x 270.0 mm
+FO|ft 42 x 100 mm	format fini : 42.0 x 100.0 mm
+FO|format fini : 4.20 x 10.00 cm	format fini : 42.0 x 100.0 mm
+FO|ft 41.15 x 18 cm	format fini : 411.5 x 180.0 mm
+FO|format fini : 41.15 x 18.00 cm	format fini : 411.5 x 180.0 mm
+FO|40,5x28,5cm	format fini : 405.0 x 285.0 mm
+FO|ft 40.5 x 28.5 cm	format fini : 405.0 x 285.0 mm
+FO|format fini : 40.50 x 28.50 cm	format fini : 405.0 x 285.0 mm
+FO|ft developpe : 40.5 x 20 cm	format fini : 405.0 x 200.0 mm
+FO|format : 40,0 x 55,0 cm	format fini : 400.0 x 550.0 mm
+FO|format fini : 40 x 74 cm	format fini : 400.0 x 740.0 mm
+FO|format fini : 40 x 60 cm	format fini : 400.0 x 600.0 mm
+FO|40 x 60 cm	format fini : 400.0 x 600.0 mm
+FO|ft : 40 x 60 cm	format fini : 400.0 x 600.0 mm
+FO|ft 40 x 60 cm	format fini : 400.0 x 600.0 mm
+FO|format fini : 400 x 600 mm	format fini : 400.0 x 600.0 mm
+FO|format fini : 40.00 x 60.00 cm	format fini : 400.0 x 600.0 mm
+FO|40x60cm	format fini : 400.0 x 600.0 mm
+FO|format 40 x 60 cm	format fini : 400.0 x 600.0 mm
+FO|format : 40 x 60 cm	format fini : 400.0 x 600.0 mm
+FO|400 x 565.7 mm	format fini : 400.0 x 565.7 mm
+FO|40 x 50 cm	format fini : 400.0 x 500.0 mm
+FO|format fini : 40.00 x 50.00 cm	format fini : 400.0 x 500.0 mm
+FO|40 x 5 cm	format fini : 400.0 x 50.0 mm
+FO|format fini : 40.00 x 5.00 cm	format fini : 400.0 x 50.0 mm
+FO|format fini : 400.0 x 420.0 mm	format fini : 400.0 x 420.0 mm
+FO|40x40cm	format fini : 400.0 x 400.0 mm
+FO|dimension avant decoupe : 40x40cm	format fini : 400.0 x 400.0 mm
+FO|40x40 cm	format fini : 400.0 x 400.0 mm
+FO|400 x 210 mm	format fini : 400.0 x 210.0 mm
+FO|40 x 12 cm	format fini : 400.0 x 120.0 mm
+FO|4 x 9 cm	format fini : 40.0 x 90.0 mm
+FO|format fini : 4 x 9 cm	format fini : 40.0 x 90.0 mm
+FO|format fini : 4.00 x 9.00 cm	format fini : 40.0 x 90.0 mm
+FO|ft 4 x 9 cm	format fini : 40.0 x 90.0 mm
+FO|format etiquette 4 x 8 cm	format fini : 40.0 x 80.0 mm
+FO|40x80 mm	format fini : 40.0 x 80.0 mm
+FO|ft 4 x 4 cm	format fini : 40.0 x 40.0 mm
+FO|format 4 x 4 cm	format fini : 40.0 x 40.0 mm
+FO|format fini : 4.00 x 4.00 cm	format fini : 40.0 x 40.0 mm
+FO|40 x 35 mm	format fini : 40.0 x 35.0 mm
+FO|40x15mm	format fini : 40.0 x 15.0 mm
+FO|format 4 x 10 cm	format fini : 40.0 x 100.0 mm
+FO|39.7 x 6.7 cm	format fini : 397.0 x 67.0 mm
+FO|format fini : 39.70 x 6.70 cm	format fini : 397.0 x 67.0 mm
+FO|395 x 305 mm	format fini : 395.0 x 305.0 mm
+FO|format 39.5 x 24.5 cm	format fini : 395.0 x 245.0 mm
+FO|format 385 x 587 mm	format fini : 385.0 x 587.0 mm
+FO|format fini : 38 x 52 cm	format fini : 380.0 x 520.0 mm
+FO|format fini : 38.00 x 120.00 cm	format fini : 380.0 x 1200.0 mm
+FO|ft 38 x 120 cm	format fini : 380.0 x 1200.0 mm
+FO|3.8x3.8 cm	format fini : 38.0 x 38.0 mm
+FO|format 3.8 x 3.8 cm	format fini : 38.0 x 38.0 mm
+FO|3.8 x 3.5 cm	format fini : 38.0 x 35.0 mm
+FO|3.8 x 33 cm	format fini : 38.0 x 330.0 mm
+FO|3.8x33 cm	format fini : 38.0 x 330.0 mm
+FO|372x55 mm	format fini : 372.0 x 55.0 mm
+FO|format 37 x 57 cm	format fini : 370.0 x 570.0 mm
+FO|37 x 57 cm	format fini : 370.0 x 570.0 mm
+FO|37x37 cm	format fini : 370.0 x 370.0 mm
+FO|format fini : 37 x 37 cm	format fini : 370.0 x 370.0 mm
+FO|370x225 mm	format fini : 370.0 x 225.0 mm
+FO|format fini : 36.00 x 53.50 cm	format fini : 360.0 x 535.0 mm
+FO|format fini : 36.00 x 105 cm	format fini : 360.0 x 1050.0 mm
+FO|35 x 48 cm	format fini : 350.0 x 480.0 mm
+FO|format fini : 35.00 x 48.00 cm	format fini : 350.0 x 480.0 mm
+FO|format fini : 35.00 x 3.50 cm	format fini : 350.0 x 35.0 mm
+FO|350x35mm	format fini : 350.0 x 35.0 mm
+FO|format 350x35mm	format fini : 350.0 x 35.0 mm
+FO|ft 35 x 3.5 cm	format fini : 350.0 x 35.0 mm
+FO|format fini : 22.00 x 35.00 x 13.00 cm	format fini : 350.0 x 130.0 mm
+FO|format fini : 22 x 35 x 13h cm	format fini : 350.0 x 130.0 mm
+FO|35x115 cm	format fini : 350.0 x 1150.0 mm
+FO|format fini : 35 x 115 cm	format fini : 350.0 x 1150.0 mm
+FO|ft 3.5 x 3.8 cm	format fini : 35.0 x 38.0 mm
+FO|format 34 x 72 cm	format fini : 340.0 x 720.0 mm
+FO|33.5 x 43 cm	format fini : 335.0 x 430.0 mm
+FO|format fini : 33.00 x 38.00 cm	format fini : 330.0 x 380.0 mm
+FO|format fini : 33.00 x 25.00 cm	format fini : 330.0 x 250.0 mm
+FO|ft ferme : 33 x 19 cm	format fini : 330.0 x 190.0 mm
+FO|format fini : 33.00 x 18.00 cm	format fini : 330.0 x 180.0 mm
+FO|33 x 18 cm	format fini : 330.0 x 180.0 mm
+FO|ft : 32 x 68.5 cm	format fini : 320.0 x 685.0 mm
+FO|format fini : 32.00 x 68.50 cm	format fini : 320.0 x 685.0 mm
+FO|265 x 320 x 40 mm	format fini : 320.0 x 40.0 mm
+FO|ft 32 x 32 cm	format fini : 320.0 x 320.0 mm
+FO|format fini : 32.00 x 32.00 cm	format fini : 320.0 x 320.0 mm
+FO|320x225 mm	format fini : 320.0 x 225.0 mm
+FO|320x160mm	format fini : 320.0 x 160.0 mm
+FO|format fini : 31.2 x 29.7 cm	format fini : 312.0 x 297.0 mm
+FO|format fini : 31 x 48.5 cm	format fini : 310.0 x 485.0 mm
+FO|format 31 x 41 cm	format fini : 310.0 x 410.0 mm
+FO|ft 31 x 41 cm	format fini : 310.0 x 410.0 mm
+FO|31 x 23 cm	format fini : 310.0 x 230.0 mm
+FO|format fini : 31.00 x 23.00 cm	format fini : 310.0 x 230.0 mm
+FO|format fini : 31.00 x 21 cm	format fini : 310.0 x 210.0 mm
+FO|format fini : 31 x 21 cm	format fini : 310.0 x 210.0 mm
+FO|format fini : 31 x 100.5 cm	format fini : 310.0 x 1005.0 mm
+FO|305x35 mm	format fini : 305.0 x 35.0 mm
+FO|format 303 x 216 mm	format fini : 303.0 x 216.0 mm
+FO|format fini : 30.30 x 21.60 cm	format fini : 303.0 x 216.0 mm
+FO|3000 x 700 mm	format fini : 3000.0 x 700.0 mm
+FO|format 30 x 80 cm	format fini : 300.0 x 800.0 mm
+FO|format fini : 30.00 x 50.00 cm	format fini : 300.0 x 500.0 mm
+FO|300 x 480 mm	format fini : 300.0 x 480.0 mm
+FO|format 30 x 48 cm	format fini : 300.0 x 480.0 mm
+FO|format fini : 12.00 x 30.00 x 44.00 cm	format fini : 300.0 x 440.0 mm
+FO|30 x 43 cm	format fini : 300.0 x 430.0 mm
+FO|format fini : 30.00 x 43.00 cm	format fini : 300.0 x 430.0 mm
+FO|format fini : 30 x 42 cm	format fini : 300.0 x 420.0 mm
+FO|30 x 40 cms	format fini : 300.0 x 400.0 mm
+FO|format fini : 30 x 40 cm	format fini : 300.0 x 400.0 mm
+FO|format ferme : 30 x 40 cm	format fini : 300.0 x 400.0 mm
+FO|format fini : 30.00 x 40.00 cm	format fini : 300.0 x 400.0 mm
+FO|300 x 400 mm	format fini : 300.0 x 400.0 mm
+FO|format 30 x 40 cm	format fini : 300.0 x 400.0 mm
+FO|30*40cm	format fini : 300.0 x 400.0 mm
+FO|30 x 40 cm	format fini : 300.0 x 400.0 mm
+FO|format fini : 30.00 x 30.00 cm	format fini : 300.0 x 300.0 mm
+FO|format ferme : 30 x 30 cm	format fini : 300.0 x 300.0 mm
+FO|30x30 cm	format fini : 300.0 x 300.0 mm
+FO|ft 30 x 30 cm	format fini : 300.0 x 300.0 mm
+FO|30 x 23 cm	format fini : 300.0 x 230.0 mm
+FO|ft 30 x 200 cm	format fini : 300.0 x 2000.0 mm
+FO|format fini : 30.00 x 200.00 cm	format fini : 300.0 x 2000.0 mm
+FO|format 30 x 120 cm	format fini : 300.0 x 1200.0 mm
+FO|format fini : 21.00 l x 30.00l x 10.00h cm	format fini : 300.0 x 100.0 mm
+FO|260x30x320 mm	format fini : 30.0 x 320.0 mm
+FO|format : 260x30x320 mm	format fini : 30.0 x 320.0 mm
+FO|3 x 3 cm	format fini : 30.0 x 30.0 mm
+FO|taille 3*2.7 cm	format fini : 30.0 x 27.0 mm
+FO|format fini : 3 x 2.7 cm	format fini : 30.0 x 27.0 mm
+FO|3 x 2.7 cm	format fini : 30.0 x 27.0 mm
+FO|299x45 mm	format fini : 299.0 x 45.0 mm
+FO|299x41 mm	format fini : 299.0 x 41.0 mm
+FO|29,7 x 42 cm	format fini : 297.0 x 420.0 mm
+FO|format ferme : 29,7 x 21 cm	format fini : 297.0 x 210.0 mm
+FO|format fini : 29.70 x 42.00 cm	format fini : 297.0 x 420.0 mm
+FO|format fini : 29.7 x 42 cm	format fini : 297.0 x 420.0 mm
+FO|fo a3	format fini : 297.0 x 420.0 mm
+FO|format fini : 297.0 x 420.0 mm	format fini : 297.0 x 420.0 mm
+FO|format fini 297 x 420 mm	format fini : 297.0 x 420.0 mm
+FO|ft a3	format fini : 297.0 x 420.0 mm
+FO|format de la planche : 29.7 x 42 cm	format fini : 297.0 x 420.0 mm
+FO|format a3	format fini : 297.0 x 420.0 mm
+FO|format 29.7 x 42 cm	format fini : 297.0 x 420.0 mm
+FO|format : a3	format fini : 297.0 x 420.0 mm
+FO|29.7 x 42 cm	format fini : 297.0 x 420.0 mm
+FO|format fini : 29.70 x 29.70 cm	format fini : 297.0 x 297.0 mm
+FO|format fini 297 x 297 mm	format fini : 297.0 x 297.0 mm
+FO|ft 29.7 x 29.7 cm	format fini : 297.0 x 297.0 mm
+FO|ft : 29.7 x 21 cm	format fini : 297.0 x 210.0 mm
+FO|297x210 mm	format fini : 297.0 x 210.0 mm
+FO|format fini : 29.7 x 21 cm	format fini : 297.0 x 210.0 mm
+FO|format fini : 29.70 x 21.00 cm	format fini : 297.0 x 210.0 mm
+FO|format fini : 29.70 x 21.00 cm	format fini : 297.0 x 210.0 mm
+FO|297x210mm	format fini : 297.0 x 210.0 mm
+FO|format 29.7x21 cm	format fini : 297.0 x 210.0 mm
+FO|format : 29.7 x 21 cm	format fini : 297.0 x 210.0 mm
+FO|297 x 190 mm	format fini : 297.0 x 190.0 mm
+FO|format 29.6 x 34.3 cm	format fini : 296.0 x 343.0 mm
+FO|format fini : 29.50 x 10.50 cm	format fini : 295.0 x 105.0 mm
+FO|format : 29.5 x 10 cm	format fini : 295.0 x 100.0 mm
+FO|29x29 cm	format fini : 290.0 x 290.0 mm
+FO|29x24 cm	format fini : 290.0 x 240.0 mm
+FO|format fini : 29.00 x 24.00 cm	format fini : 290.0 x 240.0 mm
+FO|29x18 cm	format fini : 290.0 x 180.0 mm
+FO|284 x 179 mm	format fini : 284.0 x 179.0 mm
+FO|280x55 mm	format fini : 280.0 x 55.0 mm
+FO|format fini : 28 x 28 x 4 cm	format fini : 280.0 x 40.0 mm
+FO|28x 28 x 4 cm	format fini : 280.0 x 40.0 mm
+FO|dimensions : 28 x 30 cm	format fini : 280.0 x 300.0 mm
+FO|format fini : 28 x 21 cm	format fini : 280.0 x 210.0 mm
+FO|format fini : 28.00 x 21.00 cm	format fini : 280.0 x 210.0 mm
+FO|276*112 mm	format fini : 276.0 x 112.0 mm
+FO|format fini : 27.50 x 21.50 cm	format fini : 275.0 x 215.0 mm
+FO|270x39 mm	format fini : 270.0 x 39.0 mm
+FO|27x27 cm	format fini : 270.0 x 270.0 mm
+FO|27 x 27 cm	format fini : 270.0 x 270.0 mm
+FO|format fini : 27.00 x 27.00 cm	format fini : 270.0 x 270.0 mm
+FO|format fini : 27.00 x 11.4 cm	format fini : 270.0 x 114.0 mm
+FO|format fini : 26.50 x 31.00 cm	format fini : 265.0 x 310.0 mm
+FO|format fini : 26.20 x 31.00 cm	format fini : 262.0 x 310.0 mm
+FO|260x62 mm	format fini : 260.0 x 62.0 mm
+FO|26 x 36 cm	format fini : 260.0 x 360.0 mm
+FO|26x26 cm	format fini : 260.0 x 260.0 mm
+FO|format 25.5 x 45 cm	format fini : 255.0 x 450.0 mm
+FO|255 x 450 mm	format fini : 255.0 x 450.0 mm
+FO|format fini : 25.50 x 17.60 cm	format fini : 255.0 x 176.0 mm
+FO|format fini : 25.40 x 19.00 cm	format fini : 254.0 x 190.0 mm
+FO|250 x 80 cm	format fini : 2500.0 x 800.0 mm
+FO|format 25 x 35.3cm	format fini : 250.0 x 353.0 mm
+FO|25x33cm	format fini : 250.0 x 330.0 mm
+FO|25 x 33 cm	format fini : 250.0 x 330.0 mm
+FO|25 x 25 cm	format fini : 250.0 x 250.0 mm
+FO|format fini : 25 x 25 cm	format fini : 250.0 x 250.0 mm
+FO|25x21cm	format fini : 250.0 x 210.0 mm
+FO|format : 25 x 21 cm	format fini : 250.0 x 210.0 mm
+FO|format fini 25 x 17.5 cm	format fini : 250.0 x 175.0 mm
+FO|25 x 17 cm	format fini : 250.0 x 170.0 mm
+FO|ft developpe approximatif : 25 x 15.8 cm	format fini : 250.0 x 158.0 mm
+FO|250x150 mm	format fini : 250.0 x 150.0 mm
+FO|format 25 x 14 cm	format fini : 250.0 x 140.0 mm
+FO|25 x 14 cm	format fini : 250.0 x 140.0 mm
+FO|25 x 10 cm	format fini : 250.0 x 100.0 mm
+FO|25 x 40 mm	format fini : 25.0 x 40.0 mm
+FO|dimensions 25 x 40 mm	format fini : 25.0 x 40.0 mm
+FO|25x25 mm	format fini : 25.0 x 25.0 mm
+FO|format 2.5 x 2.5 cm	format fini : 25.0 x 25.0 mm
+FO|format fini : 2.50 x 2.50 cm	format fini : 25.0 x 25.0 mm
+FO|ft 2.5 x 2.5 cm	format fini : 25.0 x 25.0 mm
+FO|format fini : 24.50 x 11.00 cm	format fini : 245.0 x 110.0 mm
+FO|format 24.15 x 39.4 cm	format fini : 241.5 x 394.0 mm
+FO|24,0 x 31,5 cm	format fini : 240.0 x 315.0 mm
+FO|format 24 x 34 cm	format fini : 240.0 x 340.0 mm
+FO|format fini : 24.00 x 34.00 cm	format fini : 240.0 x 340.0 mm
+FO|format fini : 24.00 x 32.00 cm	format fini : 240.0 x 320.0 mm
+FO|format fini : 240.0 x 320.0 mm	format fini : 240.0 x 320.0 mm
+FO|24 x 31.5 cm	format fini : 240.0 x 315.0 mm
+FO|format fini : 24.00 x 31.50 cm	format fini : 240.0 x 315.0 mm
+FO|format fini : 24.00 x 31.40 cm	format fini : 240.0 x 314.0 mm
+FO|24 x 30 cm	format fini : 240.0 x 300.0 mm
+FO|format fini : 238 x 160 mm	format fini : 238.0 x 160.0 mm
+FO|format fini : 23.70 x 31.00 cm	format fini : 237.0 x 310.0 mm
+FO|23.7 x 31 cm	format fini : 237.0 x 310.0 mm
+FO|ft 234.5 x 315 mm	format fini : 234.5 x 315.0 mm
+FO|233,5 x 386 mm	format fini : 233.5 x 386.0 mm
+FO|format 23.35 x 38.6 cm	format fini : 233.5 x 386.0 mm
+FO|ft developpe approximatif : 23 x 42 cm	format fini : 230.0 x 420.0 mm
+FO|format fini : 23.00 x 30.00 cm	format fini : 230.0 x 300.0 mm
+FO|format fini : 23.00 x 29.70 cm	format fini : 230.0 x 297.0 mm
+FO|ouvert = 230x260 mm	format fini : 230.0 x 260.0 mm
+FO|format fini : 23 x 14 cm	format fini : 230.0 x 140.0 mm
+FO|23 x 14 cm	format fini : 230.0 x 140.0 mm
+FO|format : 229 x 324 cm	format fini : 2290.0 x 3240.0 mm
+FO|format : 22.90 x 32.40 cm	format fini : 229.0 x 324.0 mm
+FO|ft : 22.9 x 32.4 cm	format fini : 229.0 x 324.0 mm
+FO|22.90x32.40cm	format fini : 229.0 x 324.0 mm
+FO|format : 229 x 324 mm	format fini : 229.0 x 324.0 mm
+FO|22.9 x 32.4 cm	format fini : 229.0 x 324.0 mm
+FO|229x324 mm	format fini : 229.0 x 324.0 mm
+FO|format plie : 22.50 x 31.00 cm	format fini : 225.0 x 310.0 mm
+FO|225x297 mm	format fini : 225.0 x 297.0 mm
+FO|ft 22.5 x 23 cm	format fini : 225.0 x 230.0 mm
+FO|format fini : 22.50 x 23.00 cm	format fini : 225.0 x 230.0 mm
+FO|ft 230 x 225 x 20 mm	format fini : 225.0 x 20.0 mm
+FO|format : 230 x 225 x 20 mm	format fini : 225.0 x 20.0 mm
+FO|format ferme : 225 x 130 mm	format fini : 225.0 x 130.0 mm
+FO|format fini : 22.20 x 10.00 cm	format fini : 222.0 x 100.0 mm
+FO|format 221 x 98 mm	format fini : 221.0 x 98.0 mm
+FO|22,0 x 21,0 cm ferme	format fini : 220.0 x 210.0 mm
+FO|ft 22 x 31 cm	format fini : 220.0 x 310.0 mm
+FO|chemise a rabats 22 x 31 cm	format fini : 220.0 x 310.0 mm
+FO|22 x 31 cm	format fini : 220.0 x 310.0 mm
+FO|chemise 22 x 31 cm	format fini : 220.0 x 310.0 mm
+FO|format fini : 22.00 x 31.00 cm	format fini : 220.0 x 310.0 mm
+FO|format fini : 22 x 30,5 cm	format fini : 220.0 x 305.0 mm
+FO|format ferme : 22 x 30,5 cm	format fini : 220.0 x 305.0 mm
+FO|plie : 22x30.5 cm	format fini : 220.0 x 305.0 mm
+FO|format fini : 22.00 x 30.50 cm	format fini : 220.0 x 305.0 mm
+FO|22 x 30.5 cm	format fini : 220.0 x 305.0 mm
+FO|ft ferme : 22 x 30 cm	format fini : 220.0 x 300.0 mm
+FO|22 x 30 cm	format fini : 220.0 x 300.0 mm
+FO|format 220*300mm	format fini : 220.0 x 300.0 mm
+FO|format fini : 22.00 x 30.00 cm	format fini : 220.0 x 300.0 mm
+FO|22 x 22 cm	format fini : 220.0 x 220.0 mm
+FO|35 x 22 x 13 cm	format fini : 220.0 x 130.0 mm
+FO|format fini : 31.00 l x 22.00l x 10.00h cm	format fini : 310.0 x 220.0 x 100.0 mm
+FO|format ferme : 219 x 305 mm	format fini : 219.0 x 305.0 mm
+FO|format fini : 21.90 x 30.50 cm	format fini : 219.0 x 305.0 mm
+FO|format fini : 21.60 x 14.00 cm	format fini : 216.0 x 140.0 mm
+FO|ft 21.6 x 14 cm	format fini : 216.0 x 140.0 mm
+FO|format fini : 21,5 x 30,5 cm	format fini : 215.0 x 305.0 mm
+FO|format fini : 21.59 x 27.94 cm	format fini : 215.9 x 279.4 mm
+FO|format ferme : 215 x 305 mm	format fini : 215.0 x 305.0 mm
+FO|fomat plie 21.5 x 30.5 cm	format fini : 215.0 x 305.0 mm
+FO|format fini : 21.50 x 30.50 cm	format fini : 215.0 x 305.0 mm
+FO|format fini : 21.50 x 27.50 cm	format fini : 215.0 x 275.0 mm
+FO|format 21.5 x 27.5 cm	format fini : 215.0 x 275.0 mm
+FO|format 21.4 x 20 cm	format fini : 214.0 x 200.0 mm
+FO|format fini : 213 x 300mm	format fini : 213.0 x 300.0 mm
+FO|format 212,5 x 450 mm	format fini : 212.5 x 450.0 mm
+FO|format fini : 21.20 x 29.90 cm	format fini : 212.0 x 299.0 mm
+FO|interieur : 21,0 x 29,7 cm	format fini : 210.0 x 297.0 mm
+FO|format ferme : 21,0 x 29,7 cm	format fini : 210.0 x 297.0 mm
+FO|21,0 x 29,7 cm plie	format fini : 210.0 x 297.0 mm
+FO|format fini 21,0 x 29,7 cm	format fini : 210.0 x 297.0 mm
+FO|21,0 x 29,7 cm	format fini : 210.0 x 297.0 mm
+FO|format fini : 21.00 x 9.90 cm	format fini : 210.0 x 99.0 mm
+FO|format 210 x 99 mm	format fini : 210.0 x 99.0 mm
+FO|format ferme 21 x 9.9 cm	format fini : 210.0 x 99.0 mm
+FO|format 21 x 9.5 cm	format fini : 210.0 x 95.0 mm
+FO|format fini : 21.00 x 9.50 cm	format fini : 210.0 x 95.0 mm
+FO|ft 170 x 210 x 74 mm	format fini : 210.0 x 74.0 mm
+FO|21 x 50 cm	format fini : 210.0 x 500.0 mm
+FO|format ferme 21 x 45 cm	format fini : 210.0 x 450.0 mm
+FO|21 x 40 cm	format fini : 210.0 x 400.0 mm
+FO|format fini : 21.00 x 40.00 cm	format fini : 210.0 x 400.0 mm
+FO|format : environ 21 x 40 cm	format fini : 210.0 x 400.0 mm
+FO|50 x 2 21 x 31.20 cm	format fini : 210.0 x 312.0 mm
+FO|format fini : 21.00 x 31.20 cm	format fini : 210.0 x 312.0 mm
+FO|21 x 31.2 cm	format fini : 210.0 x 312.0 mm
+FO|format 21 x 29,7 cm ferme	format fini : 210.0 x 297.0 mm
+FO|format fini : 21 x 29,7 cm	format fini : 210.0 x 297.0 mm
+FO|21 x 29,7 cm	format fini : 210.0 x 297.0 mm
+FO|format fini : 21x29,7 cm	format fini : 210.0 x 297.0 mm
+FO|format 21*29,7 cm	format fini : 210.0 x 297.0 mm
+FO|format a4 : 21 x 29,7 cm	format fini : 210.0 x 297.0 mm
+FO|format 21 x 29,7 cm	format fini : 210.0 x 297.0 mm
+FO|format : 21 x29,7 cm	format fini : 210.0 x 297.0 mm
+FO|format : 21*29,7 cm	format fini : 210.0 x 297.0 mm
+FO|21*29,7 cm	format fini : 210.0 x 297.0 mm
+FO|format : 21.00 x 29.70 cm	format fini : 210.0 x 297.0 mm
+FO|format a4 ferme	format fini : 210.0 x 297.0 mm
+FO|format fini : a4	format fini : 210.0 x 297.0 mm
+FO|ft a4	format fini : 210.0 x 297.0 mm
+FO|format fini : 210 x 297 mm	format fini : 210.0 x 297.0 mm
+FO|format : a4 ferme	format fini : 210.0 x 297.0 mm
+FO|format ferme a4	format fini : 210.0 x 297.0 mm
+FO|ft : 21 x 29.7 cm	format fini : 210.0 x 297.0 mm
+FO|format 21 x 29.7 cm	format fini : 210.0 x 297.0 mm
+FO|format de la planche : 21.00 x 29.70 cm	format fini : 210.0 x 297.0 mm
+FO|fini 21 x 29.7 cm	format fini : 210.0 x 297.0 mm
+FO|format 210 x 297 mm	format fini : 210.0 x 297.0 mm
+FO|format fini : 21.00 x 29.7 cm	format fini : 210.0 x 297.0 mm
+FO|ft : a4	format fini : 210.0 x 297.0 mm
+FO|format a4	format fini : 210.0 x 297.0 mm
+FO|format fini : 21x29.7cm	format fini : 210.0 x 297.0 mm
+FO|format plie a4	format fini : 210.0 x 297.0 mm
+FO|feuillet a4	format fini : 210.0 x 297.0 mm
+FO|format 21 x 29.7 cm fini	format fini : 210.0 x 297.0 mm
+FO|ff a4	format fini : 210.0 x 297.0 mm
+FO|format fini : 21 x 29.7cm	format fini : 210.0 x 297.0 mm
+FO|ft 21 x 29.7 cm	format fini : 210.0 x 297.0 mm
+FO|format plie : a4	format fini : 210.0 x 297.0 mm
+FO|21x29.7cm	format fini : 210.0 x 297.0 mm
+FO|format fini : 210x297mm	format fini : 210.0 x 297.0 mm
+FO|format ferme 210 x 297 mm	format fini : 210.0 x 297.0 mm
+FO|format fini : 21.00 x 29.70 cm + souche en tete	format fini : 210.0 x 297.0 mm
+FO|format fini : 21.00 x 29.70 cm	format fini : 210.0 x 297.0 mm
+FO|format fini dune planche: 21.00 x 29.70 cm	format fini : 210.0 x 297.0 mm
+FO|210 x 297 mm	format fini : 210.0 x 297.0 mm
+FO|format : 210 x 297 mm	format fini : 210.0 x 297.0 mm
+FO|ft ferme : 21 x 29.7 cm	format fini : 210.0 x 297.0 mm
+FO|format : a4	format fini : 210.0 x 297.0 mm
+FO|ferme : 21x29.7 cm	format fini : 210.0 x 297.0 mm
+FO|format 210 x 297 mm	format fini : 210.0 x 297.0 mm
+FO|21 x 29.7 cm	format fini : 210.0 x 297.0 mm
+FO|format fini de 210 x 297 mm	format fini : 210.0 x 297.0 mm
+FO|format fini: 21.00 x 29.70 cm	format fini : 210.0 x 297.0 mm
+FO|format fini a4	format fini : 210.0 x 297.0 mm
+FO|ft ferme a4	format fini : 210.0 x 297.0 mm
+FO|format fini : 210.0 x 297.0 mm	format fini : 210.0 x 297.0 mm
+FO|ft fini a4	format fini : 210.0 x 297.0 mm
+FO|format fini : 21 x 29.7 cm	format fini : 210.0 x 297.0 mm
+FO|format : ferme 210 x 297 mm	format fini : 210.0 x 297.0 mm
+FO|210x297 mm	format fini : 210.0 x 297.0 mm
+FO|format fini a4 portrait	format fini : 210.0 x 297.0 mm
+FO|format plie : 21 x 29.7 cm	format fini : 210.0 x 297.0 mm
+FO|format : 21 x 29.7 cm	format fini : 210.0 x 297.0 mm
+FO|format fini 21.00 x 29.70 cm	format fini : 210.0 x 297.0 mm
+FO|plie 210 x 297 mm	format fini : 210.0 x 297.0 mm
+FO|ft a4 plie	format fini : 210.0 x 297.0 mm
+FO|format ferme : 210 x 297mm	format fini : 210.0 x 297.0 mm
+FO|plie a4	format fini : 210.0 x 297.0 mm
+FO|format fini : 210x297 mm	format fini : 210.0 x 297.0 mm
+FO|ferme : a4	format fini : 210.0 x 297.0 mm
+FO|format 210 x 29.7 mm	format fini : 210.0 x 297.0 mm
+FO|21 x 28.5 cm	format fini : 210.0 x 285.0 mm
+FO|format fini : 21.00 x 28.50 cm	format fini : 210.0 x 285.0 mm
+FO|format fini : 210.0 x 285.0 mm	format fini : 210.0 x 285.0 mm
+FO|21 x 28 cm	format fini : 210.0 x 280.0 mm
+FO|format fini : 21.00 x 28.00 cm	format fini : 210.0 x 280.0 mm
+FO|210x270 mm	format fini : 210.0 x 270.0 mm
+FO|format : 21x27cm	format fini : 210.0 x 270.0 mm
+FO|format ferme : 210x270 mm	format fini : 210.0 x 270.0 mm
+FO|format fini : 21x27cm	format fini : 210.0 x 270.0 mm
+FO|format fini : 21.00 x 27.00 cm	format fini : 210.0 x 270.0 mm
+FO|21 x 23 cm	format fini : 210.0 x 230.0 mm
+FO|format 210 x 221 mm	format fini : 210.0 x 221.0 mm
+FO|format fini : 21.00 x 21.00 cm	format fini : 210.0 x 210.0 mm
+FO|ft 21 x 21 cm	format fini : 210.0 x 210.0 mm
+FO|format fini : 21 x 21 cm	format fini : 210.0 x 210.0 mm
+FO|21 x 21 cm	format fini : 210.0 x 210.0 mm
+FO|21x21cm	format fini : 210.0 x 210.0 mm
+FO|format 21 x 20 cm	format fini : 210.0 x 200.0 mm
+FO|format fini : 21.00 x 20.00 cm	format fini : 210.0 x 200.0 mm
+FO|format 21 x 15 cm	format fini : 210.0 x 150.0 mm
+FO|ft 21 x 15 cm	format fini : 210.0 x 150.0 mm
+FO|21 x 15cm	format fini : 210.0 x 150.0 mm
+FO|format fini : 21 x 15 cm	format fini : 210.0 x 150.0 mm
+FO|format fini : 21.00 x 15.00 cm	format fini : 210.0 x 150.0 mm
+FO|21 x 15 cm	format fini : 210.0 x 150.0 mm
+FO|format fini plie 210 x 150 mm	format fini : 210.0 x 150.0 mm
+FO|format ferme : 210 x 148,5 mm	format fini : 210.0 x 148.5 mm
+FO|format : 210 x 148 mm	format fini : 210.0 x 148.0 mm
+FO|format ferme : 210 x 148 mm	format fini : 210.0 x 148.0 mm
+FO|21x14.8 cm	format fini : 210.0 x 148.0 mm
+FO|format fini : 21.00 x 14.80 cm	format fini : 210.0 x 148.0 mm
+FO|210 x 148 mm	format fini : 210.0 x 148.0 mm
+FO|format fini 210 x 148mm	format fini : 210.0 x 148.0 mm
+FO|format 21 x 14.8 cm	format fini : 210.0 x 148.0 mm
+FO|ft : 21 x 14.8 cm	format fini : 210.0 x 148.0 mm
+FO|format fini : 21.00 x 14.50 cm	format fini : 210.0 x 145.0 mm
+FO|21 x 14 cm	format fini : 210.0 x 140.0 mm
+FO|format fini : 21.00 x 14.00 cm	format fini : 210.0 x 140.0 mm
+FO|ferme 21 x 10,5 cm	format fini : 210.0 x 105.0 mm
+FO|21x10.5 cm	format fini : 210.0 x 105.0 mm
+FO|21 x 10.5 cm	format fini : 210.0 x 105.0 mm
+FO|format fini : 21.00 x 10.50 cm	format fini : 210.0 x 105.0 mm
+FO|format 21 x 10 cm	format fini : 210.0 x 100.0 mm
+FO|ft 21 x 10 cm	format fini : 210.0 x 100.0 mm
+FO|format enveloppe 21 x 10 cm	format fini : 210.0 x 100.0 mm
+FO|format fini : 21.00 x 10.00 cm	format fini : 210.0 x 100.0 mm
+FO|21 x 10 cm	format fini : 210.0 x 100.0 mm
+FO|plie : 21 x 10 cm	format fini : 210.0 x 100.0 mm
+FO|format fini 21 x 10 cm	format fini : 210.0 x 100.0 mm
+FO|ft : 21x10 cm	format fini : 210.0 x 100.0 mm
+FO|ft 21 x10 cm	format fini : 210.0 x 100.0 mm
+FO|format fini : 21 x 10 cm	format fini : 210.0 x 100.0 mm
+FO|209 x 200 mm	format fini : 209.0 x 200.0 mm
+FO|format 20.9 x 20 cm	format fini : 209.0 x 200.0 mm
+FO|format 20,5 x 9,5cm	format fini : 205.0 x 95.0 mm
+FO|20,5x27 cm	format fini : 205.0 x 270.0 mm
+FO|dimension 2050 x 1000 mm	format fini : 2050.0 x 1000.0 mm
+FO|ft : 2050 x 1000 mm	format fini : 2050.0 x 1000.0 mm
+FO|format fermee : 204 x 204 mm	format fini : 204.0 x 204.0 mm
+FO|format fini : 20.00 x 9.00 cm	format fini : 200.0 x 90.0 mm
+FO|ft 20 x 9 cm	format fini : 200.0 x 90.0 mm
+FO|format 300 x 200 x 9 mm	format fini : 200.0 x 9.0 mm
+FO|format plie : 20.00 x 30.00 cm	format fini : 200.0 x 300.0 mm
+FO|format : 200 x 300mm	format fini : 200.0 x 300.0 mm
+FO|format fini : 20.00 x 28.00 cm	format fini : 200.0 x 280.0 mm
+FO|20 x 28 cm	format fini : 200.0 x 280.0 mm
+FO|format fini : 20 x 28 cm	format fini : 200.0 x 280.0 mm
+FO|format fini : 20.00 x 27.50 cm	format fini : 200.0 x 275.0 mm
+FO|format fini : 200.0 x 270.0 mm	format fini : 200.0 x 270.0 mm
+FO|format fini : 20.00 x 26.00 cm	format fini : 200.0 x 260.0 mm
+FO|20 x 26 cm	format fini : 200.0 x 260.0 mm
+FO|format 20 x 21 cm	format fini : 200.0 x 210.0 mm
+FO|200 x 210 mm	format fini : 200.0 x 210.0 mm
+FO|format fini : 20.00 x 21.00 cm	format fini : 200.0 x 210.0 mm
+FO|format : 20x20 cm	format fini : 200.0 x 200.0 mm
+FO|format 20 x 20 cm	format fini : 200.0 x 200.0 mm
+FO|format ferme : 200 x 200 mm	format fini : 200.0 x 200.0 mm
+FO|ferme 20 x 20 cm	format fini : 200.0 x 200.0 mm
+FO|20 x 20 cm	format fini : 200.0 x 200.0 mm
+FO|20x20 cm	format fini : 200.0 x 200.0 mm
+FO|format fini : 20.00 x 20.00 cm	format fini : 200.0 x 200.0 mm
+FO|ft : 20 x 20 cm	format fini : 200.0 x 200.0 mm
+FO|ft 20 x 100 cm	format fini : 200.0 x 1000.0 mm
+FO|269.5x198.4x76.9mm	format fini : 198.4 x 76.9 mm
+FO|format : 19,0 x 26,5 cm	format fini : 190.0 x 265.0 mm
+FO|ft 19 x 8.5 cm	format fini : 190.0 x 85.0 mm
+FO|format fini : 19 x 8.5 cm	format fini : 190.0 x 85.0 mm
+FO|19x42 cm	format fini : 190.0 x 420.0 mm
+FO|ff 190 x 297 mm	format fini : 190.0 x 297.0 mm
+FO|format fini : 19 x 27.5 cm	format fini : 190.0 x 275.0 mm
+FO|ft 19 x 27 cm	format fini : 190.0 x 270.0 mm
+FO|format 190 x 270 mm	format fini : 190.0 x 270.0 mm
+FO|format fini : 19 x 27 cm	format fini : 190.0 x 270.0 mm
+FO|19x27 cm	format fini : 190.0 x 270.0 mm
+FO|format fini : 19.00 x 27.00 cm	format fini : 190.0 x 270.0 mm
+FO|ft 19 x 26 cm	format fini : 190.0 x 260.0 mm
+FO|19 x 26 cm	format fini : 190.0 x 260.0 mm
+FO|format fini : 19.00 x 26.00 cm	format fini : 190.0 x 260.0 mm
+FO|formation 19 x 26 cm	format fini : 190.0 x 260.0 mm
+FO|ferme :19 x 25 cm	format fini : 190.0 x 250.0 mm
+FO|format fini : 19 x 19 cm	format fini : 190.0 x 190.0 mm
+FO|19 x 19 cm	format fini : 190.0 x 190.0 mm
+FO|format : 190 x 190mm	format fini : 190.0 x 190.0 mm
+FO|format fini : 1.90 x 4.00 cm	format fini : 19.0 x 40.0 mm
+FO|19 x 40 mm	format fini : 19.0 x 40.0 mm
+FO|ft 18.8 x 18.8 cm	format fini : 188.0 x 188.0 mm
+FO|ft developpe de la couv : 18.7 x 14.8 cm	format fini : 187.0 x 148.0 mm
+FO|format fini 185 x 90 mm	format fini : 185.0 x 90.0 mm
+FO|ferme = 185x170 mm	format fini : 185.0 x 170.0 mm
+FO|183x183mm	format fini : 183.0 x 183.0 mm
+FO|ft : 18.2 x 11.0 cm	format fini : 182.0 x 110.0 mm
+FO|format 182 x 110mm	format fini : 182.0 x 110.0 mm
+FO|format fini : 180.00 x 50.00 cm	format fini : 1800.0 x 500.0 mm
+FO|180 x 270 mm	format fini : 180.0 x 270.0 mm
+FO|format fini : 18.00 x 24.00 cm	format fini : 180.0 x 240.0 mm
+FO|format fini : 18.00 x 21.00 cm	format fini : 180.0 x 210.0 mm
+FO|format fini : 18 x 21 cm	format fini : 180.0 x 210.0 mm
+FO|ft 18 x 21 cm	format fini : 180.0 x 210.0 mm
+FO|format fini de la planche: 18.00 x 18.00 cm	format fini : 180.0 x 180.0 mm
+FO|format ferme 18x18 cm	format fini : 180.0 x 180.0 mm
+FO|18 x 18 cm ferme	format fini : 180.0 x 180.0 mm
+FO|format fini : 18.00 x 12.00 cm	format fini : 180.0 x 120.0 mm
+FO|ft : 18 x 10 cm	format fini : 180.0 x 100.0 mm
+FO|format fini : 18.00 x 10.00 cm	format fini : 180.0 x 100.0 mm
+FO|format fini : 17.80 x 7.00 cm	format fini : 178.0 x 70.0 mm
+FO|17.8 x 7 cm	format fini : 178.0 x 70.0 mm
+FO|175 x 80 mm	format fini : 175.0 x 80.0 mm
+FO|17.5 x 24.3 cm	format fini : 175.0 x 243.0 mm
+FO|format fini : 17.50 x 24.00 cm	format fini : 175.0 x 240.0 mm
+FO|format fini : 17.50 x 21 cm	format fini : 175.0 x 210.0 mm
+FO|ft 17.5 x 21 cm	format fini : 175.0 x 210.0 mm
+FO|format fini 175 x115 mm	format fini : 175.0 x 115.0 mm
+FO|210 x 170 x 74 mm	format fini : 210.0 x 170.0 x 74.0 mm
+FO|ft :17 x5.5 cm	format fini : 170.0 x 55.0 mm
+FO|format fini : 17.00 x 5.50 cm	format fini : 170.0 x 55.0 mm
+FO|format fini : 17.00 x 25.00 cm	format fini : 170.0 x 250.0 mm
+FO|ft 17x25 cm	format fini : 170.0 x 250.0 mm
+FO|17x25 cm	format fini : 170.0 x 250.0 mm
+FO|format fini : 17.00 x 24.00 cm	format fini : 170.0 x 240.0 mm
+FO|17 x 24 cm	format fini : 170.0 x 240.0 mm
+FO|format fini : 170.0 x 240.0 mm	format fini : 170.0 x 240.0 mm
+FO|ft 17 x 17 cm	format fini : 170.0 x 170.0 mm
+FO|format 17 x 17 cm	format fini : 170.0 x 170.0 mm
+FO|17 x 17 cm	format fini : 170.0 x 170.0 mm
+FO|format ferme 17 x 12 cm	format fini : 170.0 x 120.0 mm
+FO|ft : 1.7 x 3.6 cm	format fini : 17.0 x 36.0 mm
+FO|format fini : 1.70 x 3.60 cm	format fini : 17.0 x 36.0 mm
+FO|taille 1.7*3.6 cm	format fini : 17.0 x 36.0 mm
+FO|format : 167 x 150 cm	format fini : 1670.0 x 1500.0 mm
+FO|167 x 150 cm	format fini : 1670.0 x 1500.0 mm
+FO|format fini : 16.70 x 10.00 cm	format fini : 167.0 x 100.0 mm
+FO|format : 16.6 x 5.5 cm	format fini : 166.0 x 55.0 mm
+FO|165x240mm	format fini : 165.0 x 240.0 mm
+FO|165 x 230 mm	format fini : 165.0 x 230.0 mm
+FO|165 x 230 mm	format fini : 165.0 x 230.0 mm
+FO|12.2 x 16.3 x 6.5 cm	format fini : 163.0 x 65.0 mm
+FO|enveloppe : 16,2 x 11,4 cm	format fini : 162.0 x 114.0 mm
+FO|format : 16.20 x 22.90 cm	format fini : 162.0 x 229.0 mm
+FO|16.2 x 22.9 cm	format fini : 162.0 x 229.0 mm
+FO|162 x 229 mm	format fini : 162.0 x 229.0 mm
+FO|format fini : 16.20x22.90cm	format fini : 162.0 x 229.0 mm
+FO|162x229mm	format fini : 162.0 x 229.0 mm
+FO|160 x 60 cm	format fini : 1600.0 x 600.0 mm
+FO|format 160 x 100 cm	format fini : 1600.0 x 1000.0 mm
+FO|ft : 160 x 100 cm	format fini : 1600.0 x 1000.0 mm
+FO|format fini 160x250mm	format fini : 160.0 x 250.0 mm
+FO|format fini : 16 x 25 cm	format fini : 160.0 x 250.0 mm
+FO|format fini : 16.00 x 24.00 cm	format fini : 160.0 x 240.0 mm
+FO|format fini 160x230 mm	format fini : 160.0 x 230.0 mm
+FO|format fini 160x230mm	format fini : 160.0 x 230.0 mm
+FO|format fini : 16.00 x 23.00 cm	format fini : 160.0 x 230.0 mm
+FO|ferme = 160x225 mm	format fini : 160.0 x 225.0 mm
+FO|format fini : 16.00 x 22.00 cm	format fini : 160.0 x 220.0 mm
+FO|16 x 16 cm	format fini : 160.0 x 160.0 mm
+FO|format ferme : 16x16cm	format fini : 160.0 x 160.0 mm
+FO|format fini : 157 x 94 cm	format fini : 1570.0 x 940.0 mm
+FO|format fini : 157 x 88 cm	format fini : 1570.0 x 880.0 mm
+FO|format fini : 157.00 x 38.50 cm	format fini : 1570.0 x 385.0 mm
+FO|157x157 mm	format fini : 157.0 x 157.0 mm
+FO|format fini 157x157 mm	format fini : 157.0 x 157.0 mm
+FO|11 x 15.5 x 6 cm	format fini : 155.0 x 60.0 mm
+FO|11 x 15.5 x 5.5 cm	format fini : 155.0 x 55.0 mm
+FO|format 11 x 15.5 x 5.5 cm	format fini : 155.0 x 55.0 mm
+FO|ft : 21.5 x 15.5 x 5 cm	format fini : 155.0 x 50.0 mm
+FO|ft fini 155x215mm	format fini : 155.0 x 215.0 mm
+FO|format ferme : 155 x 210 mm	format fini : 155.0 x 210.0 mm
+FO|15x9.5 cm	format fini : 150.0 x 95.0 mm
+FO|format fini : 15.00 x 9.50 cm	format fini : 150.0 x 95.0 mm
+FO|ft : 15 x 8 cm	format fini : 150.0 x 80.0 mm
+FO|format fini : 15.00 x 8.00 cm	format fini : 150.0 x 80.0 mm
+FO|150 x 80 mm	format fini : 150.0 x 80.0 mm
+FO|format : 15 x 8 cm	format fini : 150.0 x 80.0 mm
+FO|format 15 x 8 cm	format fini : 150.0 x 80.0 mm
+FO|format 150 x 75 mm	format fini : 150.0 x 75.0 mm
+FO|format : 15 x 7 cm	format fini : 150.0 x 70.0 mm
+FO|format fini : 15.00 x 7.00 cm	format fini : 150.0 x 70.0 mm
+FO|15 x 7 cm	format fini : 150.0 x 70.0 mm
+FO|format fini : 15 x 7 cm	format fini : 150.0 x 70.0 mm
+FO|format fini : 150 x 70 mm	format fini : 150.0 x 70.0 mm
+FO|ft: 15 x 7 cm	format fini : 150.0 x 70.0 mm
+FO|format 15 x 7 cm	format fini : 150.0 x 70.0 mm
+FO|format ferme 15*30 cm	format fini : 150.0 x 300.0 mm
+FO|format 150 x 300 mm	format fini : 150.0 x 300.0 mm
+FO|15 x 30 cm	format fini : 150.0 x 300.0 mm
+FO|format fini : 15.00 x 30.00 cm	format fini : 150.0 x 300.0 mm
+FO|format 15 x 30 cm	format fini : 150.0 x 300.0 mm
+FO|format ferme 15 x 25 cm	format fini : 150.0 x 250.0 mm
+FO|ft fini : 15 x 24 cm	format fini : 150.0 x 240.0 mm
+FO|ft 15 x 23 cm	format fini : 150.0 x 230.0 mm
+FO|format fini : 15.00 x 23.00 cm	format fini : 150.0 x 230.0 mm
+FO|ft 15 x 21 cm	format fini : 150.0 x 210.0 mm
+FO|format fini : 15 x 21 cm	format fini : 150.0 x 210.0 mm
+FO|format fini : 150.0 x 210.0 mm	format fini : 150.0 x 210.0 mm
+FO|150 x 210mm	format fini : 150.0 x 210.0 mm
+FO|format plie : 150x210 mm	format fini : 150.0 x 210.0 mm
+FO|150x210mm	format fini : 150.0 x 210.0 mm
+FO|format fini : 15.00 x 21.00 cm	format fini : 150.0 x 210.0 mm
+FO|format fini 15 x 21 cm	format fini : 150.0 x 210.0 mm
+FO|format 15x21 cm	format fini : 150.0 x 210.0 mm
+FO|format 15 x 21 cm	format fini : 150.0 x 210.0 mm
+FO|plie 15x21 cm	format fini : 150.0 x 210.0 mm
+FO|15 x 21 cm	format fini : 150.0 x 210.0 mm
+FO|15x21 cm	format fini : 150.0 x 210.0 mm
+FO|format fini : 15.00 x 20.00 cm	format fini : 150.0 x 200.0 mm
+FO|15 x 20 cm	format fini : 150.0 x 200.0 mm
+FO|format fini 150x190 mm	format fini : 150.0 x 190.0 mm
+FO|format fini : 15.00 x 15.00 cm	format fini : 150.0 x 150.0 mm
+FO|ff 150 x 150 mm	format fini : 150.0 x 150.0 mm
+FO|format : 150x150 mm ferme	format fini : 150.0 x 150.0 mm
+FO|150 x 150 mm	format fini : 150.0 x 150.0 mm
+FO|15 x 15 cm ferme	format fini : 150.0 x 150.0 mm
+FO|ft 150 x 150 mm	format fini : 150.0 x 150.0 mm
+FO|ft 15 x 15 cm	format fini : 150.0 x 150.0 mm
+FO|ferme : 15x15cm	format fini : 150.0 x 150.0 mm
+FO|format 150 x 150 mm	format fini : 150.0 x 150.0 mm
+FO|format 15x15 cm	format fini : 150.0 x 150.0 mm
+FO|format 15 x 15 cm	format fini : 150.0 x 150.0 mm
+FO|15 x 15 cm	format fini : 150.0 x 150.0 mm
+FO|format 150 x 120 mm	format fini : 150.0 x 120.0 mm
+FO|15 x 10.5 cm	format fini : 150.0 x 105.0 mm
+FO|format fini : 15 x 10.5 cm	format fini : 150.0 x 105.0 mm
+FO|format fini : 15.00 x 10.50 cm	format fini : 150.0 x 105.0 mm
+FO|format fini : 21.00 l x 15.00l x 10.00h cm	format fini : 150.0 x 100.0 mm
+FO|format fini : 25.00 l x 15.00l x 10.00h cm	format fini : 150.0 x 100.0 mm
+FO|15x10cm	format fini : 150.0 x 100.0 mm
+FO|format 150 x 100 mm	format fini : 150.0 x 100.0 mm
+FO|14.9 x 10.8 cm	format fini : 149.0 x 108.0 mm
+FO|format : 148,5 x 210 mm	format fini : 148.5 x 210.0 mm
+FO|format : 148,5 x 210 mm	format fini : 148.5 x 210.0 mm
+FO|format : 148,5x210 mm ferme	format fini : 148.5 x 210.0 mm
+FO|format fini 14,8 x 21,0 cm	format fini : 148.0 x 210.0 mm
+FO|interieur : 14,8 x 21,0 cm	format fini : 148.0 x 210.0 mm
+FO|format a5 : 14,8x21,0 cm	format fini : 148.0 x 210.0 mm
+FO|14,8 x 21 cm	format fini : 148.0 x 210.0 mm
+FO|format fini 14,8 x 21 cm	format fini : 148.0 x 210.0 mm
+FO|format : 14,8 x 21cm	format fini : 148.0 x 210.0 mm
+FO|format fini : 14.85 x 21 cm	format fini : 148.5 x 210.0 mm
+FO|dimension chacune 14.85 x 21cm	format fini : 148.5 x 210.0 mm
+FO|format ferme : 148.5*210 mm	format fini : 148.5 x 210.0 mm
+FO|format fini : 14.85 x 21.00 cm	format fini : 148.5 x 210.0 mm
+FO|format fini : 148.5 x 210 mm	format fini : 148.5 x 210.0 mm
+FO|14.85 x 21 cm	format fini : 148.5 x 210.0 mm
+FO|ft developpe : 14.8 x 45.5 cm	format fini : 148.0 x 455.0 mm
+FO|14.8x22.3 cm	format fini : 148.0 x 223.0 mm
+FO|14.8 x 22.3 cm	format fini : 148.0 x 223.0 mm
+FO|format 14.8 x 21 cm	format fini : 148.0 x 210.0 mm
+FO|format fini : 14.8 x 21 cm	format fini : 148.0 x 210.0 mm
+FO|plie 14.8 x 21 cm	format fini : 148.0 x 210.0 mm
+FO|ft : a5	format fini : 148.0 x 210.0 mm
+FO|ft ferme : a5	format fini : 148.0 x 210.0 mm
+FO|format a5	format fini : 148.0 x 210.0 mm
+FO|format fini : 14.80 x 21.00 cm	format fini : 148.0 x 210.0 mm
+FO|format fini : a5	format fini : 148.0 x 210.0 mm
+FO|format 148 x 210 mm ferme	format fini : 148.0 x 210.0 mm
+FO|ft : 14.8 x 21 cm ferme	format fini : 148.0 x 210.0 mm
+FO|format fini : 14.80 x 21.00 cm + souche en tete	format fini : 148.0 x 210.0 mm
+FO|14.8 x 21 cm	format fini : 148.0 x 210.0 mm
+FO|format ferme : 148 x 210 mm	format fini : 148.0 x 210.0 mm
+FO|format fini : 148.0 x 210.0 mm	format fini : 148.0 x 210.0 mm
+FO|format 14.8 x 21 cmquadri recto	format fini : 148.0 x 210.0 mm
+FO|format fini a5	format fini : 148.0 x 210.0 mm
+FO|format : 14.8 x 21 cm	format fini : 148.0 x 210.0 mm
+FO|format fini :14.8 x 21 cm	format fini : 148.0 x 210.0 mm
+FO|format : a5	format fini : 148.0 x 210.0 mm
+FO|fini a5	format fini : 148.0 x 210.0 mm
+FO|format ferme a5	format fini : 148.0 x 210.0 mm
+FO|format plie : 14.8 x 21 cm	format fini : 148.0 x 210.0 mm
+FO|format fini 14.8 x 21 cm	format fini : 148.0 x 210.0 mm
+FO|ft fini a5	format fini : 148.0 x 210.0 mm
+FO|148x210 mm	format fini : 148.0 x 210.0 mm
+FO|ft 14.8 x21 cm	format fini : 148.0 x 210.0 mm
+FO|ft : 14.8 x 21 cm	format fini : 148.0 x 210.0 mm
+FO|148 x 210mm	format fini : 148.0 x 210.0 mm
+FO|ft fini 14.8 x 21 cm	format fini : 148.0 x 210.0 mm
+FO|format fini : 148 x 210 mm	format fini : 148.0 x 210.0 mm
+FO|ft a5	format fini : 148.0 x 210.0 mm
+FO|format ferme : 14.8 x 21 cm	format fini : 148.0 x 210.0 mm
+FO|14.8x21 cm	format fini : 148.0 x 210.0 mm
+FO|ft 14.8 x 21 cm	format fini : 148.0 x 210.0 mm
+FO|format : 148 x 209 mm	format fini : 148.0 x 209.0 mm
+FO|ft 14.8 x 18.2 cm	format fini : 148.0 x 182.0 mm
+FO|format 14.8 x 18.2 cm	format fini : 148.0 x 182.0 mm
+FO|format fini : 14.80 x 18.20 cm	format fini : 148.0 x 182.0 mm
+FO|format 14.8 x 12.5 cm	format fini : 148.0 x 125.0 mm
+FO|format fini : 14.8 x 10.5 cm	format fini : 148.0 x 105.0 mm
+FO|14.8 x 10.5 cm	format fini : 148.0 x 105.0 mm
+FO|format fini : 14.80 x 10.50 cm	format fini : 148.0 x 105.0 mm
+FO|14,5x22,5cm	format fini : 145.0 x 225.0 mm
+FO|format ferme : 14,5 x 21,5cm	format fini : 145.0 x 215.0 mm
+FO|14,5x21 cm	format fini : 145.0 x 210.0 mm
+FO|format fini : 14.50 x 29.00 cm	format fini : 145.0 x 290.0 mm
+FO|format fini : 14.50 x 21.00 cm	format fini : 145.0 x 210.0 mm
+FO|ft : 14.5 x 21 cm	format fini : 145.0 x 210.0 mm
+FO|142 x120 mm	format fini : 142.0 x 120.0 mm
+FO|format 14.2 x 12 cm	format fini : 142.0 x 120.0 mm
+FO|format fini : 14 x 9.5 cm	format fini : 140.0 x 95.0 mm
+FO|14x8cm	format fini : 140.0 x 80.0 mm
+FO|20 x 14 x 7.5 cm	format fini : 200 x 140.0 x 75.0 mm
+FO|140x48 mm	format fini : 140.0 x 48.0 mm
+FO|ft 14 x 29.7 cm	format fini : 140.0 x 297.0 mm
+FO|format fini : 14.00 x 29.70 cm	format fini : 140.0 x 297.0 mm
+FO|format fini : 14.00 x 22.50 cm	format fini : 140.0 x 225.0 mm
+FO|14 x 22.5 cm ferme	format fini : 140.0 x 225.0 mm
+FO|format fini : 14 x 18.7 cm	format fini : 140.0 x 187.0 mm
+FO|format fini 14 x 14 cm	format fini : 140.0 x 140.0 mm
+FO|format 14 x 14 cm ferme	format fini : 140.0 x 140.0 mm
+FO|format fini : 14.00 x 14.00 cm	format fini : 140.0 x 140.0 mm
+FO|ft : 14 x 14 cm	format fini : 140.0 x 140.0 mm
+FO|13.8 x 5.6 cm	format fini : 138.0 x 56.0 mm
+FO|format fini : 13.60 x 10.90 cm	format fini : 136.0 x 109.0 mm
+FO|13.6 x 10.9 cm	format fini : 136.0 x 109.0 mm
+FO|format fini : 13.50 x 8.50 cm	format fini : 135.0 x 85.0 mm
+FO|format fini : 13.50 x 5.20 cm	format fini : 135.0 x 52.0 mm
+FO|format fini : 135 x 52 mm	format fini : 135.0 x 52.0 mm
+FO|format fini : 13.50 x 29.70 cm	format fini : 135.0 x 297.0 mm
+FO|13.5 x 29.7 cm	format fini : 135.0 x 297.0 mm
+FO|135x170mm	format fini : 135.0 x 170.0 mm
+FO|135x170 mm	format fini : 135.0 x 170.0 mm
+FO|format fini : 134.00 x 134.00 cm	format fini : 1340.0 x 1340.0 mm
+FO|format 134 x 134 cm	format fini : 1340.0 x 1340.0 mm
+FO|format fini : 13.40 x 14.40 cm	format fini : 134.0 x 144.0 mm
+FO|format fini : 13 x 9 cm	format fini : 130.0 x 90.0 mm
+FO|ft 13 x 9 cm	format fini : 130.0 x 90.0 mm
+FO|format : 13 x 8.5 cm	format fini : 130.0 x 85.0 mm
+FO|format fini : 13.00 x 79.00 cm	format fini : 130.0 x 790.0 mm
+FO|format ferme : 13 x 18 cm	format fini : 130.0 x 180.0 mm
+FO|format : 130 x 130 mm	format fini : 130.0 x 130.0 mm
+FO|13 x 13 cm	format fini : 130.0 x 130.0 mm
+FO|format fini : 13 x 13 cm	format fini : 130.0 x 130.0 mm
+FO|ft : 12.8 x 8.2 cm	format fini : 128.0 x 82.0 mm
+FO|125x75 mm	format fini : 125.0 x 75.0 mm
+FO|format en volume 16.5 x 12.5 x 6.4 cm	format fini : 125.0 x 64.0 mm
+FO|format 125 x 149 mm	format fini : 125.0 x 149.0 mm
+FO|ft 12.3 x 11.8 cm	format fini : 123.0 x 118.0 mm
+FO|120x40cm	format fini : 1200.0 x 400.0 mm
+FO|120 x 40 cm	format fini : 1200.0 x 400.0 mm
+FO|format 120 x 220 cm	format fini : 1200.0 x 2200.0 mm
+FO|120 x 176 cm	format fini : 1200.0 x 1760.0 mm
+FO|120 x 160 cm	format fini : 1200.0 x 1600.0 mm
+FO|format fini : 120.00 x 160.00 cm	format fini : 1200.0 x 1600.0 mm
+FO|ft : 120 x 160 cm	format fini : 1200.0 x 1600.0 mm
+FO|120x160 cm	format fini : 1200.0 x 1600.0 mm
+FO|format fini : 12.00 x 9.00 cm	format fini : 120.0 x 90.0 mm
+FO|ft 12 x 9 cm	format fini : 120.0 x 90.0 mm
+FO|format fini : 12 x 24 cm	format fini : 120.0 x 240.0 mm
+FO|format fini : 12.00 x 21.00 cm	format fini : 120.0 x 210.0 mm
+FO|ft 12 x 21 cm	format fini : 120.0 x 210.0 mm
+FO|format 12 x 17.5 cm	format fini : 120.0 x 175.0 mm
+FO|12x17.5 cm	format fini : 120.0 x 175.0 mm
+FO|format fini : 12 x 17.5 cm	format fini : 120.0 x 175.0 mm
+FO|format fini : 12.00 x 17.50 cm	format fini : 120.0 x 175.0 mm
+FO|format fini : 12 x 12 cm	format fini : 120.0 x 120.0 mm
+FO|ft 12 x 12 cm	format fini : 120.0 x 120.0 mm
+FO|format fini : 14.00 x 12.5 x 15.00 mm	format fini : 140.0 x 125.0 x 150.0 mm
+FO|format fini : 118.00 x 40.00 cm	format fini : 1180.0 x 400.0 mm
+FO|format fini : 118.00 x 158.00 cm	format fini : 1180.0 x 1580.0 mm
+FO|118 x 118 mm	format fini : 118.0 x 118.0 mm
+FO|ft 11.8 x 11.8 cm	format fini : 118.0 x 118.0 mm
+FO|format fini : 11.80 x 11.80 cm	format fini : 118.0 x 118.0 mm
+FO|format fini : 115 x 190 cm	format fini : 1150.0 x 1900.0 mm
+FO|115x190 cm	format fini : 1150.0 x 1900.0 mm
+FO|ferme = 115x260 mm	format fini : 115.0 x 260.0 mm
+FO|format : 11.5 x 21.5 cm	format fini : 115.0 x 215.0 mm
+FO|format fini : 11.50 x 21.50 cm	format fini : 115.0 x 215.0 mm
+FO|115x 115 mm	format fini : 115.0 x 115.0 mm
+FO|ft 11.4 x 16.2 cm	format fini : 114.0 x 162.0 mm
+FO|format fini : 11.20 x 21.00 cm	format fini : 112.0 x 210.0 mm
+FO|format 11 x 7,5 cm	format fini : 110.0 x 750.0 mm
+FO|format 11 x 6.5 cm	format fini : 110.0 x 65.0 mm
+FO|format fini : 11.00 x 6.50 cm	format fini : 110.0 x 65.0 mm
+FO|format fini : 11 x 22.5 cm	format fini : 110.0 x 225.0 mm
+FO|ft : 11 x 22 cm	format fini : 110.0 x 220.0 mm
+FO|110x220 mm	format fini : 110.0 x 220.0 mm
+FO|11.00x22.00cm	format fini : 110.0 x 220.0 mm
+FO|format 11*22 cm	format fini : 110.0 x 220.0 mm
+FO|format fini : 11.00x22.00cm	format fini : 110.0 x 220.0 mm
+FO|11 x 22 cm	format fini : 110.0 x 220.0 mm
+FO|plie 11 x 21 cm	format fini : 110.0 x 210.0 mm
+FO|format fini : 10.80 x 14.90 cm	format fini : 108.0 x 149.0 mm
+FO|ft 107 x 57 mm	format fini : 107.0 x 57.0 mm
+FO|format 10,5 x 7,4 cm	format fini : 105.0 x 740.0 mm
+FO|format fini : 10,5x25cm	format fini : 105.0 x 250.0 mm
+FO|10,5 x 21cm	format fini : 105.0 x 210.0 mm
+FO|10,5 x 14,8 cm	format fini : 105.0 x 148.0 mm
+FO|format fini : 10,5 x 14,8 cm	format fini : 105.0 x 148.0 mm
+FO|format : 105x80 mm	format fini : 105.0 x 80.0 mm
+FO|ft 10.5 x 8 cm	format fini : 105.0 x 80.0 mm
+FO|format fini : 10.5 x 7.4 cm	format fini : 105.0 x 74.0 mm
+FO|format fini : 15 x 10.5 x 6.5 cm	format fini : 105.0 x 65.0 mm
+FO|ft 15 x 10.5 x6.5 cm	format fini : 105.0 x 65.0 mm
+FO|format fini : 10.5 x 29.7 cm	format fini : 105.0 x 297.0 mm
+FO|10.5 x 21 cm	format fini : 105.0 x 210.0 mm
+FO|format fini : 10.50 x 21.00 cm	format fini : 105.0 x 210.0 mm
+FO|format fini : 10.50 x 20.00 cm	format fini : 105.0 x 200.0 mm
+FO|10.5x15cm	format fini : 105.0 x 150.0 mm
+FO|ft : 10.5 x 15 cm	format fini : 105.0 x 150.0 mm
+FO|10.5 x 15 cm	format fini : 105.0 x 150.0 mm
+FO|format fini : 10.50 x 15.00 cm	format fini : 105.0 x 150.0 mm
+FO|format : 10.5 x 15 cm	format fini : 105.0 x 150.0 mm
+FO|format fini : 105.0 x 148.5 mm	format fini : 105.0 x 148.5 mm
+FO|format fini : 10.50 x 14.80 cm	format fini : 105.0 x 148.0 mm
+FO|ft : a6 ferme	format fini : 105.0 x 148.0 mm
+FO|ft ferme bloc a6	format fini : 105.0 x 148.0 mm
+FO|ft a6	format fini : 105.0 x 148.0 mm
+FO|format 10.5 x 14.8 cm	format fini : 105.0 x 148.0 mm
+FO|105x148mm	format fini : 105.0 x 148.0 mm
+FO|10.5 x 14.8 cm	format fini : 105.0 x 148.0 mm
+FO|format a6	format fini : 105.0 x 148.0 mm
+FO|format : a6	format fini : 105.0 x 148.0 mm
+FO|format a6 ferme	format fini : 105.0 x 148.0 mm
+FO|ft ferme : 10.5 x 14.8 cm	format fini : 105.0 x 148.0 mm
+FO|ft ferme a6	format fini : 105.0 x 148.0 mm
+FO|format fini :10.5 x 14.8 cm	format fini : 105.0 x 148.0 mm
+FO|ft : 10.50 x 14.80 cm ferme	format fini : 105.0 x 148.0 mm
+FO|ft fini du bloc note : a6	format fini : 105.0 x 148.0 mm
+FO|ft : a6	format fini : 105.0 x 148.0 mm
+FO|ff 105 x 148 mm	format fini : 105.0 x 148.0 mm
+FO|10.5 x 12 cm	format fini : 105.0 x 120.0 mm
+FO|format fini : 10.50 x 12.00 cm	format fini : 105.0 x 120.0 mm
+FO|format 10.2 x 17 cm	format fini : 102.0 x 170.0 mm
+FO|format fini : 10.20 x 17.00 cm	format fini : 102.0 x 170.0 mm
+FO|dimension : 100*80cm	format fini : 1000.0 x 800.0 mm
+FO|format paysage format fini 100*35 cm	format fini : 1000.0 x 350.0 mm
+FO|format fini : 100 x 25 cm	format fini : 1000.0 x 250.0 mm
+FO|format fini : 100.00 x 205.00 cm	format fini : 1000.0 x 2050.0 mm
+FO|100 x 205 cm	format fini : 1000.0 x 2050.0 mm
+FO|format 100 x 20 cm	format fini : 1000.0 x 200.0 mm
+FO|100 x 150 cm	format fini : 1000.0 x 1500.0 mm
+FO|100x150cm	format fini : 1000.0 x 1500.0 mm
+FO|dimensions : 10.00 x 7.50 cm	format fini : 100.0 x 75.0 mm
+FO|10 x 7 cm	format fini : 100.0 x 70.0 mm
+FO|format 100 x 50 mm	format fini : 100.0 x 50.0 mm
+FO|ft : 10 x 42 cm	format fini : 100.0 x 420.0 mm
+FO|100 x 315 mmm	format fini : 100.0 x 315.0 mm
+FO|format fini : 10.00 x 25.00 cm	format fini : 100.0 x 250.0 mm
+FO|format fini : 10.00 x 21.00 cm	format fini : 100.0 x 210.0 mm
+FO|format fini : 100 x 210 mm	format fini : 100.0 x 210.0 mm
+FO|format fini : 10 x 21 cm	format fini : 100.0 x 210.0 mm
+FO|format ferme : 10*21 cm	format fini : 100.0 x 210.0 mm
+FO|10 x 21 cm	format fini : 100.0 x 210.0 mm
+FO|10x21 cm	format fini : 100.0 x 210.0 mm
+FO|10 x 21 cm ferme	format fini : 100.0 x 210.0 mm
+FO|ft : 10 x 21 cm ferme	format fini : 100.0 x 210.0 mm
+FO|ft 10 x 21 cm	format fini : 100.0 x 210.0 mm
+FO|plie 10x21 cm	format fini : 100.0 x 210.0 mm
+FO|ft 10 x 21 cm	format fini : 100.0 x 210.0 mm
+FO|ft : 10 x 21 cm	format fini : 100.0 x 210.0 mm
+FO|ft :10 x 21 cm	format fini : 100.0 x 210.0 mm
+FO|ft ferme : 10 x 21 cm	format fini : 100.0 x 210.0 mm
+FO|dimension : 10 x 21 cm	format fini : 100.0 x 210.0 mm
+FO|format 10 x 21 cm	format fini : 100.0 x 210.0 mm
+FO|format 10 x 20 cm	format fini : 100.0 x 200.0 mm
+FO|format fini : 10.00 x 20.00 cm	format fini : 100.0 x 200.0 mm
+FO|format fini : 10.00 x 19.00 cm	format fini : 100.0 x 190.0 mm
+FO|ft 10 x 19 cm	format fini : 100.0 x 190.0 mm
+FO|10x15 cm	format fini : 100.0 x 150.0 mm
+FO|10 x 15 cm	format fini : 100.0 x 150.0 mm
+FO|ft 10 x 15 cm	format fini : 100.0 x 150.0 mm
+FO|ft : 10 x 15 cm	format fini : 100.0 x 150.0 mm
+FO|10 x 15 cm	format fini : 100.0 x 150.0 mm
+FO|ft : 10 x 15 cmsuivant	format fini : 100.0 x 150.0 mm
+FO|format fini : 10.00 x 15.00 cm	format fini : 100.0 x 150.0 mm
+FO|100x150mm	format fini : 100.0 x 150.0 mm
+FO|10x10x15cm	format fini : 100.0 x 150.0 mm
+FO|10x15cm	format fini : 100.0 x 150.0 mm
+FO|format fini : 10 x 15 cm	format fini : 100.0 x 150.0 mm
+FO|format fini : 10 x 14.5 cm	format fini : 100.0 x 145.0 mm
+FO|10 x 14.5 cm	format fini : 100.0 x 145.0 mm
+FO|format 10 x 14 cm	format fini : 100.0 x 140.0 mm
+FO|format fini : 10 x 14 cm	format fini : 100.0 x 140.0 mm
+FO|format fini : 10.00 x 13.50 cm	format fini : 100.0 x 135.0 mm
+FO|format fini : 10.00 x 10.00 cm	format fini : 100.0 x 100.0 mm
+FO|10x10 cm	format fini : 100.0 x 100.0 mm
+FO|format 10x10 cm plie	format fini : 100.0 x 100.0 mm
+FO|format 100 x 100 mm	format fini : 100.0 x 100.0 mm
+FO|format 10 x 10 cm	format fini : 100.0 x 100.0 mm
+FO|1x15 cm	format fini : 10.0 x 150.0 mm
+FO|ft ferme de la couverture : 9.1 x 14.8 cm	format ouvert : 91.0 x 148.0 mm
+FO|format a plat : 9 x 23 cm	format ouvert : 90.0 x 230.0 mm
+FO|format ouvert : 89.10 x 21.00 cm	format ouvert : 891.0 x 210.0 mm
+FO|format ouvert 891 x 190 mm	format ouvert : 891.0 x 190.0 mm
+FO|format ouvert 840 x 297 mm	format ouvert : 840.0 x 297.0 mm
+FO|format ouvert : 84.00 x 29.70 cm	format ouvert : 840.0 x 297.0 mm
+FO|format ouvert : 80.00 x 60.00 cm	format ouvert : 800.0 x 600.0 mm
+FO|format ouvert : 800.0 x 420.0 mm	format ouvert : 800.0 x 420.0 mm
+FO|format ouvert : 72.00 x 35.00 cm	format ouvert : 720.0 x 350.0 mm
+FO|format ouvert : 72.00 x 12.00 cm	format ouvert : 720.0 x 120.0 mm
+FO|format ouvert : 70.00 x 50.10 cm	format ouvert : 700.0 x 501.0 mm
+FO|format ouvert 70 x 100 cm	format ouvert : 700.0 x 1000.0 mm
+FO|format ouvert : 68,0 x 24,0 cm	format ouvert : 680.0 x 240.0 mm
+FO|format ouvert : 66.50 x 25.00 cm	format ouvert : 665.0 x 250.0 mm
+FO|format ouvert : 66.00 x 31.00 cm	format ouvert : 660.0 x 310.0 mm
+FO|format ft ouvert : 66 x 19 cm	format ouvert : 660.0 x 190.0 mm
+FO|ft ouvert : 65.5 x 36.5 cm	format ouvert : 655.0 x 365.0 mm
+FO|format ouvert 643 x 302mm	format ouvert : 643.0 x 302.0 mm
+FO|format ouvert : environ 64.00 x 29.7 cm	format ouvert : 640.0 x 297.0 mm
+FO|format ouvert : 63.00 x 31.40 cm	format ouvert : 630.0 x 314.0 mm
+FO|ft ouvert 63 x 29.7 cm	format ouvert : 630.0 x 297.0 mm
+FO|format ouvert : 63.00 x 29.70 cm	format ouvert : 630.0 x 297.0 mm
+FO|format ouvert : 62,80 x 29,7 cm	format ouvert : 628.0 x 297.0 mm
+FO|format ouvert : 62.8 x 29.70 cm	format ouvert : 628.0 x 297.0 mm
+FO|format ouvert : 62.80 x 29.70 cm	format ouvert : 628.0 x 297.0 mm
+FO|format ouvert : 62.80 x 21.00 cm	format ouvert : 628.0 x 210.0 mm
+FO|format ouvert : 62.8 x 21.00 cm	format ouvert : 628.0 x 210.0 mm
+FO|format ouvert : 62.00 x 47.40 cm	format ouvert : 620.0 x 474.0 mm
+FO|format ouvert : 618 x 285 mm	format ouvert : 618.0 x 285.0 mm
+FO|format ouvert : 61.70 x 29.70 cm	format ouvert : 617.0 x 297.0 mm
+FO|format ouvert : 61.50 x 29.70 cm	format ouvert : 615.0 x 297.0 mm
+FO|format ouvert : 60.00 x 42.00 cm	format ouvert : 600.0 x 420.0 mm
+FO|format ouvert : 60.00 x 40.00 cm	format ouvert : 600.0 x 400.0 mm
+FO|format ouvert : 59.80 x 20.00 cm	format ouvert : 598.0 x 200.0 mm
+FO|format ouvert : 59.60 x 21.00 cm	format ouvert : 596.0 x 210.0 mm
+FO|format ouvert : 59.50 x 42.00 cm	format ouvert : 595.0 x 420.0 mm
+FO|ouvert a1	format ouvert : 594.0 x 841.0 mm
+FO|format ouvert : 594.0 x 420.0 mm	format ouvert : 594.0 x 420.0 mm
+FO|format ouvert 594 x 420 mm	format ouvert : 594.0 x 420.0 mm
+FO|format ouvert : 59.40 x 42.00 cm	format ouvert : 594.0 x 420.0 mm
+FO|format ouvert : 59.40 x 29.70 cm	format ouvert : 594.0 x 297.0 mm
+FO|format ouvert : 59.4 x 21.00 cm	format ouvert : 594.0 x 210.0 mm
+FO|format ouvert : 59.40 x 21.00 cm	format ouvert : 594.0 x 210.0 mm
+FO|format ouvert : 59.40 x 21.00 cm	format ouvert : 594.0 x 210.0 mm
+FO|format ouvert : 59.40 x 21.00 cm + dos	format ouvert : 594.0 x 210.0 mm
+FO|format ouvert 594 x 190 mm	format ouvert : 594.0 x 190.0 mm
+FO|format ouvert : 59.00 x 24.00 cm	format ouvert : 590.0 x 240.0 mm
+FO|format ouvert : 58.60 x 21.00 cm	format ouvert : 586.0 x 210.0 mm
+FO|format ouvert : environ 58.00 x 26.00 cm	format ouvert : 580.0 x 260.0 mm
+FO|format ouvert : 58.00 x 24.00 cm	format ouvert : 580.0 x 240.0 mm
+FO|format ouvert : 57.70 x 69.60 cm	format ouvert : 577.0 x 696.0 mm
+FO|format ouvert : 56.00 x 21.00 cm	format ouvert : 560.0 x 210.0 mm
+FO|format ouvert : 55.20 x 27.00 cm	format ouvert : 552.0 x 270.0 mm
+FO|format ouvert : 55.00 x 21.50 cm	format ouvert : 550.0 x 215.0 mm
+FO|format a plat : 54.30 x 40.10 cm	format ouvert : 543.0 x 401.0 mm
+FO|format ouvert : 54.26 x 31.00 cm	format ouvert : 542.6 x 310.0 mm
+FO|format ouvert : 54.00 x 27.00 cm	format ouvert : 540.0 x 270.0 mm
+FO|format ouvert : 540 x 148 mm	format ouvert : 540.0 x 148.0 mm
+FO|format a plat : 53.80 x 40.10 cm	format ouvert : 538.0 x 401.0 mm
+FO|format ouvert : 53.00 x 31.00 cm	format ouvert : 530.0 x 310.0 mm
+FO|format ouvert : 52.50 x 14.80 cm	format ouvert : 525.0 x 148.0 mm
+FO|525x148mm ouvert	format ouvert : 525.0 x 148.0 mm
+FO|format ouvert : 52.50 x 10.00 cm	format ouvert : 525.0 x 100.0 mm
+FO|format ouvert : 51.00 x 48.00 cm	format ouvert : 510.0 x 480.0 mm
+FO|format ouvert : 50.50 x 37.00 cm	format ouvert : 505.0 x 370.0 mm
+FO|format ouvert : 50.00 x 68.00 cm	format ouvert : 500.0 x 680.0 mm
+FO|ouvert : 50x36.5 cm	format ouvert : 500.0 x 365.0 mm
+FO|format ouvert : 50.00 x 36.50 cm	format ouvert : 500.0 x 365.0 mm
+FO|format ouvert : 50.00 x 35.00 cm	format ouvert : 500.0 x 350.0 mm
+FO|format ouvert : 50.00 x 15.00 cm	format ouvert : 500.0 x 150.0 mm
+FO|format ouvert : 49.80 x 37.00 cm	format ouvert : 498.0 x 370.0 mm
+FO|format ouvert : 49.70 x 24.00 cm	format ouvert : 497.0 x 240.0 mm
+FO|format ouvert : 496 x 465mm	format ouvert : 496.0 x 465.0 mm
+FO|format ouvert : 49.00 x 34.50 cm	format ouvert : 490.0 x 345.0 mm
+FO|format ouvert : 48.5 x 35.50 cm	format ouvert : 485.0 x 355.0 mm
+FO|format ouvert : 480 x 345 mm	format ouvert : 480.0 x 345.0 mm
+FO|format ouvert : 48.00 x 34.00 cm	format ouvert : 480.0 x 340.0 mm
+FO|format ouvert : 48.00 x 32.00 cm	format ouvert : 480.0 x 320.0 mm
+FO|format ouvert : 480.0 x 320.0 mm	format ouvert : 480.0 x 320.0 mm
+FO|format ouvert : 47.20 x 11.80 cm	format ouvert : 472.0 x 118.0 mm
+FO|format ouvert : 46.46 x 29.70 cm	format ouvert : 464.6 x 297.0 mm
+FO|format ouvert : 46.00 x 29.70 cm	format ouvert : 460.0 x 297.0 mm
+FO|format ouvert : 45.00 x 21.00 cm	format ouvert : 450.0 x 210.0 mm
+FO|format ouvert 45x21 cm	format ouvert : 450.0 x 210.0 mm
+FO|format ouvert : 450 x 130 mm	format ouvert : 450.0 x 130.0 mm
+FO|format ouvert :44.80 x 22.00 cm	format ouvert : 448.0 x 220.0 mm
+FO|format ouvert : 44.80 x 21.00 cm	format ouvert : 448.0 x 210.0 mm
+FO|format ouvert : 44.70 x 9.50 cm	format ouvert : 447.0 x 95.0 mm
+FO|format ouvert : 44.40 x 21.00 cm	format ouvert : 444.0 x 210.0 mm
+FO|ouvert 44.2 x 21 cm	format ouvert : 442.0 x 210.0 mm
+FO|format ouvert : 441 x 210 mm	format ouvert : 441.0 x 210.0 mm
+FO|format a plat 44x42.5 cm	format ouvert : 440.0 x 425.0 mm
+FO|ouvert 44 x 30.5 cm	format ouvert : 440.0 x 305.0 mm
+FO|format ouvert : 44.00 x 30.50 cm	format ouvert : 440.0 x 305.0 mm
+FO|format ouvert : 43.82 x 21.00 cm	format ouvert : 438.2 x 210.0 mm
+FO|format ouvert : 43.80 x 40.50 cm	format ouvert : 438.0 x 405.0 mm
+FO|format ouvert : 438 x 405 mm	format ouvert : 438.0 x 405.0 mm
+FO|format ouvert : 432x290mm	format ouvert : 432.0 x 290.0 mm
+FO|format ouvert : 43.20 x 29.00 cm	format ouvert : 432.0 x 290.0 mm
+FO|format ouvert : 43.20 x 14.80 cm	format ouvert : 432.0 x 148.0 mm
+FO|format ouvert : 43.18 x 27.94 cm	format ouvert : 431.8 x 279.4 mm
+FO|format ouvert : 43.00 x 27.50 cm	format ouvert : 430.0 x 275.0 mm
+FO|format ouvert : 42.90 x 14.00 cm	format ouvert : 429.0 x 140.0 mm
+FO|format ouvert : 42.80 x 29.70 cm	format ouvert : 428.0 x 297.0 mm
+FO|format ouvert : 42.80 x 14.80 cm	format ouvert : 428.0 x 148.0 mm
+FO|format ouvert : 42.62 x 29.70 cm	format ouvert : 426.2 x 297.0 mm
+FO|format ouvert : 42.50 x 29.70 cm	format ouvert : 425.0 x 297.0 mm
+FO|format ouvert : 42.30 x 29.70 cm	format ouvert : 423.0 x 297.0 mm
+FO|42,0 x 29,7 cm format ouvert	format ouvert : 420.0 x 297.0 mm
+FO|format ouvert : 420.0 x 594.0 mm	format ouvert : 420.0 x 594.0 mm
+FO|ouvert 42 x 45 cm	format ouvert : 420.0 x 450.0 mm
+FO|format ouvert 42*29,7 cm	format ouvert : 420.0 x 297.0 mm
+FO|format ouvert : 420 x 297 mm	format ouvert : 420.0 x 297.0 mm
+FO|format ouvert : 42 x 29.70 cm + dos	format ouvert : 420.0 x 297.0 mm
+FO|format ouvert : 42 x 29.70 cm	format ouvert : 420.0 x 297.0 mm
+FO|format ouvert 420 x 297mm	format ouvert : 420.0 x 297.0 mm
+FO|format ouvert : 42 x29.7 cm	format ouvert : 420.0 x 297.0 mm
+FO|format ouvert : 420.0 x 297.0 mm	format ouvert : 420.0 x 297.0 mm
+FO|format ouvert : 42 x 29.7 cm	format ouvert : 420.0 x 297.0 mm
+FO|format ouvert : 42.00 x 29.70 cm	format ouvert : 420.0 x 297.0 mm
+FO|format ouvert : 42.00 x 29.7 cm	format ouvert : 420.0 x 297.0 mm
+FO|format ouvert : 420x297mm	format ouvert : 420.0 x 297.0 mm
+FO|format ouvert 420 x 297 mm	format ouvert : 420.0 x 297.0 mm
+FO|format ouvert : 42.00 x 29.60 cm	format ouvert : 420.0 x 296.0 mm
+FO|format ouvert : 42.00 x 28.50 cm	format ouvert : 420.0 x 285.0 mm
+FO|format ouvert : 420.0 x 285.0 mm	format ouvert : 420.0 x 285.0 mm
+FO|format ouvert : 42.00 x 28.00 cm	format ouvert : 420.0 x 280.0 mm
+FO|format ouvert : 42x27cm	format ouvert : 420.0 x 270.0 mm
+FO|format ouvert : 42.00 x 27.00 cm	format ouvert : 420.0 x 270.0 mm
+FO|ft ouvert : 42 x 21 cm	format ouvert : 420.0 x 210.0 mm
+FO|format ouvert : 42.00 x 21.00 cm	format ouvert : 420.0 x 210.0 mm
+FO|format ouvert : 42.00 x 15.00 cm	format ouvert : 420.0 x 150.0 mm
+FO|format ouvert : 420 x 148 mm	format ouvert : 420.0 x 148.0 mm
+FO|format ouvert : 42.00 x 14.80 cm	format ouvert : 420.0 x 148.0 mm
+FO|ouvert 42 x 10,5 cm	format ouvert : 420.0 x 105.0 mm
+FO|ouvert 42 x 10 cm	format ouvert : 420.0 x 100.0 mm
+FO|format ouvert : 42.00 x 10.00 cm	format ouvert : 420.0 x 100.0 mm
+FO|format ouvert : 41.50 x 14.00 cm	format ouvert : 415.0 x 140.0 mm
+FO|format a plat : 411.5 x 180 mm	format ouvert : 411.5 x 180.0 mm
+FO|format ouvert : 407 x 297 mm	format ouvert : 407.0 x 297.0 mm
+FO|format ouvert : 40.70 x 29.70 cm	format ouvert : 407.0 x 297.0 mm
+FO|format 40 x 55 cm ouvert	format ouvert : 400.0 x 550.0 mm
+FO|format ouvert : 40.00 x 28.00 cm	format ouvert : 400.0 x 280.0 mm
+FO|format ouvert : 400.0 x 270.0 mm	format ouvert : 400.0 x 270.0 mm
+FO|format ouvert : 40.00 x 26.00 cm	format ouvert : 400.0 x 260.0 mm
+FO|format : ouvert 40 x 20 cm	format ouvert : 400.0 x 200.0 mm
+FO|format ouvert : 40.00 x 20.00 cm	format ouvert : 400.0 x 200.0 mm
+FO|format ouvert : 40.00 x 13.00 cm	format ouvert : 400.0 x 130.0 mm
+FO|format ouvert : 86.4.00 x 30 cm	format ouvert : 40.0 x 300.0 mm
+FO|format ouvert : 39.80 x 21.00 cm	format ouvert : 398.0 x 210.0 mm
+FO|format ouvert 39,6x21 cm	format ouvert : 396.0 x 210.0 mm
+FO|format ouvert : 39.60 x 10.00 cm	format ouvert : 396.0 x 100.0 mm
+FO|format ouvert : 38.8 x 18 cm	format ouvert : 388.0 x 180.0 mm
+FO|format ouvert : 38.42 x 26.00 cm	format ouvert : 384.2 x 260.0 mm
+FO|38 x 50cm ouvert	format ouvert : 380.0 x 500.0 mm
+FO|format ouvert : 38.00 x 27.00 cm	format ouvert : 380.0 x 270.0 mm
+FO|format ouvert : 38 x 27 cm	format ouvert : 380.0 x 270.0 mm
+FO|format ouvert : 38.00 x 26.00 cm	format ouvert : 380.0 x 260.0 mm
+FO|format ouvert : 36.00 x 24.00 cm	format ouvert : 360.0 x 240.0 mm
+FO|format ouvert : 36.00 x 21.00 cm	format ouvert : 360.0 x 210.0 mm
+FO|format ouvert : 35.40 x 23.60 cm	format ouvert : 354.0 x 236.0 mm
+FO|format ouvert : 35.00 x 24.00 cm	format ouvert : 350.0 x 240.0 mm
+FO|format ouvert : 34.50 x 24.00 cm	format ouvert : 345.0 x 240.0 mm
+FO|foramt ouvert 344 x115 mm	format ouvert : 344.0 x 115.0 mm
+FO|format ouvert : 34.00 x 25.00 cm	format ouvert : 340.0 x 250.0 mm
+FO|format ouvert : 34.00 x 24.00 cm	format ouvert : 340.0 x 240.0 mm
+FO|format ouvert : 340.0 x 240.0 mm	format ouvert : 340.0 x 240.0 mm
+FO|ouvert 32.8 x 21 cm	format ouvert : 328.0 x 210.0 mm
+FO|format ouvert : 32.00 x 25.00 cm	format ouvert : 320.0 x 250.0 mm
+FO|format ouvert 320x250mm	format ouvert : 320.0 x 250.0 mm
+FO|32 x 24 cm a plat	format ouvert : 320.0 x 240.0 mm
+FO|format ouvert 320x230mm	format ouvert : 320.0 x 230.0 mm
+FO|format ouvert 320x230 mm	format ouvert : 320.0 x 230.0 mm
+FO|format ouvert : 32.00 x 23.00 cm	format ouvert : 320.0 x 230.0 mm
+FO|format ouvert : 31.50 x 14.80 cm	format ouvert : 315.0 x 148.0 mm
+FO|ft ouvert : 31.5 x 14.8 cm	format ouvert : 315.0 x 148.0 mm
+FO|format ouvert 314 x 157 mm	format ouvert : 314.0 x 157.0 mm
+FO|format ouvert : 31.20 x 14.80 cm	format ouvert : 312.0 x 148.0 mm
+FO|format ouvert : 31 x 40 cm	format ouvert : 310.0 x 400.0 mm
+FO|format ouvert : 310 x 235 mm	format ouvert : 310.0 x 235.0 mm
+FO|format ouvert : 30.10 x 21.00 cm	format ouvert : 301.0 x 210.0 mm
+FO|format ouvert : 30.00 x 8.00 cm	format ouvert : 300.0 x 80.0 mm
+FO|format ouvert : :213 x 300 x 41 mm	format ouvert : 300.0 x 41.0 mm
+FO|format ouvert : :213 x 300 x 40 mm	format ouvert : 300.0 x 40.0 mm
+FO|format ouvert 30*30 cm	format ouvert : 300.0 x 300.0 mm
+FO|format ouvert 30 x 25 cm	format ouvert : 300.0 x 250.0 mm
+FO|format ouvert : 300x210mm	format ouvert : 300.0 x 210.0 mm
+FO|format ouvert : 300.0 x 210.0 mm	format ouvert : 300.0 x 210.0 mm
+FO|format ouvert 30x21 cm	format ouvert : 300.0 x 210.0 mm
+FO|format ouvert : 30.00 x 21.00 cm	format ouvert : 300.0 x 210.0 mm
+FO|format ouvert 300x190 mm	format ouvert : 300.0 x 190.0 mm
+FO|30 x 15 cm ouvert	format ouvert : 300.0 x 150.0 mm
+FO|ouvert : 30 x15cm	format ouvert : 300.0 x 150.0 mm
+FO|format ouvert : 30.00 x 15.00 cm	format ouvert : 300.0 x 150.0 mm
+FO|format ouvert : 300 x 150 mm	format ouvert : 300.0 x 150.0 mm
+FO|format a plat : 30 x 12 cm	format ouvert : 300.0 x 120.0 mm
+FO|format ouvert : 30.00 x 10.50 cm	format ouvert : 300.0 x 105.0 mm
+FO|format ouvert : 29.87 x 21.00 cm	format ouvert : 298.7 x 210.0 mm
+FO|29,7 x 42,0 cm ouvert	format ouvert : 297.0 x 420.0 mm
+FO|format ouvert : 29.7 x 62.8 cm	format ouvert : 297.0 x 628.0 mm
+FO|format ouvert : 29.70 x 62.80 cm	format ouvert : 297.0 x 628.0 mm
+FO|format ouvert : a3	format ouvert : 297.0 x 420.0 mm
+FO|ouvert : a3	format ouvert : 297.0 x 420.0 mm
+FO|format 29.7 x 42 cm ouvert	format ouvert : 297.0 x 420.0 mm
+FO|ft ouvert : 29.7 x 42 cm	format ouvert : 297.0 x 420.0 mm
+FO|format ouvert : 29.7 x 42.00 cm	format ouvert : 297.0 x 420.0 mm
+FO|format ouvert : 297 x 420 mm	format ouvert : 297.0 x 420.0 mm
+FO|format ouvert : 29.7 x 42 cm	format ouvert : 297.0 x 420.0 mm
+FO|ouvert a3	format ouvert : 297.0 x 420.0 mm
+FO|format ouvert a3	format ouvert : 297.0 x 420.0 mm
+FO|297 x 420 mm ouvert	format ouvert : 297.0 x 420.0 mm
+FO|ouvert : 297*210 mm	format ouvert : 297.0 x 210.0 mm
+FO|format 297 x 210 mm ouvert	format ouvert : 297.0 x 210.0 mm
+FO|format ouvert : 29.70 x 21.00 cm	format ouvert : 297.0 x 210.0 mm
+FO|ft ouvert : 29.7 x 21 cm	format ouvert : 297.0 x 210.0 mm
+FO|format ouvert : 29.7 x 21 cm	format ouvert : 297.0 x 210.0 mm
+FO|format ouvert : 297 x 210 mm	format ouvert : 297.0 x 210.0 mm
+FO|format ouvert : 29.70 x 20.00 cm	format ouvert : 297.0 x 200.0 mm
+FO|29,6 x 21,0 cm format ouvert	format ouvert : 296.0 x 210.0 mm
+FO|format ouvert : 29.60 x 42.00 cm	format ouvert : 296.0 x 420.0 mm
+FO|format ouvert : 29.6 x 21 cm	format ouvert : 296.0 x 210.0 mm
+FO|format ouvert : 29.60 x 21.00 cm	format ouvert : 296.0 x 210.0 mm
+FO|format ouvert : 296.0 x 210.0 mm	format ouvert : 296.0 x 210.0 mm
+FO|format ouvert : 296 x 210 mm	format ouvert : 296.0 x 210.0 mm
+FO|format ouvert : 29.60 x 18.20 cm	format ouvert : 296.0 x 182.0 mm
+FO|format ouvert : 29.60 x 10.50 cm	format ouvert : 296.0 x 105.0 mm
+FO|format ouvert : 28.00 x 29.70 cm	format ouvert : 280.0 x 297.0 mm
+FO|ft 28 x 22.5 cm ouvert	format ouvert : 280.0 x 225.0 mm
+FO|format ouvert : 28.00 x 14.00 cm	format ouvert : 280.0 x 140.0 mm
+FO|format 28 x 14 cm ouvert	format ouvert : 280.0 x 140.0 mm
+FO|format ouvert : 27.00 x 6.00 cm	format ouvert : 270.0 x 60.0 mm
+FO|ft ouvert : 27 x 14.5 cm	format ouvert : 270.0 x 145.0 mm
+FO|format ouvert 27 x 11.4 cm	format ouvert : 270.0 x 114.0 mm
+FO|ouvert : 25 x 5.5 cm	format ouvert : 250.0 x 55.0 mm
+FO|format ouvert : 25.00 x 5.50 cm	format ouvert : 250.0 x 55.0 mm
+FO|format ouvert : 24.00 x 21.00 cm	format ouvert : 240.0 x 210.0 mm
+FO|format ouvert : 23.50 x 21.50 cm	format ouvert : 235.0 x 215.0 mm
+FO|format ouvert : 23.50 x 21.00 cm	format ouvert : 235.0 x 210.0 mm
+FO|format ouvert : 23.10 x 16.40 cm	format ouvert : 231.0 x 164.0 mm
+FO|format ouvert : 23.00 x 21.50 cm	format ouvert : 230.0 x 215.0 mm
+FO|format ouvert : 22.50 x 46.00 cm	format ouvert : 225.0 x 460.0 mm
+FO|format a plat 225 x 210 mm	format ouvert : 225.0 x 210.0 mm
+FO|format ouvert : 22.50 x 21.00 cm	format ouvert : 225.0 x 210.0 mm
+FO|ft ouvert 220 x 150 cm	format ouvert : 2200.0 x 1500.0 mm
+FO|ft : 22 x 44.8 cm ouvert	format ouvert : 220.0 x 448.0 mm
+FO|format ouvert : 22.00 x 20.60 cm	format ouvert : 220.0 x 206.0 mm
+FO|format ouvert : 21,5 x 43,5 cm	format ouvert : 215.0 x 435.0 mm
+FO|format ouvert : 21.00 x 61.20 cm	format ouvert : 210.0 x 612.0 mm
+FO|format ouvert 210 x 450 mm	format ouvert : 210.0 x 450.0 mm
+FO|format ouvert : 21*29,7 cm	format ouvert : 210.0 x 297.0 mm
+FO|format ouvert : 21.00 x 29.70 cm	format ouvert : 210.0 x 297.0 mm
+FO|format a4 ouvert	format ouvert : 210.0 x 297.0 mm
+FO|format ouvert : 21 x 29.70 cm	format ouvert : 210.0 x 297.0 mm
+FO|format ouvert a4	format ouvert : 210.0 x 297.0 mm
+FO|format ouvert : 21.00 x 29.7 cm	format ouvert : 210.0 x 297.0 mm
+FO|format ouvert : 210 x 297 mm	format ouvert : 210.0 x 297.0 mm
+FO|format ouvert 21 x 29.7 cm	format ouvert : 210.0 x 297.0 mm
+FO|format ouvert : 21 x 29.7 cm	format ouvert : 210.0 x 297.0 mm
+FO|format ouvert : 210 x 297 mm	format ouvert : 210.0 x 297.0 mm
+FO|ouvert a4	format ouvert : 210.0 x 297.0 mm
+FO|format ouvert : 21.00 x 21.00 cm	format ouvert : 210.0 x 210.0 mm
+FO|format ouvert : 21.00 x 15.00 cm	format ouvert : 210.0 x 150.0 mm
+FO|format ouvert : 210.0 x 148.5 mm	format ouvert : 210.0 x 148.5 mm
+FO|format ouvert : 21 x 12 cm	format ouvert : 210.0 x 120.0 mm
+FO|format ouvert : 21.00 x 10.00 cm	format ouvert : 210.0 x 100.0 mm
+FO|format ouvert : 200 x 210 mm	format ouvert : 200.0 x 210.0 mm
+FO|format ouvert : 20.00 x 21.00 cm	format ouvert : 200.0 x 210.0 mm
+FO|ft ouvert : 20 x 21 cm	format ouvert : 200.0 x 210.0 mm
+FO|format ouvert : 20.00 x 20.00 cm	format ouvert : 200.0 x 200.0 mm
+FO|format ouvert : 20.00 x 15.00 cm	format ouvert : 200.0 x 150.0 mm
+FO|format ouvert : 20.00 x 13.43 cm	format ouvert : 200.0 x 134.3 mm
+FO|ft developpe de la couverture : 18.6 x 14.8 cm	format ouvert : 186.0 x 148.0 mm
+FO|format ouvert : 18.00 x 42.00 cm	format ouvert : 180.0 x 420.0 mm
+FO|format ouvert : 18.00 x 30.00 cm	format ouvert : 180.0 x 300.0 mm
+FO|format ouvert : 18.00 x 20.00 cm	format ouvert : 180.0 x 200.0 mm
+FO|format ouvert : 18.00 x 18.00 cm	format ouvert : 180.0 x 180.0 mm
+FO|ouvert : 18 x 16 cm	format ouvert : 180.0 x 160.0 mm
+FO|format ouvert : 18 x 14.00 cm	format ouvert : 180.0 x 140.0 mm
+FO|format ouvert : 18.00 x 12.00 cm	format ouvert : 180.0 x 120.0 mm
+FO|format ouvert : 17.00 x 5.50 cm	format ouvert : 170.0 x 55.0 mm
+FO|format ouvert : 16.00 x 12.00 cm	format ouvert : 160.0 x 120.0 mm
+FO|format ouvert : 14.80 x 42.50 cm	format ouvert : 148.0 x 425.0 mm
+FO|format ouvert : 14.80 x 21.00 cm	format ouvert : 148.0 x 210.0 mm
+FO|ouvert 14 x 28 cm	format ouvert : 140.0 x 280.0 mm
+FO|format ouvert : 14 x 15.00 cm	format ouvert : 140.0 x 150.0 mm
+FO|format ouvert : 14.00 x 10.50 cm	format ouvert : 140.0 x 105.0 mm
+FO|format ouvert : 12.00 x 17.50 cm	format ouvert : 120.0 x 175.0 mm
+FO|format ouvert : 11.80 x 27.60 cm	format ouvert : 118.0 x 276.0 mm
+FO|ft a plat : 11 x 24.2 cm	format ouvert : 110.0 x 242.0 mm
+FO|format ouvert : 10,5 x 14 cm	format ouvert : 105.0 x 140.0 mm
+FO|10 x 42 cm ouvert	format ouvert : 100.0 x 420.0 mm
+FO|format environ : 5 cm de large x 6 cm de haut	format fini : 50.0 x 60.0 mm
+FO|ouvert : 21 cm x 21 cm	format ouvert : 210.0 x 210.0 mm
+FO|format 6.3 x 8.8	format fini : 63.0 x 88.0 mm
+FO|format 120 x 80	format fini : 1200.0 x 800.0 mm
+FO|format ouvert 29.7 x 21	format ouvert : 297.0 x 210.0 mm
+FO|format 8.5 x 5.5	format fini : 85.0 x 55.0 mm
+FO|o 7.5 cm	format : diametre 75.0 mm
+FO|format plie 118 x 148 mn	format fini : 118.0 x 148.0 mm
+FO|5.4 x 8.5	format fini : 54.0 x 85.0 mm
+FO|format 40/40 mm	format fini : 40.0 x 40.0 mm
+FO|format a4 blanc	format fini : 210.0 x 297.0 mm
+FO|format ferme 21 x 29.7	format fini : 210.0 x 297.0 mm
+FO|900x200	format fini : 900.0 x 200.0 mm
+FO|dimensions : 2 m de large 1.50 m de haut	format fini : 2000.0 x 1500.0 mm
+FO|format 148 x 118 format	format fini : 148.0 x 118.0 mm
+FO|format 67.7 x 92.5	format fini : 677.0 x 925.0 mm
+FO|format ouvert : 42*29,7	format ouvert : 420.0 x 297.0 mm
+FO|22.9 x 32.4	format fini : 229.0 x 324.0 mm
+FO|a5	format fini : 148.0 x 210.0 mm
+FO|format 15.2x22	format fini : 152.0 x 220.0 mm
+FO|format fini : l.155 x h.290 mm	format fini : 155.0 x 290.0 mm
+FO|2000 x 1000	format fini : 2000.0 x 1000.0 mm
+FO|dim : 10cm x 5 cm	format fini : 100.0 x 50.0 mm
+FO|format 28 x 88	format fini : 280.0 x 880.0 mm
+FO|plie 10x21	format fini : 100.0 x 210.0 mm
+FO|2,50m en longueur/0.80m en hauteur	format fini : 2500.0 x 800.0 mm
+FO|format fini : 90 x 50 mn	format fini : 90.0 x 50.0 mm
+FO|ft : 10.5 15 cm	format fini : 105.0 x 150.0 mm
+FO|format l175 mm x h148 mm	format fini : 175.0 x 148.0 mm
+FO|ft 7 x 1.5	format fini : 70.0 x 15.0 mm
+FO|80x80	format fini : 800.0 x 800.0 mm
+FO|ouvertes : 495x210	format ouvert : 495.0 x 210.0 mm
+FO|diametre 10 cm	format : diametre 100.0 mm
+FO|21cm / 14,8cm	format fini : 210.0 x 148.0 mm
+FO|format 162*229	format fini : 162.0 x 229.0 mm
+FO|ft fini 210x150	format fini : 210.0 x 150.0 mm
+FO|ouvertes : 420x297	format ouvert : 420.0 x 297.0 mm
+FO|ft 120 x 50	format fini : 1200.0 x 500.0 mm
+FO|format 100 x 100	format fini : 100.0 x 100.0 mm
+FO|dimensions mm : 148x210	format fini : 148.0 x 210.0 mm
+FO|format ouvert 21 x 29.7	format ouvert : 210.0 x 297.0 mm
+FO|diam. 5 cm	format : diametre 50.0 mm
+FO|format 60 x 80	format fini : 600.0 x 800.0 mm
+FO|format 150/150 mm	format fini : 150.0 x 150.0 mm
+FO|format fini : 21*29,7	format fini : 210.0 x 297.0 mm
+FO|ferme 120 x 180 mn	format fini : 120.0 x 180.0 mm
+FO|a5	format fini : 148.0 x 210.0 mm
+FO|15x21	format fini : 150.0 x 210.0 mm
+FO|ft : 7 x 16 5 cm	format fini : 70.0 x 165.0 mm
+FO|format ferme : 20 x 28,5 *	format fini : 200.0 x 285.0 mm
+FO|format deplie 420 x 594	format ouvert : 420.0 x 594.0 mm
+FO|diametre 20 cm	format : diametre 20.0 mm
+FO|format 42 x 30	format fini : 420.0 x 300.0 mm
+FO|0.45x0.03m	format fini : 450.0 x 30.0 mm
+FO|format : 22.90 x 32.40,	format fini : 290.0 x 324.0 mm
+FO|a5 ferme	format fini : 148.0 x 210.0 mm
+FO|ft 22 x 35 x 13 fini	
+FO|dl sans fenetre	format fini : 99.0 x 210.0 mm
+FO|ff : 21 x 29.7	format fini : 210.0 x 297.0 mm
+FO|dimension apres decoupe : 24x15x4	
+FO|1750 x x h 2040 en mm	format fini : 1750.0 x 2040.0 mm
+FO|c5 avec fenetre	format fini : 162.0 x 229.0 mm
+FO|plie 210 x 297	format fini : 210.0 x 297.0 mm
+FO|format 520 x 720	format fini : 520.0 x 720.0 mm
+FO|ft ouvert : 60 cm x 20 cm	format ouvert : 600.0 x 200.0 mm
+FO|format 70.00 x 100.00,	format fini : 700.0 x 1000.0 mm
+FO|a4 ferme	format fini : 210.0 x 297.0 mm
+FO|dimensions mm : fermees : 150x210	format fini : 150.0 x 210.0 mm
+FO|a3	format fini : 297.0 x 420.0 mm
+FO|dimensions mm : fermees : 220x305	format fini : 220.0 x 305.0 mm
+FO|70cm * 100cm	format fini : 700.0 x 1000.0 mm
+FO|diametre 15 cm	format : diametre 150.0 mm
+FO|l105xh297mm	format fini : 105.0 x 297.0 mm
+FO|format 40 x 30	format fini : 400.0 x 300.0 mm
+FO|a4	format fini : 210.0 x 297.0 mm
+FO|a6	format fini : 105.0 x 148.0 mm
+FO|800*600	format fini : 800.0 x 600.0 mm
+FO|ouvert 360 x 480	format ouvert : 360.0 x 480.0 mm
+FO|dimensions mm : fermees : 198/198/99x210	format fini : 198.0 x 210.0 mm
+FO|5.5 x 8.5	format fini : 55.0 x 85.0 mm
+FO|dimensions mm : fermees : 210x297	format fini : 210.0 x 297.0 mm
+FO|diametre 6.7 cm	format : diametre 67.0 mm
+FO|80 x120	format fini : 800.0 x 1200.0 mm
+FO|format ouvert : 43.00 environ x 29.70 cm	format ouvert : 430.0 x 297.0 mm
+FO|format 146 x 218	format fini : 146.0 x 218.0 mm
+FO|l. 48x h. 13 cm	format fini : 480.0 x 130.0 mm
+FO|format fini : 0 x 0 mm	
+FO|60 x 100	format fini : 600.0 x 1000.0 mm
+FO|format ferme 21 x 29.7	format fini : 210.0 x 297.0 mm
+FO|format fini : diametre 7.5 cm	format : diametre 75.0 mm
+FO|format : 76 x h 115 cm	format fini : 760.0 x 1150.0 mm
+FO|format 72.00 x 102.00,	format fini : 720.0 x 1020.0 mm
+FO|17cm*11 cm ouvert	format ouvert : 170.0 x 110.0 mm
+FO|format 10 x 21 fini	format fini : 100.0 x 210.0 mm
+FO|format 320x685	format fini : 320.0 x 685.0 mm
+FO|format a litalienne	
+FO|format 120 x 180 mn	format fini : 120.0 x 180.0 mm
+FO|format 250x35 mn	format fini : 250.0 x 35.0 mm
+FO|42 cm l ; 12 cm h en format ouvert	format ouvert : 420.0 x 120.0 mm
+FO|2 x 1 m	format fini : 2000.0 x 1000.0 mm
+FO|120 x 176	format fini : 1200.0 x 1760.0 mm
+FO|dimensions mm : 210x297	format fini : 210.0 x 297.0 mm
+FO|format 17 x 17 impression	format fini : 170.0 x 170.0 mm
+FO|ferme 10.5 x 7.5	format fini : 105.0 x 75.0 mm
+FO|hauteur 94.9cm*largeur 32cm	format fini : 949.0 x 320.0 mm
+FO|format : 11.40 x 22.90,	format fini : 114.0 x 229.0 mm
+FO|ouvertes : 297x210	format ouvert : 297.0 x 210.0 mm
+FO|21x29.7 fini	format fini : 210.0 x 297.0 mm
+FO|20 cm de diametre	format : diametre 20.0 mm
+FO|format ferme 16.4 x 16.4	format fini : 164.0 x 164.0 mm
+FO|a4 a la francaise	format fini : 210.0 x 297.0 mm
+FO|14.85cmx21cm	format fini : 148.5 x 210.0 mm
+FO|ormat ouvert 29.7 x 21	format ouvert : 297.0 x 210.0 mm
+FO|format 170 mm de haut x 55 mm	format fini : 170.0 x 55.0 mm
+FO|livres	
+FO|ft 18.8 x 18.8	format fini : 188.0 x 188.0 mm
+FO|format : rond 15 cm x 15 cm	format : diametre 150.0 mm
+FO|format : 27.6 x 11.2	format fini : 276.0 x 112.0 mm
+FO|dimension apres decoupe : 24x15x3	
+FO|a0	format fini : 841.0 x 1189.0 mm
+FO|format : 21 x 29.7	format fini : 210.0 x 297.0 mm
+FO|format 80 x 60	format fini : 800.0 x 600.0 mm
+FO|ft 138*56	format fini : 138.0 x 56.0 mm
+FO|ouvertes : 643x302	format ouvert : 643.0 x 302.0 mm
+FO|o4 cm	format : diametre 40.0 mm
+FO|format ferme : 150 x 150 m	format fini : 150.0 x 150.0 mm
+FO|format fini 200/300 mm	format fini : 200.0 x 300.0 mm
+FO|600*800	format fini : 600.0 x 800.0 mm
+FO|ouvertes : 300x210	format ouvert : 300.0 x 210.0 mm
+FO|format : 0.8 x 2 m	format fini : 800.0 x 2000.0 mm
+FO|format 22 x 67 quantite	format fini : 220.0 x 670.0 mm
+FO|format a4	format fini : 210.0 x 297.0 mm
+FO|dimensions mm : fermees : 170/170/85x185	format fini : 170.0 x 185.0 mm
+FO|format ouvert : l.442 x h 210 mm	format ouvert : 442.0 x 210.0 mm
+FO|ft 160 x 60	format fini : 1600.0 x 600.0 mm
+FO|8.5 x 5.5 /	format fini : 85.0 x 55.0 mm
+FO|format 134 x 218	format fini : 134.0 x 218.0 mm
+FO|162x229	format fini : 162.0 x 229.0 mm
+FO|8.5 x 5.5	format fini : 85.0 x 55.0 mm
+FO|hauteur 2,5 cm x largeur 3,3 cm	format fini : 25.0 x 33.0 mm
+FO|format 160 x 60	format fini : 1600.0 x 600.0 mm
+FO|chemises a rabats forme	
+FO|format 130 x 180	format fini : 130.0 x 180.0 mm
+FO|format 105*212	format fini : 105.0 x 212.0 mm
+FO|format 6.5cm x 4.5cm	format fini : 65.0 x 45.0 mm
+FO|dimensions mm : fermees : 148x210	format fini : 148.0 x 210.0 mm
+FO|18cmx18cm	format fini : 180.0 x 180.0 mm
+FO|hauteur 76cm*largeur 98.3 cm	format fini : 760.0 x 983.0 mm
+FO|ronds 56mn	format : diametre 56.0 mm
+FO|format ouvert 298 x 472 mn	format ouvert : 298.0 x 472.0 mm
+FO|format ferme 14.8 x 21	format fini : 148.0 x 210.0 mm
+FO|a1	format fini : 594.0 x 841.0 mm
+FO|ft 21 x 30 x 10	
+FO|format : 16 cm de diametre	format : diametre 160.0 mm
+FO|format 65.00 x 110.00,	format fini : 650.0 x 1100.0 mm
+FO|format 5.5 x 8.5	format fini : 55.0 x 85.0 mm
+FO|fini 148.5 x 210	format fini : 148.5 x 210.0 mm
+FO|ouvert 30 x 21	format ouvert : 300.0 x 210.0 mm
+FO|format ouvert : 29,7 cm x 42,5 cm	format ouvert : 297.0 x 420.0 mm
+FO|ft : 4 x 1.5 m	format fini : 4000.0 x 1500.0 mm
+FO|format etiquette : 130 mm x 25 mm	format fini : 130.0 x 25.0 mm
+FO|format : a3	format fini : 297.0 x 420.0 mm
+FO|ft fini 20x30	format fini : 200.0 x 300.0 mm
+FO|format 90 x 118 mn	format fini : 90.0 x 118.0 mm
+FO|40*60	format fini : 400.0 x 600.0 mm
+FO|format fini :	
+FO|diametre 2cm	format : diametre 20.0 mm
+FO|format ferme 10.5 x 29.7	format fini : 105.0 x 297.0 mm
+FO|format du fourreau 28 x 21	format fini : 280.0 x 210.0 mm
+FO|format 24 x 34	format fini : 240.0 x 340.0 mm
+FO|fermee : l 10,5x h7 cm	format fini : 105.0 x 70.0 mm
+FO|ft 31 x 22 x 10	
+FO|21 x 15	format fini : 210.0 x 150.0 mm
+FO|format paravent 12x 240	format fini : 120.0 x 2400.0 mm
+FO|plie : 13x18	format fini : 130.0 x 180.0 mm
+FO|format ferme : l 10,5x h7 cm	format fini : 105.0 x 70.0 mm
+FO|ft :1.80 x 1 m	format fini : 1800.0 x 1000.0 mm
+FO|format ouvert 42 x 29.7	format ouvert : 420.0 x 297.0 mm
+FO|format plie	
+FO|format ferme 21 x 29,7	format fini : 210.0 x 297.0 mm
+FO|format 70 x 15	format fini : 700.0 x 150.0 mm
+FO|format : rond 12 cm x 12 cm	format : diametre 120.0 mm
+FO|format ferme 20 x 20	format fini : 200.0 x 200.0 mm
+FO|format fini a5	format fini : 148.0 x 210.0 mm
+FO|40 x 60	format fini : 400.0 x 600.0 mm
+FO|l15xh20 cm	format fini : 150.0 x 200.0 mm
+FO|plie vertical : 100 mm x 210 mm	format fini : 100.0 x 210.0 mm
+FO|hauteur 95cm * 66.5 cm	format fini : 950.0 x 665.0 mm
+FO|920x550	format fini : 920.0 x 550.0 mm
+FO|format ouvert 42 x 29.7	format ouvert : 420.0 x 297.0 mm
+FO|150 cm de diametre	format : diametre 1500.0 mm
+FO|ft 21 x 23 de	format fini : 210.0 x 230.0 mm
+FO|21x12 en format ferme	format fini : 210.0 x 120.0 mm
+FO|format fini a4	format fini : 210.0 x 297.0 mm
+FO|dimension 2m par 70cm	format fini : 2000.0 x 700.0 mm
+FO|a4	format fini : 210.0 x 297.0 mm
+FO|format 400/600,	format fini : 400.0 x 600.0 mm
+FO|format fini	
+FO|format 18 x 61	format fini : 180.0 x 610.0 mm
+FO|ft : a5	format fini : 148.0 x 210.0 mm
+FO|format ouvert : 0 x 0 mm	
+FO|45 x 100	format fini : 450.0 x 1000.0 mm
+FO|dimensions mm : 400x600	format fini : 400.0 x 600.0 mm
+FO|120 x 50	format fini : 1200.0 x 500.0 mm
+FO|format 21 x 30	format fini : 210.0 x 300.0 mm
+FO|a4 avec fenetre	format fini : 210.0 x 297.0 mm
+FO|format 120 x 176	format fini : 1200.0 x 1760.0 mm
+FO|ouvert 15 x 21	format ouvert : 150.0 x 210.0 mm
+FO|format fini : 24 x 12	format fini : 240.0 x 120.0 mm
+FO|ft 60 x 40	format fini : 600.0 x 400.0 mm
+FO|20x20	format fini : 200.0 x 200.0 mm
+FO|8 x 14	format fini : 80.0 x 140.0 mm
+FO|dimension 100*40	format fini : 1000.0 x 400.0 mm
+FO|ft : 0.85 x 2 m	format fini : 850.0 x 2000.0 mm
+FO|8.5 x 5.5,	format fini : 85.0 x 55.0 mm
+FO|format 8x21	format fini : 80.0 x 210.0 mm
+FO|110 x 220	format fini : 110.0 x 220.0 mm
+FO|40x60	format fini : 400.0 x 600.0 mm
+FO|14.8 x 21	format fini : 148.0 x 210.0 mm
+FO|a5 format ferme	format fini : 148.0 x 210.0 mm
+FO|format ouvert : 594 mm x 210 mm	format ouvert : 594.0 x 210.0 mm
+FO|format fini l 145 x h290 mm	format fini : 145.0 x 290.0 mm
+FO|chemises a rabats	
+FO|a4 plie	format fini : 210.0 x 297.0 mm
+FO|format 120 x 50	format fini : 1200.0 x 500.0 mm
+FO|format 121 x 120 mn	format fini : 121.0 x 120.0 mm
+FO|23x12	format fini : 230.0 x 120.0 mm
+FO|format 29.7x42 ouvert	format ouvert : 297.0 x 420.0 mm
+FO|9.9 x 21	format fini : 99.0 x 210.0 mm
+FO|14.85cmx21cm	format fini : 148.5 x 210.0 mm
+FO|format 50 x 35	format fini : 500.0 x 350.0 mm
+FO|format ferme : 297 mm x 210 mm	format fini : 297.0 x 210.0 mm
+FO|format ouvert : 32cmx16cm	format ouvert : 320.0 x 160.0 mm
+FO|210 x 297	format fini : 210.0 x 297.0 mm
+FO|format : 11.00 x 22.00,	format fini : 110.0 x 220.0 mm
+FO|540 mm x 180 mm	format fini : 540.0 x 180.0 mm
+FO|85/55	format fini : 85.0 x 55.0 mm
+FO|ft ouvert : 346 x210	format ouvert : 346.0 x 210.0 mm
+FO|ft 5.5 x 8.5 + 1.5 x 5.3	
+FO|format 95x35 mn	format fini : 95.0 x 35.0 mm
+FO|100x100x150	
+FO|format fini : hauteur 1,8 cm et longueur 16 cm	format fini : 18.0 x 160.0 mm
+FO|ferme : a4	format fini : 210.0 x 297.0 mm
+FO|21x10	format fini : 210.0 x 100.0 mm
+FO|a3 ouvert	format ouvert : 297.0 x 420.0 mm
+FO|format : 16.20 x 22.90,	format fini : 162.0 x 229.0 mm
+FO|format 50 x 15	format fini : 500.0 x 150.0 mm
+FO|84.1 x 118.9	format fini : 841.0 x 1189.0 mm
+FO|14.8 x 10.8	format fini : 148.0 x 108.0 mm
+FO|l. 32 x h. 13 cm	format fini : 320.0 x 130.0 mm
+FO|dimensions : h 800 mm x l. 1 000 mm	format fini : 800.0 x 1000.0 mm
+FO|8,5 cm x 5,4 cm	format fini : 85.0 x 54.0 mm
+FO|diametre 60mm	format : diametre 60.0 mm
+FO|format 18,5 x 65	format fini : 185.0 x 650.0 mm
+FO|44 x 21 ouvert	format ouvert : 440.0 x 210.0 mm
+FO|10x16	format fini : 100.0 x 160.0 mm
+FO|fini 99 x 210	format fini : 99.0 x 210.0 mm
+FO|format 50 x 60	format fini : 500.0 x 600.0 mm
+FO|ft fini 148x210	format fini : 148.0 x 210.0 mm
+FO|4 cm de diametre	format : diametre 40.0 mm
+FO|format ouvert 489 x 345	format ouvert : 489.0 x 345.0 mm
+FO|format fini : 210 x 297 format	format fini : 210.0 x 297.0 mm
+FO|dimensions mm : fermees : 215/215/213x302	format fini : 215.0 x 302.0 mm
+FO|93*73	format fini : 930.0 x 730.0 mm
+FO|21 x 29.7	format fini : 210.0 x 297.0 mm
+FO|plie vertical : 145 mm x 250 mm	format fini : 145.0 x 250.0 mm
+FO|90 mm x 18 mm ferme	format fini : 90.0 x 18.0 mm
+FO|format ouvert : 40 x 28,5 *	format ouvert : 40.0 x 285.0 mm
+FO|deplie : l 400 mm x h 420 mm	format fini : 400.0 x 420.0 mm
+FO|format ouvert : l.628 x h.297 mm	format ouvert : 628.0 x 297.0 mm
+FO|format a5	format fini : 148.0 x 210.0 mm
+FO|45 cm x 15 cm ouvert	format ouvert : 450.0 x 150.0 mm
+FO|format 22,2 x11.1	format fini : 222.0 x 111.0 mm
+FO|21x29.7	format fini : 210.0 x 297.0 mm
+FO|dimensions mm : 70x200	format fini : 70.0 x 200.0 mm
+FO|110x220	format fini : 110.0 x 220.0 mm
+FO|10cm x 21cm	format fini : 100.0 x 210.0 mm
+FO|29.7 x 42 ouvert	format ouvert : 297.0 x 420.0 mm
+FO|format : diametre 150 mm	format : diametre 150.0 mm
+FO|diametre 3.6 cm	format : diametre 36.0 mm
+FO|format ouvert 40 x 20	format ouvert : 400.0 x 200.0 mm
+FO|format 21cmx10cm	format fini : 210.0 x 100.0 mm
+FO|ft : 3 x 2 m	format fini : 3000.0 x 2000.0 mm
+FO|format fini 21 x 29.7 avec	format fini : 210.0 x 297.0 mm
+FO|80 x 60	format fini : 800.0 x 600.0 mm
+FO|ft fini a5	format fini : 148.0 x 210.0 mm
+FO|a4 sans fenetre	format fini : 210.0 x 297.0 mm
+FO|format fini : 42 x 59.4 ou	format fini : 420.0 x 594.0 mm
+FO|ft : 2.5 sur 8 cm	format fini : 25.0 x 80.0 mm
+FO|dimensions mm : fermees :170/170/85x185	format fini : 170.0 x 185.0 mm
+FO|150 de large x 1040 de haut	format fini : 150.0 x 1040.0 mm
+FO|60 cm x 40 cm	format fini : 600.0 x 400.0 mm
+FO|5 cm de diametre	format : diametre 50.0 mm
+FO|quantite : 3x12000	
+FO|150/210 mm	format fini : 150.0 x 210.0 mm
+FO|format 19,5 x 67	format fini : 195.0 x 670.0 mm
+FO|format fini : diam 15.00 cm	format : diametre 150.0 mm
+FO|diametre : 80 cm	format : diametre 800.0 mm
+FO|105*150	format fini : 105.0 x 150.0 mm
+FO|disque diametre 10	format : diametre 100.0 mm
+FO|fini : 21 cm x 10,5 cm	format fini : 210.0 x 105.0 mm
+FO|ft a5	format fini : 148.0 x 210.0 mm
+FO|format a4 portrait	format fini : 210.0 x 297.0 mm
+FO|format 50 x 20	format fini : 500.0 x 200.0 mm
+FO|dos de 25 mm	
+FO|format ouvert : l.420 x h.297 mm	format ouvert : 420.0 x 297.0 mm
+FO|format 22,7 x 32	format fini : 227.0 x 320.0 mm
+FO|autocopiants	
+FO|ouvertes : 510x370	format ouvert : 510.0 x 370.0 mm
+FO|a3 plie	format fini : 297.0 x 420.0 mm
+FO|format 50 cm x 70 cm	format fini : 500.0 x 700.0 mm
+FO|format paysage de 21cm de long pour 10,5 cm de haut	format fini : 210.0 x 105.0 mm
+FO|15cm x 15cm	format fini : 150.0 x 150.0 mm
+FO|10.5 x 15 ouvert	format ouvert : 105.0 x 150.0 mm
+FO|dimensions mm : fermees : 170/85/85/85/85x185	format fini : 170.0 x 185.0 mm
+FO|b5	format fini : 176.0 x 250.0 mm
+FO|diam. 3 cm	format : diametre 30.0 mm
+FO|8.5 x 5.5	format fini : 85.0 x 55.0 mm
+FO|dos de 41mm	
+FO|ferme 11 8 x 148	format fini : 118.0 x 148.0 mm
+FO|format ferme 16.5 x 16.5	format fini : 165.0 x 165.0 mm
+FO|220 x 310	format fini : 220.0 x 310.0 mm
+FO|ft ferme : 15 x 20	format fini : 150.0 x 200.0 mm
+FO|ft 25 x 15 x 10 pour	
+FO|format 300 x 300 mn	format fini : 300.0 x 300.0 mm
+FO|ft 100 x 25	format fini : 1000.0 x 250.0 mm
+FO|dimensions : a etudier - 2 m large x 1.5 m haut	format fini : 2000.0 x 1500.0 mm
+FO|650 de large x 1040 de haut	format fini : 650.0 x 1040.0 mm
+FO|forme : rond diametre 3 cm	format : diametre 30.0 mm
+FO|format 121 x 120	format fini : 121.0 x 120.0 mm
+FO|ouvertes : 510x185	format ouvert : 510.0 x 185.0 mm
+FO|ft 25 x 15 x	
+FO|ft a4	format fini : 210.0 x 297.0 mm
+FO|justifs	
+FO|1050 larg x 1500 haut mm	format fini : 1050.0 x 1500.0 mm
+FO|format ferme 28 x 21	format fini : 280.0 x 210.0 mm
+FO|format : 600 mm x 900 mm	format fini : 600.0 x 900.0 mm
+FO|ft :	
+FO|format 183 x 183 mn	format fini : 183.0 x 183.0 mm
+FO|format 10 x 25	format fini : 100.0 x 250.0 mm
+FO|fo : 63 x 29.7	format ouvert : 630.0 x 297.0 mm
+FO|15 x 30	format fini : 150.0 x 300.0 mm
+FO|80x120	format fini : 800.0 x 1200.0 mm
+FO|21x21	format fini : 210.0 x 210.0 mm
+FO|ft fini 20x20	format fini : 200.0 x 200.0 mm
+FO|format : 16.20 x 22.90	format fini : 162.0 x 229.0 mm
+FO|445 x 210	format fini : 445.0 x 210.0 mm
+FO|format 40/22 mm	format fini : 40.0 x 22.0 mm
+FO|chemise a rabats	
+FO|270x310 mm	format fini : 270.0 x 310.0 mm
+FO|format 120 x 80 impression	format fini : 1200.0 x 80.0 mm
+FO|39 x 39 m	format fini : 390.0 x 390.0 mm
+FO|format 80 x 120	format fini : 800.0 x 1200.0 mm
+FO|format ouvert : l.310 x h.290 mm	format ouvert : 310.0 x 290.0 mm
+FO|29.7 cm x 15.7 cm	format fini : 297.0 x 157.0 mm
+FO|diametre 9,2 cm	format : diametre 92.0 mm
+FO|ouvert : 420 x 297	format ouvert : 420.0 x 297.0 mm
+FO|145 mm x 60 mm	format fini : 145.0 x 600.0 mm
+FO|ouvertes : 425x185	format ouvert : 425.0 x 185.0 mm
+FO|format 30 x 20	format fini : 300.0 x 200.0 mm
+FO|format : 25 cm x 8 cm	format fini : 250.0 x 80.0 mm
+FO|21.8 cm x 10.8 cm	format fini : 218.0 x 108.0 mm
+FO|format :	
+FO|format : 11.00 x 22.00	format fini : 110.0 x 220.0 mm
+FO|taille de 50cmx50cm	format fini : 500.0 x 500.0 mm
+FO|format 6 x 20	format fini : 60.0 x 200.0 mm
+FO|environ 55 x 200	format fini : 55.0 x 200.0 mm
+FO|format fini 21 x 29.7	format fini : 210.0 x 297.0 mm
+FO|ft fini de la chemise a 152 au	
+FO|format est 16 *16	format fini : 160.0 x 160.0 mm
+FO|format 40x60	format fini : 400.0 x 600.0 mm
+FO|ormat fini 50 x 70	format fini : 500.0 x 700.0 mm
+FO|format a4	format fini : 210.0 x 297.0 mm
+FO|format 14.8x21	format fini : 148.0 x 210.0 mm
+FO|ft 10x15	format fini : 100.0 x 150.0 mm
+FO|format 70.00 x 102.00,	format fini : 700.0 x 1020.0 mm
+FO|format ferme 21.5 x 31	format fini : 215.0 x 310.0 mm
+FO|dimensions mm : fermees : 200x300	format fini : 200.0 x 300.0 mm
+FO|format : 115 mm x 175 mm	format fini : 115.0 x 175.0 mm
+FO|ft fini 40x30 a litalienne	format fini : 400.0 x 300.0 mm
+FO|15 x 21 - cm	format fini : 150.0 x 210.0 mm
+FO|format a4 paysage	format fini : 297.0 x 210.0 mm
+FO|format a3	format fini : 297.0 x 420.0 mm
+FO|3.5cm de largeur sur 2cm de hauteur	format fini : 35.0 x 20.0 mm
+FO|42x10 plie	format fini : 420.0 x 100.0 mm
+FO|format : voir le format dans le	
+FO|livre	
+FO|110 x 220 avec	format fini : 110.0 x 220.0 mm
+FO|format 10/15 cm	format fini : 100.0 x 150.0 mm
+FO|14.8*14.8	format fini : 148.0 x 148.0 mm
+FO|format : 8.5cm*11 cm plie	format fini : 85.0 x 110.0 mm
+FO|ft 12 x 30 x 44 fini	
+FO|format 210/297 mm	format fini : 210.0 x 297.0 mm
+FO|format paysage	
+FO|c5 sans fenetre	format fini : 229.0 x 162.0 mm
+FO|5 x 5 et	format fini : 50.0 x 50.0 mm
+FO|120 x 80	format fini : 1200.0 x 800.0 mm
+FO|42mmx24mm	format fini : 42.0 x 24.0 mm
+FO|format ouvert : 31.00 environ x 21 cm	format ouvert : 310.0 x 210.0 mm
+FO|dimensions mm : fermees : 170/85/85/85x185	format fini : 170.0 x 185.0 mm
+FO|ft 21x29,7/42x29,7	format fini : 210.0 x 297.0 mm, format ouvert : 420.0 x 297.0 mm
+FO|format 20 x 62,5	format fini : 200.0 x 625.0 mm
+FO|diametre 4 cm	format : diametre 40.0 mm
+FO|ft ouvert 420x150	format ouvert : 420.0 x 150.0 mm
+FO|30 cm de diametre	format : diametre 300.0 mm
+FO|ouvertes : 400x600	format ouvert : 400.0 x 600.0 mm
+FO|ouvert : 26x18	format ouvert : 260.0 x 180.0 mm
+FO|ferme : 10.5 x 15	format fini : 105.0 x 150.0 mm
+FO|format en mm, l 300 x h 420	format fini : 300.0 x 420.0 mm
+FO|21 x 29.7	format fini : 210.0 x 297.0 mm
+FO|a2	format fini : 594.0 x 420.0 mm
+FO|format 182 x 110	format fini : 182.0 x 110.0 mm
+FO|ft fini 16x16	format fini : 160.0 x 160.0 mm
+FO|chemise a imprimer	
+FO|21 x 29,7 ferme	format fini : 210.0 x 297.0 mm
+FO|a3	format fini : 297.0 x 420.0 mm
+FO|format ferme 215 x 310	format fini : 215.0 x 310.0 mm
+FO|format ouvert. : 42,25*29,7	format ouvert : 422.5 x 297.0 mm
+FO|fta4	format fini : 210.0 x 297.0 mm
+FO|720x1020	format fini : 720.0 x 1020.0 mm
