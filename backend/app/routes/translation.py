@@ -9,7 +9,7 @@ import app.crud.translation as crud
 from app.schemas.translation import TranslationInSchema, TranslationOutSchema
 from app.schemas.status import Status
 
-# from app.database.models import UserDB
+from app.database.models import UserDB
 from app.services.users import current_active_user
 
 router = APIRouter()

@@ -1,0 +1,10 @@
+.gitignore
+.git
+models
+
+# backend dataset & models dir
+backend/datas/*
+
+# db migrations schema
+backend/migrations
+postgres_data/
